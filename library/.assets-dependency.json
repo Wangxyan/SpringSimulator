@@ -1,0 +1,66 @@
+{
+  "path": {
+    "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Res\\Shade\\Effect\\builtin-sprite.effect": [
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\common\\common-define.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\internal\\embedded-alpha.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\internal\\alpha-test.chunk",
+      "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\chunks\\sprite-vs.chunk",
+      "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\chunks\\common\\common-define.chunk",
+      "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\chunks\\sprite-fs.chunk",
+      "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\chunks\\builtin\\internal\\embedded-alpha.chunk",
+      "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\chunks\\builtin\\internal\\alpha-test.chunk"
+    ],
+    "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Res\\Shade\\Effect\\monsterEff.effect": [
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-vs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\sprite-fs.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\internal\\embedded-alpha.chunk",
+      "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\chunks\\builtin\\internal\\alpha-test.chunk",
+      "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\chunks\\sprite-vs.chunk",
+      "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\chunks\\builtin\\uniforms\\cc-global.chunk",
+      "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\chunks\\builtin\\uniforms\\cc-local.chunk",
+      "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\chunks\\sprite-fs.chunk",
+      "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\chunks\\builtin\\internal\\embedded-alpha.chunk",
+      "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\chunks\\builtin\\internal\\alpha-test.chunk"
+    ],
+    "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\resources\\Spine\\Effect\\chonguhecheng_tex.json": [
+      "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\resources\\Spine\\Effect\\chonguhecheng_tex.png"
+    ],
+    "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Res\\Font\\JiangChengYuanTi-700W.fnt": [
+      "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Res\\Font\\JiangChengYuanTi-700W.png"
+    ],
+    "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Res\\Font\\numFont1.fnt": [
+      "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Res\\Font\\numFont1_0.png"
+    ],
+    "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\resources\\Spine\\Effect\\MonsterBlast_1.json": [
+      "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\resources\\Spine\\Effect\\MonsterBlast_1.atlas"
+    ],
+    "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\resources\\Spine\\Hero\\General_101.json": [
+      "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\resources\\Spine\\Hero\\General_101.atlas"
+    ],
+    "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\resources\\Spine\\Popup\\skeleton.json": [
+      "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\resources\\Spine\\Popup\\skeleton.atlas"
+    ]
+  },
+  "uuid": {
+    "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Res\\Shade\\Materail\\monsterEff.mtl": [
+      "787ddfba-5b79-49d1-90b9-c941fe7fce5f"
+    ],
+    "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\resources\\Spine\\Effect\\MonsterBlast_1.json": [
+      "e05a8afc-b760-466b-a181-48b8ea90f573@6c48a"
+    ],
+    "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\resources\\Spine\\Hero\\General_101.json": [
+      "a6c5b89c-4f14-4ea7-8006-ef89668cd9a2@6c48a"
+    ],
+    "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\resources\\Spine\\Popup\\skeleton.json": [
+      "79e9e771-29b9-4e83-8857-7aca46d1c144@6c48a"
+    ]
+  }
+}

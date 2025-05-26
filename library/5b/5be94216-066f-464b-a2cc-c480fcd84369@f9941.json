@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bag",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 417,
+      "height": 408
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 417,
+      "height": 408
+    },
+    "rotated": false,
+    "capInsets": [
+      86,
+      81,
+      113,
+      119
+    ],
+    "vertices": {
+      "rawPosition": [
+        -208.5,
+        -204,
+        0,
+        208.5,
+        -204,
+        0,
+        -208.5,
+        204,
+        0,
+        208.5,
+        204,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        408,
+        417,
+        408,
+        0,
+        0,
+        417,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -208.5,
+        "y": -204,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 208.5,
+        "y": 204,
+        "z": 0
+      }
+    },
+    "texture": "5be94216-066f-464b-a2cc-c480fcd84369@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

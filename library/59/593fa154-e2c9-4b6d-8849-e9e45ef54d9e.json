@@ -1,0 +1,48 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "SkillTarget",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "json": [
+    {
+      "Id": 1,
+      "type": [
+        8
+      ],
+      "stress": 50,
+      "random": "5:1",
+      "targetCamp": 2,
+      "targetHp": [],
+      "targetStatus": [],
+      "condition": [],
+      "notargetStatus": []
+    },
+    {
+      "Id": 40,
+      "type": [
+        1
+      ],
+      "stress": 50,
+      "random": "5:1",
+      "targetCamp": 2,
+      "targetHp": [],
+      "targetStatus": [],
+      "condition": [],
+      "notargetStatus": []
+    },
+    {
+      "Id": 41,
+      "type": [
+        2
+      ],
+      "stress": 50,
+      "random": "10:1",
+      "targetCamp": 2,
+      "targetHp": [],
+      "targetStatus": [],
+      "condition": [],
+      "notargetStatus": []
+    }
+  ]
+}

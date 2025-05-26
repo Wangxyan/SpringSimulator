@@ -1,0 +1,4033 @@
+{
+  "48707b4a-f720-4455-8d64-365c73594654": {
+    "url": "db://assets/Res",
+    "value": {},
+    "versionCode": 1
+  },
+  "70644437-7a88-404d-ad45-64edb60478f8": {
+    "url": "db://assets/resources",
+    "value": {},
+    "versionCode": 1
+  },
+  "083d22a8-260a-42b9-bbe1-b9fa687da934": {
+    "url": "db://assets/Scenes",
+    "value": {},
+    "versionCode": 1
+  },
+  "e2c73692-cd87-489c-bda6-a435474adbb6": {
+    "url": "db://assets/Scripts",
+    "value": {},
+    "versionCode": 1
+  },
+  "7adb2e5b-326a-4b2e-951b-7b1dd63ac647": {
+    "url": "db://assets/Res/Anim",
+    "value": {},
+    "versionCode": 1
+  },
+  "b019c1e6-d691-49eb-866c-8723f3cf4cbb": {
+    "url": "db://assets/Res/Font",
+    "value": {},
+    "versionCode": 1
+  },
+  "c640d7a3-188b-451d-9ca7-93c59f79b216": {
+    "url": "db://assets/Res/Shade",
+    "value": {},
+    "versionCode": 1
+  },
+  "dd980369-59e4-4c23-9778-f8f50ebbe0b1": {
+    "url": "db://assets/Res/Texture",
+    "value": {},
+    "versionCode": 1
+  },
+  "de4aa976-1cd7-4585-ac26-62ee927e067e": {
+    "url": "db://assets/resources/Anim",
+    "value": {},
+    "versionCode": 1
+  },
+  "a0344f98-6477-4a9a-a19f-192843c7a5d5": {
+    "url": "db://assets/resources/Audio",
+    "value": {},
+    "versionCode": 1
+  },
+  "04f88e44-bacc-4a9e-b7bb-2238a87a9106": {
+    "url": "db://assets/resources/Common",
+    "value": {},
+    "versionCode": 1
+  },
+  "d952a5f4-a9ab-48b7-9eec-5871a7726e4c": {
+    "url": "db://assets/resources/ConfigData",
+    "value": {},
+    "versionCode": 1
+  },
+  "dcf49545-be54-4e47-a788-4ba7dd144e9c": {
+    "url": "db://assets/resources/Game",
+    "value": {},
+    "versionCode": 1
+  },
+  "a9d0507f-efb2-4f72-9c7c-c9ebb60eb203": {
+    "url": "db://assets/resources/Item",
+    "value": {},
+    "versionCode": 1
+  },
+  "b6cf8c88-3ef4-4306-af50-cbc3a2dd4693": {
+    "url": "db://assets/resources/Map",
+    "value": {},
+    "versionCode": 1
+  },
+  "647f78d1-b55e-475d-885a-5659317f2dcf": {
+    "url": "db://assets/resources/Prefab",
+    "value": {},
+    "versionCode": 1
+  },
+  "ab4bb823-f001-41fe-8c6f-90c9b678bafd": {
+    "url": "db://assets/resources/Spine",
+    "value": {},
+    "versionCode": 1
+  },
+  "68631a47-9df2-421e-9fe2-78464d08893c": {
+    "url": "db://assets/Scripts/Frame",
+    "value": {},
+    "versionCode": 1
+  },
+  "fbc5dda0-a37c-4ec4-a867-96146791167e": {
+    "url": "db://assets/Scripts/Game",
+    "value": {},
+    "versionCode": 1
+  },
+  "b8c547e7-7a79-45a0-b5bc-02f977202c3e": {
+    "url": "db://assets/Scripts/Main",
+    "value": {},
+    "versionCode": 1
+  },
+  "85684ac4-62e8-4b9d-a01a-b634c6e2dac4": {
+    "url": "db://assets/Scripts/Model",
+    "value": {},
+    "versionCode": 1
+  },
+  "cfdd6456-1a95-4a62-adc5-0f76709c4632": {
+    "url": "db://assets/Scripts/Popup",
+    "value": {},
+    "versionCode": 1
+  },
+  "4a378809-7a31-4b4b-9792-b0a323f328c1": {
+    "url": "db://assets/Scripts/Scenes",
+    "value": {},
+    "versionCode": 1
+  },
+  "57117ef3-ec43-4201-9fbc-d6659d7ce349": {
+    "url": "db://assets/Res/Shade/Effect",
+    "value": {},
+    "versionCode": 1
+  },
+  "d3702373-63c3-464a-b92f-b718083db856": {
+    "url": "db://assets/Res/Shade/Materail",
+    "value": {},
+    "versionCode": 1
+  },
+  "02dadd29-4616-4c08-906d-f049e9612b30": {
+    "url": "db://assets/Res/Texture/Popup",
+    "value": {},
+    "versionCode": 1
+  },
+  "3aafae0f-87a2-4a6b-a373-2ef734f82e03": {
+    "url": "db://assets/resources/Anim/Hero",
+    "value": {},
+    "versionCode": 1
+  },
+  "95cba2c8-2a17-4c64-b774-5fe1a069de45": {
+    "url": "db://assets/resources/Anim/Monster",
+    "value": {},
+    "versionCode": 1
+  },
+  "f6510643-579c-4170-b7bb-e7abb08810c9": {
+    "url": "db://assets/resources/Audio/Music",
+    "value": {},
+    "versionCode": 1
+  },
+  "229b8ccd-e881-4e21-8e83-98717973565b": {
+    "url": "db://assets/resources/Audio/Sound",
+    "value": {},
+    "versionCode": 1
+  },
+  "a10006bb-0620-45c2-9a2e-19b1c4c53f9e": {
+    "url": "db://assets/resources/Game/Bullet",
+    "value": {},
+    "versionCode": 1
+  },
+  "e102aeea-86af-40ad-9f9b-ba942d690791": {
+    "url": "db://assets/resources/Game/Grid",
+    "value": {},
+    "versionCode": 1
+  },
+  "aa9c0183-ab4c-4aa7-90f3-530795416d4a": {
+    "url": "db://assets/resources/Game/Hero",
+    "value": {},
+    "versionCode": 1
+  },
+  "325802cb-6a17-4051-a64b-8b37311d6cb8": {
+    "url": "db://assets/resources/Game/Map",
+    "value": {},
+    "versionCode": 1
+  },
+  "9f054f4f-659c-46b8-9e1c-5340ed7d136d": {
+    "url": "db://assets/resources/Game/Monster",
+    "value": {},
+    "versionCode": 1
+  },
+  "8b43cbc5-d64c-4134-8b1c-318c8efa7ac6": {
+    "url": "db://assets/resources/Game/Weapon",
+    "value": {},
+    "versionCode": 1
+  },
+  "6bbbd24d-8eec-4338-a9b6-81fe6fb44fc8": {
+    "url": "db://assets/resources/Map/Chapter",
+    "value": {},
+    "versionCode": 1
+  },
+  "38b87467-a661-4118-8eb9-6260432b7ade": {
+    "url": "db://assets/resources/Prefab/Game",
+    "value": {},
+    "versionCode": 1
+  },
+  "bb8a2637-708c-4f2e-8f96-bbcf3ec490d5": {
+    "url": "db://assets/resources/Prefab/Popup",
+    "value": {},
+    "versionCode": 1
+  },
+  "255f78aa-99e3-49c4-ac5e-deb3a39c1f15": {
+    "url": "db://assets/resources/Spine/Effect",
+    "value": {},
+    "versionCode": 1
+  },
+  "cefc56df-6d66-4b78-a259-df0eb846eb4b": {
+    "url": "db://assets/resources/Spine/Hero",
+    "value": {},
+    "versionCode": 1
+  },
+  "3117680c-ad3a-4731-9289-0e833ffb571e": {
+    "url": "db://assets/resources/Spine/Monster",
+    "value": {},
+    "versionCode": 1
+  },
+  "9721cd57-4271-4a96-b09c-e696037ccfb0": {
+    "url": "db://assets/resources/Spine/Popup",
+    "value": {},
+    "versionCode": 1
+  },
+  "070c14a7-94e0-4140-b0f9-bc3132762653": {
+    "url": "db://assets/Scripts/Game/Battle",
+    "value": {},
+    "versionCode": 1
+  },
+  "58a6909a-0323-4f6e-8b3b-3669182857fc": {
+    "url": "db://assets/Scripts/Game/Data",
+    "value": {},
+    "versionCode": 1
+  },
+  "aeb6eb83-f32e-4985-b96b-c8d442cd8f5b": {
+    "url": "db://assets/Scripts/Game/Event",
+    "value": {},
+    "versionCode": 1
+  },
+  "eee05983-6bbb-4a77-9c13-05e443cf5889": {
+    "url": "db://assets/Scripts/Game/Grid",
+    "value": {},
+    "versionCode": 1
+  },
+  "6cb6859c-a15f-4d12-826a-3519e0a356a4": {
+    "url": "db://assets/Scripts/Game/Hero",
+    "value": {},
+    "versionCode": 1
+  },
+  "f03b9fb5-4152-4881-be3e-1efd315dd082": {
+    "url": "db://assets/Scripts/Game/Mgr",
+    "value": {},
+    "versionCode": 1
+  },
+  "42724753-5469-495c-a2d8-d8a7b7d99e97": {
+    "url": "db://assets/Scripts/Game/Monster",
+    "value": {},
+    "versionCode": 1
+  },
+  "ac243035-5201-4b14-a88c-2302e0ab4c76": {
+    "url": "db://assets/Scripts/Game/Skill",
+    "value": {},
+    "versionCode": 1
+  },
+  "fce0fb02-13fc-4aab-91e5-b2bdaf7a8700": {
+    "url": "db://assets/Scripts/Game/Weapon",
+    "value": {},
+    "versionCode": 1
+  },
+  "e158769d-bba9-4b2b-8fa3-864f451abe93": {
+    "url": "db://assets/Scripts/Main/Data",
+    "value": {},
+    "versionCode": 1
+  },
+  "d1fe43bb-d63c-4131-8bd5-49eaf61f5f8f": {
+    "url": "db://assets/Scripts/Main/Event",
+    "value": {},
+    "versionCode": 1
+  },
+  "cce895d5-c982-43e8-9442-c92bb8d21e61": {
+    "url": "db://assets/Scripts/Main/Mgr",
+    "value": {},
+    "versionCode": 1
+  },
+  "a0593ac3-e57a-4416-9ea0-9f2331898045": {
+    "url": "db://assets/Scripts/Popup/Chapter",
+    "value": {},
+    "versionCode": 1
+  },
+  "d8d4658f-dc9b-4e9e-949f-15f6f1588f74": {
+    "url": "db://assets/Scripts/Popup/Common",
+    "value": {},
+    "versionCode": 1
+  },
+  "8a5b6772-89aa-459d-9d3e-259b4ceb174d": {
+    "url": "db://assets/Scripts/Popup/Game",
+    "value": {},
+    "versionCode": 1
+  },
+  "5a73e49c-89f9-4bae-b409-7699761be00d": {
+    "url": "db://assets/Scripts/Popup/Skill",
+    "value": {},
+    "versionCode": 1
+  },
+  "1e4e7acf-d8d9-4acb-b064-4315da1b4c12": {
+    "url": "db://assets/Scripts/Popup/Weapon",
+    "value": {},
+    "versionCode": 1
+  },
+  "676bf147-f9cf-419c-b853-4b574ffadb96": {
+    "url": "db://assets/Res/Texture/Popup/Chapter",
+    "value": {},
+    "versionCode": 1
+  },
+  "8c08e7b3-9e4f-4dcb-916b-fa48dd9c1420": {
+    "url": "db://assets/Res/Texture/Popup/Game",
+    "value": {},
+    "versionCode": 1
+  },
+  "12230e68-8e25-4109-8491-f15ca560f80c": {
+    "url": "db://assets/Res/Texture/Popup/Load",
+    "value": {},
+    "versionCode": 1
+  },
+  "b2853591-058d-43b8-9495-480262adfc94": {
+    "url": "db://assets/Res/Texture/Popup/Pause",
+    "value": {},
+    "versionCode": 1
+  },
+  "17ebe883-797a-4636-a9e9-bbb877ddf14a": {
+    "url": "db://assets/resources/Anim/Monster/common",
+    "value": {},
+    "versionCode": 1
+  },
+  "07b1173d-5d5c-4e69-9ed1-e1e747848320": {
+    "url": "db://assets/resources/Prefab/Game/Battle",
+    "value": {},
+    "versionCode": 1
+  },
+  "2fe8bb9a-1d3a-489c-84cd-d313b9cda2aa": {
+    "url": "db://assets/resources/Prefab/Game/Grid",
+    "value": {},
+    "versionCode": 1
+  },
+  "10d3e33a-9e65-4557-bd54-722498647daa": {
+    "url": "db://assets/resources/Prefab/Game/Hero",
+    "value": {},
+    "versionCode": 1
+  },
+  "da7ff179-b19b-4143-bada-88ba54b23b88": {
+    "url": "db://assets/resources/Prefab/Game/Monster",
+    "value": {},
+    "versionCode": 1
+  },
+  "f15cd15c-670c-4165-baae-66a29e0587b8": {
+    "url": "db://assets/resources/Prefab/Game/Skill",
+    "value": {},
+    "versionCode": 1
+  },
+  "360fdefb-1ad3-4054-8c03-ec4df63edf4d": {
+    "url": "db://assets/resources/Prefab/Game/Weapon",
+    "value": {},
+    "versionCode": 1
+  },
+  "95f86b58-1960-4b29-8b93-4a6e3f79eefe": {
+    "url": "db://assets/resources/Prefab/Popup/Common",
+    "value": {},
+    "versionCode": 1
+  },
+  "54f3d931-806c-4da2-a6c9-473b5a4c2501": {
+    "url": "db://assets/resources/Prefab/Popup/Game",
+    "value": {},
+    "versionCode": 1
+  },
+  "a1f55b3c-2f35-4731-bb86-c4ba6db866d4": {
+    "url": "db://assets/resources/Prefab/Popup/Weapon",
+    "value": {},
+    "versionCode": 1
+  },
+  "c78d5a8e-2bc3-4fd7-a290-54a9abc847f7": {
+    "url": "db://assets/Scripts/Game/Monster/Event",
+    "value": {},
+    "versionCode": 1
+  },
+  "7128eca5-e96a-4bed-aa12-2c9fc40e8cf9": {
+    "url": "db://assets/Scripts/Popup/Chapter/Data",
+    "value": {},
+    "versionCode": 1
+  },
+  "39a453bd-57dc-4bf7-b806-cd98949da8ea": {
+    "url": "db://assets/Scripts/Popup/Skill/Sub",
+    "value": {},
+    "versionCode": 1
+  },
+  "56b9b26f-df25-411b-b8dd-eeb0742b81c6": {
+    "url": "db://assets/Res/Shade/Effect/builtin-sprite.effect",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "787ddfba-5b79-49d1-90b9-c941fe7fce5f": {
+    "url": "db://assets/Res/Shade/Effect/monsterEff.effect",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "38f6a9ed-0d93-4289-b8a3-739eaba996e9": {
+    "url": "db://assets/Scripts/Constants.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "fd47677f-e3f4-4f1c-b5d7-1761c31dd6ca": {
+    "url": "db://assets/Scripts/GameDefine.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "a05e57b1-d0f0-4118-a9c7-a8529ce1e8a8": {
+    "url": "db://assets/Scripts/Frame/animationUI.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "05fc051a-d6c9-44d3-8a5f-2984ba35e83f": {
+    "url": "db://assets/Scripts/Frame/AudioManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "71ae6c34-a30d-400a-893f-a40147ded253": {
+    "url": "db://assets/Scripts/Frame/BackgroundAdapter.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "12e28a56-7cea-4ac8-86d9-c19a77befe45": {
+    "url": "db://assets/Scripts/Frame/BaseComponent.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "8f0fc759-3602-4b95-b915-c4998b2b4a02": {
+    "url": "db://assets/Scripts/Frame/CfgMgr.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "8cb26159-bdc0-4216-878d-10864facf825": {
+    "url": "db://assets/Scripts/Frame/Configuration.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "494f993e-7408-4cfc-ab58-47aecbbed633": {
+    "url": "db://assets/Scripts/Frame/ContentAdapter.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "29ec86fb-03d6-407e-9a21-dbca48600190": {
+    "url": "db://assets/Scripts/Frame/ContentScale.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "9d1be4d9-b195-4b2e-874b-14c86405af32": {
+    "url": "db://assets/Scripts/Frame/ContentWidthAdapter.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "5762440a-b1e3-47b1-8485-3b091c032ff0": {
+    "url": "db://assets/Scripts/Frame/Debug.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "10e50bf4-fd9f-42ba-af13-513801940676": {
+    "url": "db://assets/Scripts/Frame/EventListener.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "c76e07e4-7720-4fe4-804d-1ae6bf706b11": {
+    "url": "db://assets/Scripts/Frame/GameController.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "2e999be2-8f06-4e92-98b6-465e101a7da1": {
+    "url": "db://assets/Scripts/Frame/OpenPopupManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "fcd3aa1f-b471-4dfc-8c3a-05f3893f174d": {
+    "url": "db://assets/Scripts/Frame/PoolManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "eb72a761-526d-485e-91e5-3b98dd8b78bd": {
+    "url": "db://assets/Scripts/Frame/PopupManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "85b9d87c-d86d-417d-a30a-e8e62fe8afae": {
+    "url": "db://assets/Scripts/Frame/ResourcesUtil.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "a7351039-bdf0-46db-a56a-dc5c78673ceb": {
+    "url": "db://assets/Scripts/Frame/SpriteEx.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "2e632f95-60a7-46e6-a322-44f539c9dfa7": {
+    "url": "db://assets/Scripts/Frame/Util.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "2d3aded8-69d7-4b55-a19c-10dd534676f3": {
+    "url": "db://assets/Scripts/Model/BagModel.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "c25be16a-d9c7-4f1e-967d-7cbcc32da748": {
+    "url": "db://assets/Scripts/Model/BattleLevelModel.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "32241b76-6138-4afd-b827-146987dfaa1f": {
+    "url": "db://assets/Scripts/Model/ChapterEventModel.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "2530ff8e-cd9f-427d-8bd9-e41b261a51a9": {
+    "url": "db://assets/Scripts/Model/ChapterModel.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "c3918519-a95b-40a5-a56e-a718b123952d": {
+    "url": "db://assets/Scripts/Model/MonsterModel.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "e96c12cc-8939-4331-8982-5ad1e50ffca6": {
+    "url": "db://assets/Scripts/Model/SkillModel.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "44ac0e7c-2a84-4ae4-93d9-13c94e842785": {
+    "url": "db://assets/Scripts/Model/SkillTargetModel.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "759279d6-fbbc-468c-9c44-95d7d156d483": {
+    "url": "db://assets/Scripts/Model/SkillUpgradeMode.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "da0b5f3b-4dab-447d-83a6-86099fc1c81e": {
+    "url": "db://assets/Scripts/Model/SoundModel.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "4905e0e6-7988-447e-9417-7d60f2f550e6": {
+    "url": "db://assets/Scripts/Model/SystemConstantModel.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "cef42fcb-1eb7-4d77-9ac6-5ce45fb514cc": {
+    "url": "db://assets/Scripts/Model/WeaponModel.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "3b31d323-7b93-4671-8171-c5881cb37d35": {
+    "url": "db://assets/Scripts/Scenes/Game.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "47e05b45-3e87-4fa1-a146-83f029533ccd": {
+    "url": "db://assets/Scripts/Scenes/Load.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "6cdfb6c2-1151-4fb5-aacc-8231fb02bf5b": {
+    "url": "db://assets/Scripts/Game/Battle/BlastItem.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "6c20c86e-dfd8-4729-8bfd-32e6bd3b3fd7": {
+    "url": "db://assets/Scripts/Game/Battle/DamageItem.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "f84e21ad-966f-4b50-8668-6c1b4f9788b2": {
+    "url": "db://assets/Scripts/Game/Battle/HeroHpItem.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "237f57b9-042e-4502-b07a-ed01ee011017": {
+    "url": "db://assets/Scripts/Game/Battle/MonsterHpItem.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "12eda857-5875-44b8-86fb-f41f2dc0c013": {
+    "url": "db://assets/Scripts/Game/Battle/Shadow.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "6f6646b3-a51d-4feb-be2b-3ef7f8d86669": {
+    "url": "db://assets/Scripts/Game/Battle/SynItem.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "76678548-5fbe-447d-ad01-bbcbdef674d6": {
+    "url": "db://assets/Scripts/Game/Data/ChapterMapData.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "1d101990-6199-47e5-880d-0d31e91c538d": {
+    "url": "db://assets/Scripts/Game/Data/GameData.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "fe537a22-f782-4f56-8ebd-fc50c71b3860": {
+    "url": "db://assets/Scripts/Game/Data/GridData.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "bb7bb6b3-53c8-471f-b1fe-25e1f1b8c2bd": {
+    "url": "db://assets/Scripts/Game/Data/HeroData.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "43fea538-f7e6-4025-beb3-788ad0a85693": {
+    "url": "db://assets/Scripts/Game/Data/MonsterData.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "2cf57ea2-a31a-4201-a385-32c4c2ab7a60": {
+    "url": "db://assets/Scripts/Game/Data/PlayerData.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "d47c03fc-94b1-4f26-a0eb-bb6a1fd4a1e2": {
+    "url": "db://assets/Scripts/Game/Data/SkillData.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "0197acc1-8f23-4490-8856-58908028e390": {
+    "url": "db://assets/Scripts/Game/Data/SkillUpgradeData.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "9134856f-a96e-418b-aabc-4816f7e1df95": {
+    "url": "db://assets/Scripts/Game/Data/WeaponData.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "d5d0d63f-f3d3-4464-aa7b-3d3c5a33b18d": {
+    "url": "db://assets/Scripts/Game/Event/GameEvent.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "9bfcbb7d-541a-495e-b4d8-7736ab54c761": {
+    "url": "db://assets/Scripts/Game/Grid/GridBgItem.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "568992d7-c457-459f-a4f9-0da8c8204d8e": {
+    "url": "db://assets/Scripts/Game/Grid/GridItem.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "52b72d06-a82a-46f6-87bc-69a234126d12": {
+    "url": "db://assets/Scripts/Game/Hero/HeroBase.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "2cade8c2-61d6-412a-b09f-ceea7b089e3f": {
+    "url": "db://assets/Scripts/Game/Hero/HeroItem.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "8b377a57-9451-4848-8d9c-613d2cdc52cd": {
+    "url": "db://assets/Scripts/Game/Mgr/BattleUIManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "bba98930-7d5b-490f-94c4-8e56d1ebae6a": {
+    "url": "db://assets/Scripts/Game/Mgr/BgManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "847ce576-5d69-40df-b380-aaea4aa2830c": {
+    "url": "db://assets/Scripts/Game/Mgr/BoxManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "40e3b80f-a89f-4912-a0ae-ea943fae8586": {
+    "url": "db://assets/Scripts/Game/Mgr/GridManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "c4c63093-53ee-4d73-9c8c-83e0399bd783": {
+    "url": "db://assets/Scripts/Game/Mgr/GridMapManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "0590486c-2698-4859-980d-ceb7f54946e2": {
+    "url": "db://assets/Scripts/Game/Mgr/HeroManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "bc3816cb-d054-40fa-a3a3-4d32cc3fb96e": {
+    "url": "db://assets/Scripts/Game/Mgr/MonsterManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "bfbb4b87-27e2-4a8e-aecd-fd9f2dfca2de": {
+    "url": "db://assets/Scripts/Game/Mgr/SkillManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "8979318f-3aa3-45a8-887e-7b5442eefa1d": {
+    "url": "db://assets/Scripts/Game/Mgr/WeaponManager.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "1634e401-b485-4cdd-b161-d5e1c6fd4ae5": {
+    "url": "db://assets/Scripts/Game/Monster/MonsterBase.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "15d328bb-e096-4a35-87d5-f77254b5c489": {
+    "url": "db://assets/Scripts/Game/Monster/MonsterItem.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "8f7c1d83-63c3-44d4-b749-0806f8913d6a": {
+    "url": "db://assets/Scripts/Game/Skill/SkillBulletBase.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "a64849d4-9b25-493a-b545-3b2a42740226": {
+    "url": "db://assets/Scripts/Game/Skill/SkillBulletItem.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "f6d14e3d-aaaf-4764-95f4-8b8cffccb141": {
+    "url": "db://assets/Scripts/Game/Skill/SkillTypeItem.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "f96cdda8-70dd-40bf-bb22-6763256f3d3b": {
+    "url": "db://assets/Scripts/Game/Weapon/WeaponBgItem.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "25dfd9f6-3516-4f28-b669-20ec18f39c22": {
+    "url": "db://assets/Scripts/Game/Weapon/WeaponItem.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "63bbc06a-23e6-44ff-ae85-d2e5e1922e73": {
+    "url": "db://assets/Scripts/Main/Data/SysOpenData.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "8648ac6a-81f2-4bd7-b3c8-a14259419194": {
+    "url": "db://assets/Scripts/Main/Event/MainEvent.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "177d10bf-760e-4e59-9927-bc9122a0a26c": {
+    "url": "db://assets/Scripts/Popup/Common/TipsPopup.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "ddfe1ae0-c55c-44a1-95bc-fcabbcf179fb": {
+    "url": "db://assets/Scripts/Popup/Common/Toast.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "29c35fe4-51b6-40df-af51-a34f9d0f9efc": {
+    "url": "db://assets/Scripts/Popup/Game/GameOverPopup.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "dbe14afe-9a7e-4486-b7e2-3b3cbe62cf15": {
+    "url": "db://assets/Scripts/Popup/Game/GamePopup.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "b25360d3-352d-488b-9380-996a152abcf1": {
+    "url": "db://assets/Scripts/Popup/Game/PausePopup.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "6da23c8c-818d-41fa-98c3-ebe4e6545163": {
+    "url": "db://assets/Scripts/Popup/Skill/SkillSelectPopup.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "53b5d988-d75d-4edc-a1e7-3cd30c66b8f9": {
+    "url": "db://assets/Scripts/Popup/Weapon/WeaponDetailPopup.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "57d4a0a5-0c18-4ab9-b1ab-eb15d3a72c08": {
+    "url": "db://assets/Scripts/Game/Monster/Event/MonsterEvent.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "037c1a53-db8c-432a-bf56-8f0995456000": {
+    "url": "db://assets/Scripts/Popup/Chapter/Data/ChapterData.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "d216426c-5a69-472b-ad10-efecc0fc6816": {
+    "url": "db://assets/Scripts/Popup/Skill/Sub/SkillSelectItem.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "b9cbfc7b-2f0c-4026-89a7-4d411f8ecfbe": {
+    "url": "db://assets/Scenes/Game.scene",
+    "value": {
+      "depends": [
+        "b9cbfc7b-2f0c-4026-89a7-4d411f8ecfbe",
+        "c4cfe24b-bbfa-427d-8b15-a9683d5948c8",
+        "16702ea5-8986-4082-9211-8231b9f60b66"
+      ],
+      "dependScripts": [
+        "9d1be4d9-b195-4b2e-874b-14c86405af32",
+        "bba98930-7d5b-490f-94c4-8e56d1ebae6a",
+        "c4c63093-53ee-4d73-9c8c-83e0399bd783",
+        "40e3b80f-a89f-4912-a0ae-ea943fae8586",
+        "8979318f-3aa3-45a8-887e-7b5442eefa1d",
+        "0590486c-2698-4859-980d-ceb7f54946e2",
+        "8b377a57-9451-4848-8d9c-613d2cdc52cd",
+        "bc3816cb-d054-40fa-a3a3-4d32cc3fb96e",
+        "847ce576-5d69-40df-b380-aaea4aa2830c",
+        "bfbb4b87-27e2-4a8e-aecd-fd9f2dfca2de",
+        "3b31d323-7b93-4671-8171-c5881cb37d35"
+      ]
+    },
+    "versionCode": 1
+  },
+  "bed5064f-b8a1-4fa4-b251-faa306fc7eaa": {
+    "url": "db://assets/Scenes/Load.scene",
+    "value": {
+      "depends": [
+        "bed5064f-b8a1-4fa4-b251-faa306fc7eaa",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "86c5235b-4525-456b-8f3a-81000083f882@f9941",
+        "bb90b8fc-413a-4b91-b567-b5ac445fcf68@f9941",
+        "b5883b96-4b1f-421c-9b41-5de44f7c15d8",
+        "c740deaa-beb3-4b1f-9510-413e02855ede@f9941"
+      ],
+      "dependScripts": [
+        "9d1be4d9-b195-4b2e-874b-14c86405af32",
+        "47e05b45-3e87-4fa1-a146-83f029533ccd"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7420df54-0133-475c-b3fe-05fc57ca58a8": {
+    "url": "db://assets/Res/Anim/bgIcon.anim",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "87d9877c-9752-4194-88b2-2837b1b4dcfd": {
+    "url": "db://assets/Res/Anim/box.anim",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "63aa388b-9862-4b16-937a-86a74b1f85e5": {
+    "url": "db://assets/Res/Anim/heart.anim",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "3152874d-d530-43e6-bac8-5518a179fdee": {
+    "url": "db://assets/Res/Anim/land.anim",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "5bffe497-5f19-44b1-8504-8abbf844c573": {
+    "url": "db://assets/Res/Anim/Move.anim",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "142a35bb-ab40-40ba-840e-5bf0fee3b586": {
+    "url": "db://assets/Res/Anim/Skill.anim",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "b5883b96-4b1f-421c-9b41-5de44f7c15d8": {
+    "url": "db://assets/Res/Font/JiangChengYuanTi-700W.fnt",
+    "value": {
+      "depends": [
+        "aa52c673-1ed7-4302-8b4d-910d0ec3df62@f9941"
+      ]
+    },
+    "versionCode": 1
+  },
+  "aa52c673-1ed7-4302-8b4d-910d0ec3df62": {
+    "url": "db://assets/Res/Font/JiangChengYuanTi-700W.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ff3b151d-3aa3-4d56-b491-2d491f898f85": {
+    "url": "db://assets/Res/Font/numFont1.fnt",
+    "value": {
+      "depends": [
+        "5fca6370-00ec-426e-8122-37c6a47d0e7c@f9941"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5fca6370-00ec-426e-8122-37c6a47d0e7c": {
+    "url": "db://assets/Res/Font/numFont1_0.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "05097e4f-d0d8-44dc-946d-76b003f635d0": {
+    "url": "db://assets/resources/Common/quality0.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "59fe9a38-8911-4d96-af3f-9d423a76d98c": {
+    "url": "db://assets/resources/Common/quality1.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "492a0993-9363-45b2-be22-dd1275e4c693": {
+    "url": "db://assets/resources/Common/quality2.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "aa52c673-1ed7-4302-8b4d-910d0ec3df62@6c48a": {
+    "url": "db://assets/Res/Font/JiangChengYuanTi-700W.png@6c48a",
+    "value": {
+      "depends": [
+        "aa52c673-1ed7-4302-8b4d-910d0ec3df62"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5fca6370-00ec-426e-8122-37c6a47d0e7c@6c48a": {
+    "url": "db://assets/Res/Font/numFont1_0.png@6c48a",
+    "value": {
+      "depends": [
+        "5fca6370-00ec-426e-8122-37c6a47d0e7c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "05097e4f-d0d8-44dc-946d-76b003f635d0@6c48a": {
+    "url": "db://assets/resources/Common/quality0.png@6c48a",
+    "value": {
+      "depends": [
+        "05097e4f-d0d8-44dc-946d-76b003f635d0"
+      ]
+    },
+    "versionCode": 1
+  },
+  "59fe9a38-8911-4d96-af3f-9d423a76d98c@6c48a": {
+    "url": "db://assets/resources/Common/quality1.png@6c48a",
+    "value": {
+      "depends": [
+        "59fe9a38-8911-4d96-af3f-9d423a76d98c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "aa52c673-1ed7-4302-8b4d-910d0ec3df62@f9941": {
+    "url": "db://assets/Res/Font/JiangChengYuanTi-700W.png@f9941",
+    "value": {
+      "depends": [
+        "aa52c673-1ed7-4302-8b4d-910d0ec3df62@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fcb618c4-62c6-45d8-8179-62c4d7eb4575": {
+    "url": "db://assets/resources/Common/quality3.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "492a0993-9363-45b2-be22-dd1275e4c693@6c48a": {
+    "url": "db://assets/resources/Common/quality2.png@6c48a",
+    "value": {
+      "depends": [
+        "492a0993-9363-45b2-be22-dd1275e4c693"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5fca6370-00ec-426e-8122-37c6a47d0e7c@f9941": {
+    "url": "db://assets/Res/Font/numFont1_0.png@f9941",
+    "value": {
+      "depends": [
+        "5fca6370-00ec-426e-8122-37c6a47d0e7c@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b51d2f96-0b15-45d7-a473-908b666a0a8d": {
+    "url": "db://assets/resources/ConfigData/Bag.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "59fe9a38-8911-4d96-af3f-9d423a76d98c@f9941": {
+    "url": "db://assets/resources/Common/quality1.png@f9941",
+    "value": {
+      "depends": [
+        "59fe9a38-8911-4d96-af3f-9d423a76d98c@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "22c4ad22-2ebe-4f21-bc09-e3b113fe1053": {
+    "url": "db://assets/resources/ConfigData/BattleLevel.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "492a0993-9363-45b2-be22-dd1275e4c693@f9941": {
+    "url": "db://assets/resources/Common/quality2.png@f9941",
+    "value": {
+      "depends": [
+        "492a0993-9363-45b2-be22-dd1275e4c693@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3d32d09d-3575-4216-bd20-1737c2e2bc0c": {
+    "url": "db://assets/resources/ConfigData/Chapter.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "05097e4f-d0d8-44dc-946d-76b003f635d0@f9941": {
+    "url": "db://assets/resources/Common/quality0.png@f9941",
+    "value": {
+      "depends": [
+        "05097e4f-d0d8-44dc-946d-76b003f635d0@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e3222614-4555-4c1d-964b-98724bb18599": {
+    "url": "db://assets/resources/ConfigData/ChapterEvent.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "edfa4060-718d-41e7-bbdc-958f91c4a630": {
+    "url": "db://assets/resources/ConfigData/Monster.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "81eaa92b-3a42-4a9f-a97b-91dbb67a0252": {
+    "url": "db://assets/resources/ConfigData/Skill.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "fcb618c4-62c6-45d8-8179-62c4d7eb4575@6c48a": {
+    "url": "db://assets/resources/Common/quality3.png@6c48a",
+    "value": {
+      "depends": [
+        "fcb618c4-62c6-45d8-8179-62c4d7eb4575"
+      ]
+    },
+    "versionCode": 1
+  },
+  "593fa154-e2c9-4b6d-8849-e9e45ef54d9e": {
+    "url": "db://assets/resources/ConfigData/SkillTarget.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "3df3159d-ac2e-44c3-869e-d7a4e1f73c86": {
+    "url": "db://assets/resources/ConfigData/SkillUpgrade.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "81c5abc3-20e8-4035-ace3-e57a0d19ee94": {
+    "url": "db://assets/resources/ConfigData/Sound.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "fcb618c4-62c6-45d8-8179-62c4d7eb4575@f9941": {
+    "url": "db://assets/resources/Common/quality3.png@f9941",
+    "value": {
+      "depends": [
+        "fcb618c4-62c6-45d8-8179-62c4d7eb4575@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f0e62172-ef21-4cb8-be19-a73bc192b4e0": {
+    "url": "db://assets/resources/ConfigData/SystemConstant.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "134a7d7d-d4ef-4c68-b830-f1e6966731f9": {
+    "url": "db://assets/resources/ConfigData/Weapon.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "280e3cd6-33d6-4a96-a764-d108505fa4d0": {
+    "url": "db://assets/resources/Item/item001.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "f8853531-ea7f-4b6d-9c52-29f7afd6e51f": {
+    "url": "db://assets/Res/Shade/Materail/monsterEff.mtl",
+    "value": {
+      "depends": [
+        "787ddfba-5b79-49d1-90b9-c941fe7fce5f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f47dd811-f4f7-458d-b680-d65f00e3c87c": {
+    "url": "db://assets/resources/Anim/Hero/Atk.anim",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "42a6a6f7-5797-475a-a255-23683313dd8a": {
+    "url": "db://assets/resources/Anim/Hero/Die.anim",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "96f23fcc-83b6-45c0-a35e-a6f5a371f0b2": {
+    "url": "db://assets/resources/Anim/Hero/Idle.anim",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "877214ba-8d08-4068-bcde-2179f49c6d88": {
+    "url": "db://assets/resources/Anim/Hero/Move.anim",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "8a9855f9-2994-4604-a7c8-099ee23b5ebe": {
+    "url": "db://assets/resources/Audio/Music/BattleBgm.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "cfe47716-620e-46f0-9811-f930e3cb534a": {
+    "url": "db://assets/resources/Audio/Sound/Click.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "4e7b7f7f-9375-4055-a9ef-2e74976fa0c9": {
+    "url": "db://assets/resources/Audio/Sound/Shoot.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "edafe7c8-0629-4aec-a4b5-a47bb49e81f8": {
+    "url": "db://assets/resources/Audio/Sound/Syn.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "280e3cd6-33d6-4a96-a764-d108505fa4d0@6c48a": {
+    "url": "db://assets/resources/Item/item001.png@6c48a",
+    "value": {
+      "depends": [
+        "280e3cd6-33d6-4a96-a764-d108505fa4d0"
+      ]
+    },
+    "versionCode": 1
+  },
+  "23ae4056-e4d0-4f99-b069-12350f796253": {
+    "url": "db://assets/resources/Game/Bullet/1717616917655262.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "5be94216-066f-464b-a2cc-c480fcd84369": {
+    "url": "db://assets/resources/Game/Grid/bag.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "3a2e813f-f48e-4b16-826f-1e8b573ef4d8": {
+    "url": "db://assets/resources/Game/Grid/bag1.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ee8d3ecd-a486-4a81-81da-6642e5bb6d1e": {
+    "url": "db://assets/resources/Game/Grid/bag3.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "280e3cd6-33d6-4a96-a764-d108505fa4d0@f9941": {
+    "url": "db://assets/resources/Item/item001.png@f9941",
+    "value": {
+      "depends": [
+        "280e3cd6-33d6-4a96-a764-d108505fa4d0@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c479aeec-13fe-4bf0-ae28-9bf56934d2f3": {
+    "url": "db://assets/resources/Game/Grid/bag5.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "5be94216-066f-464b-a2cc-c480fcd84369@6c48a": {
+    "url": "db://assets/resources/Game/Grid/bag.png@6c48a",
+    "value": {
+      "depends": [
+        "5be94216-066f-464b-a2cc-c480fcd84369"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ee8d3ecd-a486-4a81-81da-6642e5bb6d1e@6c48a": {
+    "url": "db://assets/resources/Game/Grid/bag3.png@6c48a",
+    "value": {
+      "depends": [
+        "ee8d3ecd-a486-4a81-81da-6642e5bb6d1e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "23ae4056-e4d0-4f99-b069-12350f796253@6c48a": {
+    "url": "db://assets/resources/Game/Bullet/1717616917655262.png@6c48a",
+    "value": {
+      "depends": [
+        "23ae4056-e4d0-4f99-b069-12350f796253"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3a2e813f-f48e-4b16-826f-1e8b573ef4d8@6c48a": {
+    "url": "db://assets/resources/Game/Grid/bag1.png@6c48a",
+    "value": {
+      "depends": [
+        "3a2e813f-f48e-4b16-826f-1e8b573ef4d8"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c479aeec-13fe-4bf0-ae28-9bf56934d2f3@6c48a": {
+    "url": "db://assets/resources/Game/Grid/bag5.png@6c48a",
+    "value": {
+      "depends": [
+        "c479aeec-13fe-4bf0-ae28-9bf56934d2f3"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5be94216-066f-464b-a2cc-c480fcd84369@f9941": {
+    "url": "db://assets/resources/Game/Grid/bag.png@f9941",
+    "value": {
+      "depends": [
+        "5be94216-066f-464b-a2cc-c480fcd84369@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9191638b-1fba-4290-b8bb-15b72fa62354": {
+    "url": "db://assets/resources/Game/Grid/bag6.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ee8d3ecd-a486-4a81-81da-6642e5bb6d1e@f9941": {
+    "url": "db://assets/resources/Game/Grid/bag3.png@f9941",
+    "value": {
+      "depends": [
+        "ee8d3ecd-a486-4a81-81da-6642e5bb6d1e@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3a2e813f-f48e-4b16-826f-1e8b573ef4d8@f9941": {
+    "url": "db://assets/resources/Game/Grid/bag1.png@f9941",
+    "value": {
+      "depends": [
+        "3a2e813f-f48e-4b16-826f-1e8b573ef4d8@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c8a9ae2d-2ce8-41b3-b817-752ca39e7560": {
+    "url": "db://assets/resources/Game/Grid/bag7.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "beb4ab82-e5f6-4f32-91ea-e768a0bd6e6c": {
+    "url": "db://assets/resources/Game/Grid/bag8.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "23ae4056-e4d0-4f99-b069-12350f796253@f9941": {
+    "url": "db://assets/resources/Game/Bullet/1717616917655262.png@f9941",
+    "value": {
+      "depends": [
+        "23ae4056-e4d0-4f99-b069-12350f796253@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c479aeec-13fe-4bf0-ae28-9bf56934d2f3@f9941": {
+    "url": "db://assets/resources/Game/Grid/bag5.png@f9941",
+    "value": {
+      "depends": [
+        "c479aeec-13fe-4bf0-ae28-9bf56934d2f3@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "19ab4d71-12ca-48ca-b881-dfcb7b8ae7de": {
+    "url": "db://assets/resources/Game/Grid/bag9.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "37ad525b-7124-454a-af36-c4d8950cca91": {
+    "url": "db://assets/resources/Game/Grid/cell.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "c8a9ae2d-2ce8-41b3-b817-752ca39e7560@6c48a": {
+    "url": "db://assets/resources/Game/Grid/bag7.png@6c48a",
+    "value": {
+      "depends": [
+        "c8a9ae2d-2ce8-41b3-b817-752ca39e7560"
+      ]
+    },
+    "versionCode": 1
+  },
+  "beb4ab82-e5f6-4f32-91ea-e768a0bd6e6c@6c48a": {
+    "url": "db://assets/resources/Game/Grid/bag8.png@6c48a",
+    "value": {
+      "depends": [
+        "beb4ab82-e5f6-4f32-91ea-e768a0bd6e6c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9191638b-1fba-4290-b8bb-15b72fa62354@6c48a": {
+    "url": "db://assets/resources/Game/Grid/bag6.png@6c48a",
+    "value": {
+      "depends": [
+        "9191638b-1fba-4290-b8bb-15b72fa62354"
+      ]
+    },
+    "versionCode": 1
+  },
+  "19ab4d71-12ca-48ca-b881-dfcb7b8ae7de@6c48a": {
+    "url": "db://assets/resources/Game/Grid/bag9.png@6c48a",
+    "value": {
+      "depends": [
+        "19ab4d71-12ca-48ca-b881-dfcb7b8ae7de"
+      ]
+    },
+    "versionCode": 1
+  },
+  "37ad525b-7124-454a-af36-c4d8950cca91@6c48a": {
+    "url": "db://assets/resources/Game/Grid/cell.png@6c48a",
+    "value": {
+      "depends": [
+        "37ad525b-7124-454a-af36-c4d8950cca91"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c8a9ae2d-2ce8-41b3-b817-752ca39e7560@f9941": {
+    "url": "db://assets/resources/Game/Grid/bag7.png@f9941",
+    "value": {
+      "depends": [
+        "c8a9ae2d-2ce8-41b3-b817-752ca39e7560@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ea643814-787d-4f0b-93aa-a664f7c4eed1": {
+    "url": "db://assets/resources/Game/Grid/cellBg.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "9191638b-1fba-4290-b8bb-15b72fa62354@f9941": {
+    "url": "db://assets/resources/Game/Grid/bag6.png@f9941",
+    "value": {
+      "depends": [
+        "9191638b-1fba-4290-b8bb-15b72fa62354@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "beb4ab82-e5f6-4f32-91ea-e768a0bd6e6c@f9941": {
+    "url": "db://assets/resources/Game/Grid/bag8.png@f9941",
+    "value": {
+      "depends": [
+        "beb4ab82-e5f6-4f32-91ea-e768a0bd6e6c@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e3d7c799-25ba-4ce0-bbd3-a7cd397d5665": {
+    "url": "db://assets/resources/Game/Grid/cellBgTips.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "3d652096-31f6-48f5-85fe-9858dd8b9e2c": {
+    "url": "db://assets/resources/Game/Grid/cellTips.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "19ab4d71-12ca-48ca-b881-dfcb7b8ae7de@f9941": {
+    "url": "db://assets/resources/Game/Grid/bag9.png@f9941",
+    "value": {
+      "depends": [
+        "19ab4d71-12ca-48ca-b881-dfcb7b8ae7de@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9f42524b-0d03-43da-a841-f978411a28fb": {
+    "url": "db://assets/resources/Game/Hero/Hero101.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ea643814-787d-4f0b-93aa-a664f7c4eed1@6c48a": {
+    "url": "db://assets/resources/Game/Grid/cellBg.png@6c48a",
+    "value": {
+      "depends": [
+        "ea643814-787d-4f0b-93aa-a664f7c4eed1"
+      ]
+    },
+    "versionCode": 1
+  },
+  "37ad525b-7124-454a-af36-c4d8950cca91@f9941": {
+    "url": "db://assets/resources/Game/Grid/cell.png@f9941",
+    "value": {
+      "depends": [
+        "37ad525b-7124-454a-af36-c4d8950cca91@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ca5819b9-1e8a-4ca7-a137-6f5f124194a2": {
+    "url": "db://assets/resources/Game/Map/battleBg.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "3d652096-31f6-48f5-85fe-9858dd8b9e2c@6c48a": {
+    "url": "db://assets/resources/Game/Grid/cellTips.png@6c48a",
+    "value": {
+      "depends": [
+        "3d652096-31f6-48f5-85fe-9858dd8b9e2c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e3d7c799-25ba-4ce0-bbd3-a7cd397d5665@6c48a": {
+    "url": "db://assets/resources/Game/Grid/cellBgTips.png@6c48a",
+    "value": {
+      "depends": [
+        "e3d7c799-25ba-4ce0-bbd3-a7cd397d5665"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9f42524b-0d03-43da-a841-f978411a28fb@6c48a": {
+    "url": "db://assets/resources/Game/Hero/Hero101.png@6c48a",
+    "value": {
+      "depends": [
+        "9f42524b-0d03-43da-a841-f978411a28fb"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ea643814-787d-4f0b-93aa-a664f7c4eed1@f9941": {
+    "url": "db://assets/resources/Game/Grid/cellBg.png@f9941",
+    "value": {
+      "depends": [
+        "ea643814-787d-4f0b-93aa-a664f7c4eed1@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "688132b6-5a1b-40ef-9c14-e72b69baa4b3": {
+    "url": "db://assets/resources/Game/Map/box.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "3d652096-31f6-48f5-85fe-9858dd8b9e2c@f9941": {
+    "url": "db://assets/resources/Game/Grid/cellTips.png@f9941",
+    "value": {
+      "depends": [
+        "3d652096-31f6-48f5-85fe-9858dd8b9e2c@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fc348dad-67bd-4afb-b2a1-91be59aa7e63": {
+    "url": "db://assets/resources/Game/Map/gridBg.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "e3d7c799-25ba-4ce0-bbd3-a7cd397d5665@f9941": {
+    "url": "db://assets/resources/Game/Grid/cellBgTips.png@f9941",
+    "value": {
+      "depends": [
+        "e3d7c799-25ba-4ce0-bbd3-a7cd397d5665@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "12b4e868-bffe-439f-9377-07041c82e39d": {
+    "url": "db://assets/resources/Game/Map/land.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ca5819b9-1e8a-4ca7-a137-6f5f124194a2@6c48a": {
+    "url": "db://assets/resources/Game/Map/battleBg.png@6c48a",
+    "value": {
+      "depends": [
+        "ca5819b9-1e8a-4ca7-a137-6f5f124194a2"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9f42524b-0d03-43da-a841-f978411a28fb@f9941": {
+    "url": "db://assets/resources/Game/Hero/Hero101.png@f9941",
+    "value": {
+      "depends": [
+        "9f42524b-0d03-43da-a841-f978411a28fb@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1b9f7b19-d5e1-4dbe-ab66-d7ea23fcf029": {
+    "url": "db://assets/resources/Game/Map/levelBtn.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "688132b6-5a1b-40ef-9c14-e72b69baa4b3@6c48a": {
+    "url": "db://assets/resources/Game/Map/box.png@6c48a",
+    "value": {
+      "depends": [
+        "688132b6-5a1b-40ef-9c14-e72b69baa4b3"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fc348dad-67bd-4afb-b2a1-91be59aa7e63@6c48a": {
+    "url": "db://assets/resources/Game/Map/gridBg.png@6c48a",
+    "value": {
+      "depends": [
+        "fc348dad-67bd-4afb-b2a1-91be59aa7e63"
+      ]
+    },
+    "versionCode": 1
+  },
+  "12b4e868-bffe-439f-9377-07041c82e39d@6c48a": {
+    "url": "db://assets/resources/Game/Map/land.png@6c48a",
+    "value": {
+      "depends": [
+        "12b4e868-bffe-439f-9377-07041c82e39d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1b9f7b19-d5e1-4dbe-ab66-d7ea23fcf029@6c48a": {
+    "url": "db://assets/resources/Game/Map/levelBtn.png@6c48a",
+    "value": {
+      "depends": [
+        "1b9f7b19-d5e1-4dbe-ab66-d7ea23fcf029"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fc348dad-67bd-4afb-b2a1-91be59aa7e63@f9941": {
+    "url": "db://assets/resources/Game/Map/gridBg.png@f9941",
+    "value": {
+      "depends": [
+        "fc348dad-67bd-4afb-b2a1-91be59aa7e63@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "080d9386-80a1-40e2-a24c-d893bd78440f": {
+    "url": "db://assets/resources/Game/Monster/1001001.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "12b4e868-bffe-439f-9377-07041c82e39d@f9941": {
+    "url": "db://assets/resources/Game/Map/land.png@f9941",
+    "value": {
+      "depends": [
+        "12b4e868-bffe-439f-9377-07041c82e39d@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "011890f5-00a0-4d08-be0a-c45da7a118d0": {
+    "url": "db://assets/resources/Game/Monster/1001002.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "688132b6-5a1b-40ef-9c14-e72b69baa4b3@f9941": {
+    "url": "db://assets/resources/Game/Map/box.png@f9941",
+    "value": {
+      "depends": [
+        "688132b6-5a1b-40ef-9c14-e72b69baa4b3@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "88691aed-8adb-4405-932c-2aa93f919d30": {
+    "url": "db://assets/resources/Game/Monster/1001003.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ca5819b9-1e8a-4ca7-a137-6f5f124194a2@f9941": {
+    "url": "db://assets/resources/Game/Map/battleBg.png@f9941",
+    "value": {
+      "depends": [
+        "ca5819b9-1e8a-4ca7-a137-6f5f124194a2@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1b9f7b19-d5e1-4dbe-ab66-d7ea23fcf029@f9941": {
+    "url": "db://assets/resources/Game/Map/levelBtn.png@f9941",
+    "value": {
+      "depends": [
+        "1b9f7b19-d5e1-4dbe-ab66-d7ea23fcf029@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ac0d896a-08c7-4d00-9944-dc1a938f3e87": {
+    "url": "db://assets/resources/Game/Monster/1003001.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "fab4a0b3-7948-40ab-a109-62e48ca4d7ea": {
+    "url": "db://assets/resources/Game/Monster/shadown.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "080d9386-80a1-40e2-a24c-d893bd78440f@6c48a": {
+    "url": "db://assets/resources/Game/Monster/1001001.png@6c48a",
+    "value": {
+      "depends": [
+        "080d9386-80a1-40e2-a24c-d893bd78440f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "011890f5-00a0-4d08-be0a-c45da7a118d0@6c48a": {
+    "url": "db://assets/resources/Game/Monster/1001002.png@6c48a",
+    "value": {
+      "depends": [
+        "011890f5-00a0-4d08-be0a-c45da7a118d0"
+      ]
+    },
+    "versionCode": 1
+  },
+  "88691aed-8adb-4405-932c-2aa93f919d30@6c48a": {
+    "url": "db://assets/resources/Game/Monster/1001003.png@6c48a",
+    "value": {
+      "depends": [
+        "88691aed-8adb-4405-932c-2aa93f919d30"
+      ]
+    },
+    "versionCode": 1
+  },
+  "080d9386-80a1-40e2-a24c-d893bd78440f@f9941": {
+    "url": "db://assets/resources/Game/Monster/1001001.png@f9941",
+    "value": {
+      "depends": [
+        "080d9386-80a1-40e2-a24c-d893bd78440f@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "594e8aeb-d6ab-4e7c-ba78-6892a0448e91": {
+    "url": "db://assets/resources/Game/Weapon/10000.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "011890f5-00a0-4d08-be0a-c45da7a118d0@f9941": {
+    "url": "db://assets/resources/Game/Monster/1001002.png@f9941",
+    "value": {
+      "depends": [
+        "011890f5-00a0-4d08-be0a-c45da7a118d0@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "160ba03e-0d60-49d5-b9fa-e061ea0d7843": {
+    "url": "db://assets/resources/Game/Weapon/101.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ac0d896a-08c7-4d00-9944-dc1a938f3e87@6c48a": {
+    "url": "db://assets/resources/Game/Monster/1003001.png@6c48a",
+    "value": {
+      "depends": [
+        "ac0d896a-08c7-4d00-9944-dc1a938f3e87"
+      ]
+    },
+    "versionCode": 1
+  },
+  "88691aed-8adb-4405-932c-2aa93f919d30@f9941": {
+    "url": "db://assets/resources/Game/Monster/1001003.png@f9941",
+    "value": {
+      "depends": [
+        "88691aed-8adb-4405-932c-2aa93f919d30@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0ab44aa2-2432-4a18-8e7e-7a8a7d8b2779": {
+    "url": "db://assets/resources/Game/Weapon/102.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "fab4a0b3-7948-40ab-a109-62e48ca4d7ea@6c48a": {
+    "url": "db://assets/resources/Game/Monster/shadown.png@6c48a",
+    "value": {
+      "depends": [
+        "fab4a0b3-7948-40ab-a109-62e48ca4d7ea"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ac0d896a-08c7-4d00-9944-dc1a938f3e87@f9941": {
+    "url": "db://assets/resources/Game/Monster/1003001.png@f9941",
+    "value": {
+      "depends": [
+        "ac0d896a-08c7-4d00-9944-dc1a938f3e87@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "652b1dc2-4174-4c9d-b71b-bd40c7077fb0": {
+    "url": "db://assets/resources/Game/Weapon/103.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "fab4a0b3-7948-40ab-a109-62e48ca4d7ea@f9941": {
+    "url": "db://assets/resources/Game/Monster/shadown.png@f9941",
+    "value": {
+      "depends": [
+        "fab4a0b3-7948-40ab-a109-62e48ca4d7ea@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "98fcfd35-e127-450f-8c73-b221e853d866": {
+    "url": "db://assets/resources/Game/Weapon/104.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "594e8aeb-d6ab-4e7c-ba78-6892a0448e91@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/10000.png@6c48a",
+    "value": {
+      "depends": [
+        "594e8aeb-d6ab-4e7c-ba78-6892a0448e91"
+      ]
+    },
+    "versionCode": 1
+  },
+  "160ba03e-0d60-49d5-b9fa-e061ea0d7843@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/101.png@6c48a",
+    "value": {
+      "depends": [
+        "160ba03e-0d60-49d5-b9fa-e061ea0d7843"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0ab44aa2-2432-4a18-8e7e-7a8a7d8b2779@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/102.png@6c48a",
+    "value": {
+      "depends": [
+        "0ab44aa2-2432-4a18-8e7e-7a8a7d8b2779"
+      ]
+    },
+    "versionCode": 1
+  },
+  "160ba03e-0d60-49d5-b9fa-e061ea0d7843@f9941": {
+    "url": "db://assets/resources/Game/Weapon/101.png@f9941",
+    "value": {
+      "depends": [
+        "160ba03e-0d60-49d5-b9fa-e061ea0d7843@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "dc605e74-beac-4de2-a463-f491b015e0c3": {
+    "url": "db://assets/resources/Game/Weapon/201.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "652b1dc2-4174-4c9d-b71b-bd40c7077fb0@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/103.png@6c48a",
+    "value": {
+      "depends": [
+        "652b1dc2-4174-4c9d-b71b-bd40c7077fb0"
+      ]
+    },
+    "versionCode": 1
+  },
+  "98fcfd35-e127-450f-8c73-b221e853d866@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/104.png@6c48a",
+    "value": {
+      "depends": [
+        "98fcfd35-e127-450f-8c73-b221e853d866"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0ab44aa2-2432-4a18-8e7e-7a8a7d8b2779@f9941": {
+    "url": "db://assets/resources/Game/Weapon/102.png@f9941",
+    "value": {
+      "depends": [
+        "0ab44aa2-2432-4a18-8e7e-7a8a7d8b2779@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "86abe560-cfe0-46ba-90e0-b907c4676488": {
+    "url": "db://assets/resources/Game/Weapon/202.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "594e8aeb-d6ab-4e7c-ba78-6892a0448e91@f9941": {
+    "url": "db://assets/resources/Game/Weapon/10000.png@f9941",
+    "value": {
+      "depends": [
+        "594e8aeb-d6ab-4e7c-ba78-6892a0448e91@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7e037404-71e2-442d-834e-dcc7188f8443": {
+    "url": "db://assets/resources/Game/Weapon/203.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "98fcfd35-e127-450f-8c73-b221e853d866@f9941": {
+    "url": "db://assets/resources/Game/Weapon/104.png@f9941",
+    "value": {
+      "depends": [
+        "98fcfd35-e127-450f-8c73-b221e853d866@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "652b1dc2-4174-4c9d-b71b-bd40c7077fb0@f9941": {
+    "url": "db://assets/resources/Game/Weapon/103.png@f9941",
+    "value": {
+      "depends": [
+        "652b1dc2-4174-4c9d-b71b-bd40c7077fb0@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "068bbd28-8cb0-4d6a-bda0-622becab38a8": {
+    "url": "db://assets/resources/Game/Weapon/301.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "8a7ac936-6465-43a2-9082-3fc0f8bcf408": {
+    "url": "db://assets/resources/Game/Weapon/302.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "dc605e74-beac-4de2-a463-f491b015e0c3@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/201.png@6c48a",
+    "value": {
+      "depends": [
+        "dc605e74-beac-4de2-a463-f491b015e0c3"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7e037404-71e2-442d-834e-dcc7188f8443@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/203.png@6c48a",
+    "value": {
+      "depends": [
+        "7e037404-71e2-442d-834e-dcc7188f8443"
+      ]
+    },
+    "versionCode": 1
+  },
+  "86abe560-cfe0-46ba-90e0-b907c4676488@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/202.png@6c48a",
+    "value": {
+      "depends": [
+        "86abe560-cfe0-46ba-90e0-b907c4676488"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8a7ac936-6465-43a2-9082-3fc0f8bcf408@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/302.png@6c48a",
+    "value": {
+      "depends": [
+        "8a7ac936-6465-43a2-9082-3fc0f8bcf408"
+      ]
+    },
+    "versionCode": 1
+  },
+  "068bbd28-8cb0-4d6a-bda0-622becab38a8@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/301.png@6c48a",
+    "value": {
+      "depends": [
+        "068bbd28-8cb0-4d6a-bda0-622becab38a8"
+      ]
+    },
+    "versionCode": 1
+  },
+  "dc605e74-beac-4de2-a463-f491b015e0c3@f9941": {
+    "url": "db://assets/resources/Game/Weapon/201.png@f9941",
+    "value": {
+      "depends": [
+        "dc605e74-beac-4de2-a463-f491b015e0c3@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "cb5ea402-415d-4bb0-b0e5-0c02130e2ffc": {
+    "url": "db://assets/resources/Game/Weapon/303.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "7e037404-71e2-442d-834e-dcc7188f8443@f9941": {
+    "url": "db://assets/resources/Game/Weapon/203.png@f9941",
+    "value": {
+      "depends": [
+        "7e037404-71e2-442d-834e-dcc7188f8443@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c8821289-a04e-4b1b-90d4-3feaac5717fc": {
+    "url": "db://assets/resources/Game/Weapon/401.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "86abe560-cfe0-46ba-90e0-b907c4676488@f9941": {
+    "url": "db://assets/resources/Game/Weapon/202.png@f9941",
+    "value": {
+      "depends": [
+        "86abe560-cfe0-46ba-90e0-b907c4676488@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3eece4f9-5838-4b7a-bff6-aa455c3cbc2f": {
+    "url": "db://assets/resources/Game/Weapon/402.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "8a7ac936-6465-43a2-9082-3fc0f8bcf408@f9941": {
+    "url": "db://assets/resources/Game/Weapon/302.png@f9941",
+    "value": {
+      "depends": [
+        "8a7ac936-6465-43a2-9082-3fc0f8bcf408@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2f29fe97-ae9a-4d5a-87b4-7b312502b4f3": {
+    "url": "db://assets/resources/Game/Weapon/403.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "068bbd28-8cb0-4d6a-bda0-622becab38a8@f9941": {
+    "url": "db://assets/resources/Game/Weapon/301.png@f9941",
+    "value": {
+      "depends": [
+        "068bbd28-8cb0-4d6a-bda0-622becab38a8@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "15053b5e-ddf1-40ac-aa4f-17dc3193bd5a": {
+    "url": "db://assets/resources/Game/Weapon/404.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "c8821289-a04e-4b1b-90d4-3feaac5717fc@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/401.png@6c48a",
+    "value": {
+      "depends": [
+        "c8821289-a04e-4b1b-90d4-3feaac5717fc"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3eece4f9-5838-4b7a-bff6-aa455c3cbc2f@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/402.png@6c48a",
+    "value": {
+      "depends": [
+        "3eece4f9-5838-4b7a-bff6-aa455c3cbc2f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "cb5ea402-415d-4bb0-b0e5-0c02130e2ffc@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/303.png@6c48a",
+    "value": {
+      "depends": [
+        "cb5ea402-415d-4bb0-b0e5-0c02130e2ffc"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2f29fe97-ae9a-4d5a-87b4-7b312502b4f3@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/403.png@6c48a",
+    "value": {
+      "depends": [
+        "2f29fe97-ae9a-4d5a-87b4-7b312502b4f3"
+      ]
+    },
+    "versionCode": 1
+  },
+  "15053b5e-ddf1-40ac-aa4f-17dc3193bd5a@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/404.png@6c48a",
+    "value": {
+      "depends": [
+        "15053b5e-ddf1-40ac-aa4f-17dc3193bd5a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c8821289-a04e-4b1b-90d4-3feaac5717fc@f9941": {
+    "url": "db://assets/resources/Game/Weapon/401.png@f9941",
+    "value": {
+      "depends": [
+        "c8821289-a04e-4b1b-90d4-3feaac5717fc@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "cd7c6250-f322-4a37-a70c-c1ae00158925": {
+    "url": "db://assets/resources/Game/Weapon/501.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "3eece4f9-5838-4b7a-bff6-aa455c3cbc2f@f9941": {
+    "url": "db://assets/resources/Game/Weapon/402.png@f9941",
+    "value": {
+      "depends": [
+        "3eece4f9-5838-4b7a-bff6-aa455c3cbc2f@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "dc581086-e58a-4aad-bf44-0cb069ee5e2a": {
+    "url": "db://assets/resources/Game/Weapon/502.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "cb5ea402-415d-4bb0-b0e5-0c02130e2ffc@f9941": {
+    "url": "db://assets/resources/Game/Weapon/303.png@f9941",
+    "value": {
+      "depends": [
+        "cb5ea402-415d-4bb0-b0e5-0c02130e2ffc@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f218858a-671e-4d2d-9053-d9197a23b971": {
+    "url": "db://assets/resources/Game/Weapon/503.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "2f29fe97-ae9a-4d5a-87b4-7b312502b4f3@f9941": {
+    "url": "db://assets/resources/Game/Weapon/403.png@f9941",
+    "value": {
+      "depends": [
+        "2f29fe97-ae9a-4d5a-87b4-7b312502b4f3@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "15053b5e-ddf1-40ac-aa4f-17dc3193bd5a@f9941": {
+    "url": "db://assets/resources/Game/Weapon/404.png@f9941",
+    "value": {
+      "depends": [
+        "15053b5e-ddf1-40ac-aa4f-17dc3193bd5a@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "664ff4eb-59e5-4eb6-bb91-c50c0d998777": {
+    "url": "db://assets/resources/Game/Weapon/504.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "f97b64da-cb77-40c4-94e7-43123b3f4aad": {
+    "url": "db://assets/resources/Game/Weapon/601.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "f218858a-671e-4d2d-9053-d9197a23b971@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/503.png@6c48a",
+    "value": {
+      "depends": [
+        "f218858a-671e-4d2d-9053-d9197a23b971"
+      ]
+    },
+    "versionCode": 1
+  },
+  "dc581086-e58a-4aad-bf44-0cb069ee5e2a@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/502.png@6c48a",
+    "value": {
+      "depends": [
+        "dc581086-e58a-4aad-bf44-0cb069ee5e2a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "cd7c6250-f322-4a37-a70c-c1ae00158925@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/501.png@6c48a",
+    "value": {
+      "depends": [
+        "cd7c6250-f322-4a37-a70c-c1ae00158925"
+      ]
+    },
+    "versionCode": 1
+  },
+  "664ff4eb-59e5-4eb6-bb91-c50c0d998777@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/504.png@6c48a",
+    "value": {
+      "depends": [
+        "664ff4eb-59e5-4eb6-bb91-c50c0d998777"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f97b64da-cb77-40c4-94e7-43123b3f4aad@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/601.png@6c48a",
+    "value": {
+      "depends": [
+        "f97b64da-cb77-40c4-94e7-43123b3f4aad"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f218858a-671e-4d2d-9053-d9197a23b971@f9941": {
+    "url": "db://assets/resources/Game/Weapon/503.png@f9941",
+    "value": {
+      "depends": [
+        "f218858a-671e-4d2d-9053-d9197a23b971@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7ca3f260-b843-46c5-bfa9-15efbc3e2f38": {
+    "url": "db://assets/resources/Game/Weapon/602.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "dc581086-e58a-4aad-bf44-0cb069ee5e2a@f9941": {
+    "url": "db://assets/resources/Game/Weapon/502.png@f9941",
+    "value": {
+      "depends": [
+        "dc581086-e58a-4aad-bf44-0cb069ee5e2a@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5a726e44-d1c7-4c75-9dff-c2f11a569e43": {
+    "url": "db://assets/resources/Game/Weapon/603.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "cd7c6250-f322-4a37-a70c-c1ae00158925@f9941": {
+    "url": "db://assets/resources/Game/Weapon/501.png@f9941",
+    "value": {
+      "depends": [
+        "cd7c6250-f322-4a37-a70c-c1ae00158925@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ec7d6450-6b46-41fb-86f4-a17c8e8450fb": {
+    "url": "db://assets/resources/Game/Weapon/701.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "f97b64da-cb77-40c4-94e7-43123b3f4aad@f9941": {
+    "url": "db://assets/resources/Game/Weapon/601.png@f9941",
+    "value": {
+      "depends": [
+        "f97b64da-cb77-40c4-94e7-43123b3f4aad@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "12d61d58-e450-4270-86f9-bef1f9a5f006": {
+    "url": "db://assets/resources/Game/Weapon/70101.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "664ff4eb-59e5-4eb6-bb91-c50c0d998777@f9941": {
+    "url": "db://assets/resources/Game/Weapon/504.png@f9941",
+    "value": {
+      "depends": [
+        "664ff4eb-59e5-4eb6-bb91-c50c0d998777@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "bc37ec52-f152-40d8-85f1-0785a7fffa12": {
+    "url": "db://assets/resources/Game/Weapon/702.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "7ca3f260-b843-46c5-bfa9-15efbc3e2f38@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/602.png@6c48a",
+    "value": {
+      "depends": [
+        "7ca3f260-b843-46c5-bfa9-15efbc3e2f38"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ec7d6450-6b46-41fb-86f4-a17c8e8450fb@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/701.png@6c48a",
+    "value": {
+      "depends": [
+        "ec7d6450-6b46-41fb-86f4-a17c8e8450fb"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5a726e44-d1c7-4c75-9dff-c2f11a569e43@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/603.png@6c48a",
+    "value": {
+      "depends": [
+        "5a726e44-d1c7-4c75-9dff-c2f11a569e43"
+      ]
+    },
+    "versionCode": 1
+  },
+  "bc37ec52-f152-40d8-85f1-0785a7fffa12@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/702.png@6c48a",
+    "value": {
+      "depends": [
+        "bc37ec52-f152-40d8-85f1-0785a7fffa12"
+      ]
+    },
+    "versionCode": 1
+  },
+  "12d61d58-e450-4270-86f9-bef1f9a5f006@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/70101.png@6c48a",
+    "value": {
+      "depends": [
+        "12d61d58-e450-4270-86f9-bef1f9a5f006"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7ca3f260-b843-46c5-bfa9-15efbc3e2f38@f9941": {
+    "url": "db://assets/resources/Game/Weapon/602.png@f9941",
+    "value": {
+      "depends": [
+        "7ca3f260-b843-46c5-bfa9-15efbc3e2f38@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "bb6da2e8-5d52-412a-ac22-af149442a832": {
+    "url": "db://assets/resources/Game/Weapon/70201.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "5a726e44-d1c7-4c75-9dff-c2f11a569e43@f9941": {
+    "url": "db://assets/resources/Game/Weapon/603.png@f9941",
+    "value": {
+      "depends": [
+        "5a726e44-d1c7-4c75-9dff-c2f11a569e43@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fe1331d3-6636-4eca-949c-b413167ad22e": {
+    "url": "db://assets/resources/Game/Weapon/703.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ec7d6450-6b46-41fb-86f4-a17c8e8450fb@f9941": {
+    "url": "db://assets/resources/Game/Weapon/701.png@f9941",
+    "value": {
+      "depends": [
+        "ec7d6450-6b46-41fb-86f4-a17c8e8450fb@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "365343ef-5d0a-4ed9-8ae1-5a7efd4e4d7c": {
+    "url": "db://assets/resources/Game/Weapon/70301.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "bc37ec52-f152-40d8-85f1-0785a7fffa12@f9941": {
+    "url": "db://assets/resources/Game/Weapon/702.png@f9941",
+    "value": {
+      "depends": [
+        "bc37ec52-f152-40d8-85f1-0785a7fffa12@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6695829d-2cee-42f6-9f98-eca21a82cf9d": {
+    "url": "db://assets/resources/Map/Chapter/1001.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "bb6da2e8-5d52-412a-ac22-af149442a832@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/70201.png@6c48a",
+    "value": {
+      "depends": [
+        "bb6da2e8-5d52-412a-ac22-af149442a832"
+      ]
+    },
+    "versionCode": 1
+  },
+  "12d61d58-e450-4270-86f9-bef1f9a5f006@f9941": {
+    "url": "db://assets/resources/Game/Weapon/70101.png@f9941",
+    "value": {
+      "depends": [
+        "12d61d58-e450-4270-86f9-bef1f9a5f006@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c8195ed6-9a08-4859-be5c-b19a2ca980f7": {
+    "url": "db://assets/resources/Map/Chapter/101.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "fe1331d3-6636-4eca-949c-b413167ad22e@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/703.png@6c48a",
+    "value": {
+      "depends": [
+        "fe1331d3-6636-4eca-949c-b413167ad22e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "365343ef-5d0a-4ed9-8ae1-5a7efd4e4d7c@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/70301.png@6c48a",
+    "value": {
+      "depends": [
+        "365343ef-5d0a-4ed9-8ae1-5a7efd4e4d7c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6695829d-2cee-42f6-9f98-eca21a82cf9d@6c48a": {
+    "url": "db://assets/resources/Map/Chapter/1001.png@6c48a",
+    "value": {
+      "depends": [
+        "6695829d-2cee-42f6-9f98-eca21a82cf9d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fe1331d3-6636-4eca-949c-b413167ad22e@f9941": {
+    "url": "db://assets/resources/Game/Weapon/703.png@f9941",
+    "value": {
+      "depends": [
+        "fe1331d3-6636-4eca-949c-b413167ad22e@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "365343ef-5d0a-4ed9-8ae1-5a7efd4e4d7c@f9941": {
+    "url": "db://assets/resources/Game/Weapon/70301.png@f9941",
+    "value": {
+      "depends": [
+        "365343ef-5d0a-4ed9-8ae1-5a7efd4e4d7c@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "98a8d6de-93c3-403a-a4db-dbf28080ffd2": {
+    "url": "db://assets/resources/Map/Chapter/201.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "476dec8f-a265-4466-9963-3400db0610a1": {
+    "url": "db://assets/resources/Map/Chapter/301.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "bb6da2e8-5d52-412a-ac22-af149442a832@f9941": {
+    "url": "db://assets/resources/Game/Weapon/70201.png@f9941",
+    "value": {
+      "depends": [
+        "bb6da2e8-5d52-412a-ac22-af149442a832@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "00eb4e3d-eb20-4a59-8772-6888463428ea": {
+    "url": "db://assets/resources/Map/Chapter/401.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "c8195ed6-9a08-4859-be5c-b19a2ca980f7@6c48a": {
+    "url": "db://assets/resources/Map/Chapter/101.png@6c48a",
+    "value": {
+      "depends": [
+        "c8195ed6-9a08-4859-be5c-b19a2ca980f7"
+      ]
+    },
+    "versionCode": 1
+  },
+  "98a8d6de-93c3-403a-a4db-dbf28080ffd2@6c48a": {
+    "url": "db://assets/resources/Map/Chapter/201.png@6c48a",
+    "value": {
+      "depends": [
+        "98a8d6de-93c3-403a-a4db-dbf28080ffd2"
+      ]
+    },
+    "versionCode": 1
+  },
+  "476dec8f-a265-4466-9963-3400db0610a1@6c48a": {
+    "url": "db://assets/resources/Map/Chapter/301.png@6c48a",
+    "value": {
+      "depends": [
+        "476dec8f-a265-4466-9963-3400db0610a1"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6695829d-2cee-42f6-9f98-eca21a82cf9d@f9941": {
+    "url": "db://assets/resources/Map/Chapter/1001.png@f9941",
+    "value": {
+      "depends": [
+        "6695829d-2cee-42f6-9f98-eca21a82cf9d@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1c60d3a2-779d-45ab-87b3-cc5d50d25aec": {
+    "url": "db://assets/resources/Map/Chapter/501.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "00eb4e3d-eb20-4a59-8772-6888463428ea@6c48a": {
+    "url": "db://assets/resources/Map/Chapter/401.png@6c48a",
+    "value": {
+      "depends": [
+        "00eb4e3d-eb20-4a59-8772-6888463428ea"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c8195ed6-9a08-4859-be5c-b19a2ca980f7@f9941": {
+    "url": "db://assets/resources/Map/Chapter/101.png@f9941",
+    "value": {
+      "depends": [
+        "c8195ed6-9a08-4859-be5c-b19a2ca980f7@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fd53cca6-ddcd-4468-8ea3-4efd9711ae30": {
+    "url": "db://assets/resources/Map/Chapter/601.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "476dec8f-a265-4466-9963-3400db0610a1@f9941": {
+    "url": "db://assets/resources/Map/Chapter/301.png@f9941",
+    "value": {
+      "depends": [
+        "476dec8f-a265-4466-9963-3400db0610a1@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "98a8d6de-93c3-403a-a4db-dbf28080ffd2@f9941": {
+    "url": "db://assets/resources/Map/Chapter/201.png@f9941",
+    "value": {
+      "depends": [
+        "98a8d6de-93c3-403a-a4db-dbf28080ffd2@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "08c4902c-5300-4d7c-acf5-6cc6148de395": {
+    "url": "db://assets/resources/Map/Chapter/701.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "c12ee741-8916-4906-b6d8-bf7e4c9467dd": {
+    "url": "db://assets/resources/Map/Chapter/801.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "00eb4e3d-eb20-4a59-8772-6888463428ea@f9941": {
+    "url": "db://assets/resources/Map/Chapter/401.png@f9941",
+    "value": {
+      "depends": [
+        "00eb4e3d-eb20-4a59-8772-6888463428ea@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fe32130b-67a6-4b47-bb44-1d9f536ad599": {
+    "url": "db://assets/resources/Map/Chapter/901.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "1c60d3a2-779d-45ab-87b3-cc5d50d25aec@6c48a": {
+    "url": "db://assets/resources/Map/Chapter/501.png@6c48a",
+    "value": {
+      "depends": [
+        "1c60d3a2-779d-45ab-87b3-cc5d50d25aec"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fd53cca6-ddcd-4468-8ea3-4efd9711ae30@6c48a": {
+    "url": "db://assets/resources/Map/Chapter/601.png@6c48a",
+    "value": {
+      "depends": [
+        "fd53cca6-ddcd-4468-8ea3-4efd9711ae30"
+      ]
+    },
+    "versionCode": 1
+  },
+  "08c4902c-5300-4d7c-acf5-6cc6148de395@6c48a": {
+    "url": "db://assets/resources/Map/Chapter/701.png@6c48a",
+    "value": {
+      "depends": [
+        "08c4902c-5300-4d7c-acf5-6cc6148de395"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c12ee741-8916-4906-b6d8-bf7e4c9467dd@6c48a": {
+    "url": "db://assets/resources/Map/Chapter/801.png@6c48a",
+    "value": {
+      "depends": [
+        "c12ee741-8916-4906-b6d8-bf7e4c9467dd"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fe32130b-67a6-4b47-bb44-1d9f536ad599@6c48a": {
+    "url": "db://assets/resources/Map/Chapter/901.png@6c48a",
+    "value": {
+      "depends": [
+        "fe32130b-67a6-4b47-bb44-1d9f536ad599"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1c60d3a2-779d-45ab-87b3-cc5d50d25aec@f9941": {
+    "url": "db://assets/resources/Map/Chapter/501.png@f9941",
+    "value": {
+      "depends": [
+        "1c60d3a2-779d-45ab-87b3-cc5d50d25aec@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fd53cca6-ddcd-4468-8ea3-4efd9711ae30@f9941": {
+    "url": "db://assets/resources/Map/Chapter/601.png@f9941",
+    "value": {
+      "depends": [
+        "fd53cca6-ddcd-4468-8ea3-4efd9711ae30@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "bbc6afb7-f0fc-414f-8689-414d5c32d25b": {
+    "url": "db://assets/resources/Spine/Effect/chonguhecheng_ske.json",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "a8043dc1-8314-4682-8c1f-2bb5f47eba37": {
+    "url": "db://assets/resources/Spine/Effect/chonguhecheng_tex.json",
+    "value": {
+      "depends": [
+        "c5ae5ea8-fa74-4e6e-9ab7-b791e37b52d2@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c5ae5ea8-fa74-4e6e-9ab7-b791e37b52d2": {
+    "url": "db://assets/resources/Spine/Effect/chonguhecheng_tex.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "08c4902c-5300-4d7c-acf5-6cc6148de395@f9941": {
+    "url": "db://assets/resources/Map/Chapter/701.png@f9941",
+    "value": {
+      "depends": [
+        "08c4902c-5300-4d7c-acf5-6cc6148de395@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "92bac526-ac09-4291-b95f-f320016b6eb1": {
+    "url": "db://assets/resources/Spine/Effect/MonsterBlast_1.atlas",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "c12ee741-8916-4906-b6d8-bf7e4c9467dd@f9941": {
+    "url": "db://assets/resources/Map/Chapter/801.png@f9941",
+    "value": {
+      "depends": [
+        "c12ee741-8916-4906-b6d8-bf7e4c9467dd@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3dd66cc2-7bff-44eb-87c6-6bfb98393b3c": {
+    "url": "db://assets/resources/Spine/Effect/MonsterBlast_1.json",
+    "value": {
+      "depends": [
+        "e05a8afc-b760-466b-a181-48b8ea90f573@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fe32130b-67a6-4b47-bb44-1d9f536ad599@f9941": {
+    "url": "db://assets/resources/Map/Chapter/901.png@f9941",
+    "value": {
+      "depends": [
+        "fe32130b-67a6-4b47-bb44-1d9f536ad599@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e05a8afc-b760-466b-a181-48b8ea90f573": {
+    "url": "db://assets/resources/Spine/Effect/MonsterBlast_1.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "b3cdb1f1-e848-40b1-88d2-5409524441ad": {
+    "url": "db://assets/resources/Spine/Hero/General_101.atlas",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "49c927a3-8471-4d6a-8d6a-78eb101bd461": {
+    "url": "db://assets/resources/Spine/Hero/General_101.json",
+    "value": {
+      "depends": [
+        "a6c5b89c-4f14-4ea7-8006-ef89668cd9a2@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a6c5b89c-4f14-4ea7-8006-ef89668cd9a2": {
+    "url": "db://assets/resources/Spine/Hero/General_101.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "c5ae5ea8-fa74-4e6e-9ab7-b791e37b52d2@6c48a": {
+    "url": "db://assets/resources/Spine/Effect/chonguhecheng_tex.png@6c48a",
+    "value": {
+      "depends": [
+        "c5ae5ea8-fa74-4e6e-9ab7-b791e37b52d2"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7f8a5157-1544-4cef-8dc3-6397c0072df6": {
+    "url": "db://assets/resources/Spine/Popup/skeleton.atlas",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ffd7ecb5-66b9-4a21-9f87-c652d4a32367": {
+    "url": "db://assets/resources/Spine/Popup/skeleton.json",
+    "value": {
+      "depends": [
+        "79e9e771-29b9-4e83-8857-7aca46d1c144@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e05a8afc-b760-466b-a181-48b8ea90f573@6c48a": {
+    "url": "db://assets/resources/Spine/Effect/MonsterBlast_1.png@6c48a",
+    "value": {
+      "depends": [
+        "e05a8afc-b760-466b-a181-48b8ea90f573"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c5ae5ea8-fa74-4e6e-9ab7-b791e37b52d2@f9941": {
+    "url": "db://assets/resources/Spine/Effect/chonguhecheng_tex.png@f9941",
+    "value": {
+      "depends": [
+        "c5ae5ea8-fa74-4e6e-9ab7-b791e37b52d2@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "79e9e771-29b9-4e83-8857-7aca46d1c144": {
+    "url": "db://assets/resources/Spine/Popup/skeleton.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "a6c5b89c-4f14-4ea7-8006-ef89668cd9a2@6c48a": {
+    "url": "db://assets/resources/Spine/Hero/General_101.png@6c48a",
+    "value": {
+      "depends": [
+        "a6c5b89c-4f14-4ea7-8006-ef89668cd9a2"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f6f544d7-0c74-4874-9e48-033577890025": {
+    "url": "db://assets/Res/Texture/Popup/Chapter/down.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "2c59f8f7-2d0b-46ee-964e-e5a7a5e6678a": {
+    "url": "db://assets/Res/Texture/Popup/Chapter/lock.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "e05a8afc-b760-466b-a181-48b8ea90f573@f9941": {
+    "url": "db://assets/resources/Spine/Effect/MonsterBlast_1.png@f9941",
+    "value": {
+      "depends": [
+        "e05a8afc-b760-466b-a181-48b8ea90f573@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2419487c-df19-4b11-8b5c-40af9f24d2c2": {
+    "url": "db://assets/Res/Texture/Popup/Chapter/up.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "a6c5b89c-4f14-4ea7-8006-ef89668cd9a2@f9941": {
+    "url": "db://assets/resources/Spine/Hero/General_101.png@f9941",
+    "value": {
+      "depends": [
+        "a6c5b89c-4f14-4ea7-8006-ef89668cd9a2@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5607f0fe-e33f-4565-b6d2-0e2f14624d12": {
+    "url": "db://assets/Res/Texture/Popup/Game/17176167890459.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "79e9e771-29b9-4e83-8857-7aca46d1c144@6c48a": {
+    "url": "db://assets/resources/Spine/Popup/skeleton.png@6c48a",
+    "value": {
+      "depends": [
+        "79e9e771-29b9-4e83-8857-7aca46d1c144"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f6f544d7-0c74-4874-9e48-033577890025@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Chapter/down.png@6c48a",
+    "value": {
+      "depends": [
+        "f6f544d7-0c74-4874-9e48-033577890025"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2c59f8f7-2d0b-46ee-964e-e5a7a5e6678a@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Chapter/lock.png@6c48a",
+    "value": {
+      "depends": [
+        "2c59f8f7-2d0b-46ee-964e-e5a7a5e6678a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2419487c-df19-4b11-8b5c-40af9f24d2c2@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Chapter/up.png@6c48a",
+    "value": {
+      "depends": [
+        "2419487c-df19-4b11-8b5c-40af9f24d2c2"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5607f0fe-e33f-4565-b6d2-0e2f14624d12@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Game/17176167890459.png@6c48a",
+    "value": {
+      "depends": [
+        "5607f0fe-e33f-4565-b6d2-0e2f14624d12"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f6f544d7-0c74-4874-9e48-033577890025@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Chapter/down.png@f9941",
+    "value": {
+      "depends": [
+        "f6f544d7-0c74-4874-9e48-033577890025@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ccdeab3d-0695-4fb1-8ec3-496c9b93fa95": {
+    "url": "db://assets/Res/Texture/Popup/Game/1717616873905176.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "79e9e771-29b9-4e83-8857-7aca46d1c144@f9941": {
+    "url": "db://assets/resources/Spine/Popup/skeleton.png@f9941",
+    "value": {
+      "depends": [
+        "79e9e771-29b9-4e83-8857-7aca46d1c144@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b470fb93-8863-476d-b52c-bc860afd2d4e": {
+    "url": "db://assets/Res/Texture/Popup/Game/1717616874413177.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "2c59f8f7-2d0b-46ee-964e-e5a7a5e6678a@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Chapter/lock.png@f9941",
+    "value": {
+      "depends": [
+        "2c59f8f7-2d0b-46ee-964e-e5a7a5e6678a@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "59af8cfb-d9c4-4ccd-a58a-63e10826eb79": {
+    "url": "db://assets/Res/Texture/Popup/Game/1717616874922178.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "2419487c-df19-4b11-8b5c-40af9f24d2c2@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Chapter/up.png@f9941",
+    "value": {
+      "depends": [
+        "2419487c-df19-4b11-8b5c-40af9f24d2c2@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5607f0fe-e33f-4565-b6d2-0e2f14624d12@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Game/17176167890459.png@f9941",
+    "value": {
+      "depends": [
+        "5607f0fe-e33f-4565-b6d2-0e2f14624d12@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "babe40f5-d9c6-42e5-bd59-896cb8966da9": {
+    "url": "db://assets/Res/Texture/Popup/Game/1717616875951180.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "4537425f-7b6f-4ca8-b1f6-d59a7d67ace7": {
+    "url": "db://assets/Res/Texture/Popup/Game/19000270638_769.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "b470fb93-8863-476d-b52c-bc860afd2d4e@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Game/1717616874413177.png@6c48a",
+    "value": {
+      "depends": [
+        "b470fb93-8863-476d-b52c-bc860afd2d4e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "59af8cfb-d9c4-4ccd-a58a-63e10826eb79@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Game/1717616874922178.png@6c48a",
+    "value": {
+      "depends": [
+        "59af8cfb-d9c4-4ccd-a58a-63e10826eb79"
+      ]
+    },
+    "versionCode": 1
+  },
+  "4537425f-7b6f-4ca8-b1f6-d59a7d67ace7@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Game/19000270638_769.png@6c48a",
+    "value": {
+      "depends": [
+        "4537425f-7b6f-4ca8-b1f6-d59a7d67ace7"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ccdeab3d-0695-4fb1-8ec3-496c9b93fa95@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Game/1717616873905176.png@6c48a",
+    "value": {
+      "depends": [
+        "ccdeab3d-0695-4fb1-8ec3-496c9b93fa95"
+      ]
+    },
+    "versionCode": 1
+  },
+  "babe40f5-d9c6-42e5-bd59-896cb8966da9@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Game/1717616875951180.png@6c48a",
+    "value": {
+      "depends": [
+        "babe40f5-d9c6-42e5-bd59-896cb8966da9"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b470fb93-8863-476d-b52c-bc860afd2d4e@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Game/1717616874413177.png@f9941",
+    "value": {
+      "depends": [
+        "b470fb93-8863-476d-b52c-bc860afd2d4e@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "518b35c4-5dc8-4822-a654-6460fdaca27a": {
+    "url": "db://assets/Res/Texture/Popup/Game/atkIcon.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "59af8cfb-d9c4-4ccd-a58a-63e10826eb79@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Game/1717616874922178.png@f9941",
+    "value": {
+      "depends": [
+        "59af8cfb-d9c4-4ccd-a58a-63e10826eb79@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ccdeab3d-0695-4fb1-8ec3-496c9b93fa95@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Game/1717616873905176.png@f9941",
+    "value": {
+      "depends": [
+        "ccdeab3d-0695-4fb1-8ec3-496c9b93fa95@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fd9d18f8-8346-44d8-bd5d-2059a35c8b7d": {
+    "url": "db://assets/Res/Texture/Popup/Game/bar.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "c5c492b0-591e-4bf0-bd09-fab62637c3d1": {
+    "url": "db://assets/Res/Texture/Popup/Game/boxIcon.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "babe40f5-d9c6-42e5-bd59-896cb8966da9@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Game/1717616875951180.png@f9941",
+    "value": {
+      "depends": [
+        "babe40f5-d9c6-42e5-bd59-896cb8966da9@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f58274e2-e8f1-4ea5-97a4-3f5b2671b84f": {
+    "url": "db://assets/Res/Texture/Popup/Game/btnBg.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "4537425f-7b6f-4ca8-b1f6-d59a7d67ace7@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Game/19000270638_769.png@f9941",
+    "value": {
+      "depends": [
+        "4537425f-7b6f-4ca8-b1f6-d59a7d67ace7@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f0075b91-82f1-4479-abc6-2116e69faeb1": {
+    "url": "db://assets/Res/Texture/Popup/Game/button01.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "fd9d18f8-8346-44d8-bd5d-2059a35c8b7d@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Game/bar.png@6c48a",
+    "value": {
+      "depends": [
+        "fd9d18f8-8346-44d8-bd5d-2059a35c8b7d"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c5c492b0-591e-4bf0-bd09-fab62637c3d1@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Game/boxIcon.png@6c48a",
+    "value": {
+      "depends": [
+        "c5c492b0-591e-4bf0-bd09-fab62637c3d1"
+      ]
+    },
+    "versionCode": 1
+  },
+  "518b35c4-5dc8-4822-a654-6460fdaca27a@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Game/atkIcon.png@6c48a",
+    "value": {
+      "depends": [
+        "518b35c4-5dc8-4822-a654-6460fdaca27a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f58274e2-e8f1-4ea5-97a4-3f5b2671b84f@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Game/btnBg.png@6c48a",
+    "value": {
+      "depends": [
+        "f58274e2-e8f1-4ea5-97a4-3f5b2671b84f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f0075b91-82f1-4479-abc6-2116e69faeb1@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Game/button01.png@6c48a",
+    "value": {
+      "depends": [
+        "f0075b91-82f1-4479-abc6-2116e69faeb1"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fd9d18f8-8346-44d8-bd5d-2059a35c8b7d@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Game/bar.png@f9941",
+    "value": {
+      "depends": [
+        "fd9d18f8-8346-44d8-bd5d-2059a35c8b7d@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5a21866d-89d1-455a-8f40-d59b10dbe07b": {
+    "url": "db://assets/Res/Texture/Popup/Game/button02.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "f0075b91-82f1-4479-abc6-2116e69faeb1@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Game/button01.png@f9941",
+    "value": {
+      "depends": [
+        "f0075b91-82f1-4479-abc6-2116e69faeb1@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1a5640b4-0004-457a-a4cf-71682f234fba": {
+    "url": "db://assets/Res/Texture/Popup/Game/defenseIcon.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "c5c492b0-591e-4bf0-bd09-fab62637c3d1@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Game/boxIcon.png@f9941",
+    "value": {
+      "depends": [
+        "c5c492b0-591e-4bf0-bd09-fab62637c3d1@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fc8ba2f0-9a06-407e-b15e-af833959852c": {
+    "url": "db://assets/Res/Texture/Popup/Game/diamond.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "518b35c4-5dc8-4822-a654-6460fdaca27a@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Game/atkIcon.png@f9941",
+    "value": {
+      "depends": [
+        "518b35c4-5dc8-4822-a654-6460fdaca27a@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2bda9e07-d104-4e58-bb9e-086ad9c2b9f2": {
+    "url": "db://assets/Res/Texture/Popup/Game/fail_title.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "f58274e2-e8f1-4ea5-97a4-3f5b2671b84f@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Game/btnBg.png@f9941",
+    "value": {
+      "depends": [
+        "f58274e2-e8f1-4ea5-97a4-3f5b2671b84f@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "42b2e69b-bf69-4970-a2d6-34b46e55e1b5": {
+    "url": "db://assets/Res/Texture/Popup/Game/frameBg1.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "5a21866d-89d1-455a-8f40-d59b10dbe07b@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Game/button02.png@6c48a",
+    "value": {
+      "depends": [
+        "5a21866d-89d1-455a-8f40-d59b10dbe07b"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1a5640b4-0004-457a-a4cf-71682f234fba@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Game/defenseIcon.png@6c48a",
+    "value": {
+      "depends": [
+        "1a5640b4-0004-457a-a4cf-71682f234fba"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fc8ba2f0-9a06-407e-b15e-af833959852c@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Game/diamond.png@6c48a",
+    "value": {
+      "depends": [
+        "fc8ba2f0-9a06-407e-b15e-af833959852c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2bda9e07-d104-4e58-bb9e-086ad9c2b9f2@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Game/fail_title.png@6c48a",
+    "value": {
+      "depends": [
+        "2bda9e07-d104-4e58-bb9e-086ad9c2b9f2"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5a21866d-89d1-455a-8f40-d59b10dbe07b@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Game/button02.png@f9941",
+    "value": {
+      "depends": [
+        "5a21866d-89d1-455a-8f40-d59b10dbe07b@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "713df0ed-de49-4227-b08c-19de7db198dc": {
+    "url": "db://assets/Res/Texture/Popup/Game/frameBg2.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "42b2e69b-bf69-4970-a2d6-34b46e55e1b5@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Game/frameBg1.png@6c48a",
+    "value": {
+      "depends": [
+        "42b2e69b-bf69-4970-a2d6-34b46e55e1b5"
+      ]
+    },
+    "versionCode": 1
+  },
+  "1a5640b4-0004-457a-a4cf-71682f234fba@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Game/defenseIcon.png@f9941",
+    "value": {
+      "depends": [
+        "1a5640b4-0004-457a-a4cf-71682f234fba@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "37d0323a-89da-4702-8e26-dde7f97d5bd8": {
+    "url": "db://assets/Res/Texture/Popup/Game/gold.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "2bda9e07-d104-4e58-bb9e-086ad9c2b9f2@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Game/fail_title.png@f9941",
+    "value": {
+      "depends": [
+        "2bda9e07-d104-4e58-bb9e-086ad9c2b9f2@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "45b11c54-1382-4473-bd4d-ef8498a3c89b": {
+    "url": "db://assets/Res/Texture/Popup/Game/hpIcon.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "fc8ba2f0-9a06-407e-b15e-af833959852c@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Game/diamond.png@f9941",
+    "value": {
+      "depends": [
+        "fc8ba2f0-9a06-407e-b15e-af833959852c@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ec9c8136-0c02-4bd2-8991-38f870ee270b": {
+    "url": "db://assets/Res/Texture/Popup/Game/proBar.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "42b2e69b-bf69-4970-a2d6-34b46e55e1b5@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Game/frameBg1.png@f9941",
+    "value": {
+      "depends": [
+        "42b2e69b-bf69-4970-a2d6-34b46e55e1b5@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "afec5dd1-e923-4b31-8765-3d01a04610ff": {
+    "url": "db://assets/Res/Texture/Popup/Game/proFrame.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "713df0ed-de49-4227-b08c-19de7db198dc@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Game/frameBg2.png@6c48a",
+    "value": {
+      "depends": [
+        "713df0ed-de49-4227-b08c-19de7db198dc"
+      ]
+    },
+    "versionCode": 1
+  },
+  "37d0323a-89da-4702-8e26-dde7f97d5bd8@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Game/gold.png@6c48a",
+    "value": {
+      "depends": [
+        "37d0323a-89da-4702-8e26-dde7f97d5bd8"
+      ]
+    },
+    "versionCode": 1
+  },
+  "45b11c54-1382-4473-bd4d-ef8498a3c89b@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Game/hpIcon.png@6c48a",
+    "value": {
+      "depends": [
+        "45b11c54-1382-4473-bd4d-ef8498a3c89b"
+      ]
+    },
+    "versionCode": 1
+  },
+  "ec9c8136-0c02-4bd2-8991-38f870ee270b@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Game/proBar.png@6c48a",
+    "value": {
+      "depends": [
+        "ec9c8136-0c02-4bd2-8991-38f870ee270b"
+      ]
+    },
+    "versionCode": 1
+  },
+  "45b11c54-1382-4473-bd4d-ef8498a3c89b@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Game/hpIcon.png@f9941",
+    "value": {
+      "depends": [
+        "45b11c54-1382-4473-bd4d-ef8498a3c89b@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "afec5dd1-e923-4b31-8765-3d01a04610ff@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Game/proFrame.png@6c48a",
+    "value": {
+      "depends": [
+        "afec5dd1-e923-4b31-8765-3d01a04610ff"
+      ]
+    },
+    "versionCode": 1
+  },
+  "64beba9f-f511-4c9a-bc39-08d333458aac": {
+    "url": "db://assets/Res/Texture/Popup/Game/victory_title.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "713df0ed-de49-4227-b08c-19de7db198dc@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Game/frameBg2.png@f9941",
+    "value": {
+      "depends": [
+        "713df0ed-de49-4227-b08c-19de7db198dc@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "bb90b8fc-413a-4b91-b567-b5ac445fcf68": {
+    "url": "db://assets/Res/Texture/Popup/Load/loadBar.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "37d0323a-89da-4702-8e26-dde7f97d5bd8@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Game/gold.png@f9941",
+    "value": {
+      "depends": [
+        "37d0323a-89da-4702-8e26-dde7f97d5bd8@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c740deaa-beb3-4b1f-9510-413e02855ede": {
+    "url": "db://assets/Res/Texture/Popup/Load/loadFrame.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "ec9c8136-0c02-4bd2-8991-38f870ee270b@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Game/proBar.png@f9941",
+    "value": {
+      "depends": [
+        "ec9c8136-0c02-4bd2-8991-38f870ee270b@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "86c5235b-4525-456b-8f3a-81000083f882": {
+    "url": "db://assets/Res/Texture/Popup/Load/logo.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "afec5dd1-e923-4b31-8765-3d01a04610ff@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Game/proFrame.png@f9941",
+    "value": {
+      "depends": [
+        "afec5dd1-e923-4b31-8765-3d01a04610ff@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5f3a00c0-6afb-421c-937b-aee74190c425": {
+    "url": "db://assets/Res/Texture/Popup/Pause/1900049e36f_87e.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "64beba9f-f511-4c9a-bc39-08d333458aac@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Game/victory_title.png@6c48a",
+    "value": {
+      "depends": [
+        "64beba9f-f511-4c9a-bc39-08d333458aac"
+      ]
+    },
+    "versionCode": 1
+  },
+  "bb90b8fc-413a-4b91-b567-b5ac445fcf68@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Load/loadBar.png@6c48a",
+    "value": {
+      "depends": [
+        "bb90b8fc-413a-4b91-b567-b5ac445fcf68"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c740deaa-beb3-4b1f-9510-413e02855ede@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Load/loadFrame.png@6c48a",
+    "value": {
+      "depends": [
+        "c740deaa-beb3-4b1f-9510-413e02855ede"
+      ]
+    },
+    "versionCode": 1
+  },
+  "86c5235b-4525-456b-8f3a-81000083f882@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Load/logo.png@6c48a",
+    "value": {
+      "depends": [
+        "86c5235b-4525-456b-8f3a-81000083f882"
+      ]
+    },
+    "versionCode": 1
+  },
+  "bb90b8fc-413a-4b91-b567-b5ac445fcf68@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Load/loadBar.png@f9941",
+    "value": {
+      "depends": [
+        "bb90b8fc-413a-4b91-b567-b5ac445fcf68@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e2084fe2-3acd-42ce-a339-c88f695d2354": {
+    "url": "db://assets/Res/Texture/Popup/Pause/1900049e372_3f4.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "64beba9f-f511-4c9a-bc39-08d333458aac@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Game/victory_title.png@f9941",
+    "value": {
+      "depends": [
+        "64beba9f-f511-4c9a-bc39-08d333458aac@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fbb82878-86a9-4d5d-9b10-7b94fdc4cbda": {
+    "url": "db://assets/Res/Texture/Popup/Pause/1900049e373_844.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "5f3a00c0-6afb-421c-937b-aee74190c425@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Pause/1900049e36f_87e.png@6c48a",
+    "value": {
+      "depends": [
+        "5f3a00c0-6afb-421c-937b-aee74190c425"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c740deaa-beb3-4b1f-9510-413e02855ede@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Load/loadFrame.png@f9941",
+    "value": {
+      "depends": [
+        "c740deaa-beb3-4b1f-9510-413e02855ede@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7ad335e4-a13b-434e-8769-2de68c16d4c2": {
+    "url": "db://assets/Res/Texture/Popup/Pause/1900049e37a_fa3.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "86c5235b-4525-456b-8f3a-81000083f882@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Load/logo.png@f9941",
+    "value": {
+      "depends": [
+        "86c5235b-4525-456b-8f3a-81000083f882@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "24f0ecc1-961b-4c9b-bb4f-07be87851c88": {
+    "url": "db://assets/resources/Anim/Monster/common/Move.anim",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "5f3a00c0-6afb-421c-937b-aee74190c425@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Pause/1900049e36f_87e.png@f9941",
+    "value": {
+      "depends": [
+        "5f3a00c0-6afb-421c-937b-aee74190c425@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "db9e88b1-7c91-475b-99ac-49ce8472282d": {
+    "url": "db://assets/resources/Anim/Monster/common/Skill.anim",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "615917e2-8f30-4c4f-8b72-dbba74c6e720": {
+    "url": "db://assets/resources/Prefab/Game/Battle/blastItem.prefab",
+    "value": {
+      "depends": [
+        "3dd66cc2-7bff-44eb-87c6-6bfb98393b3c"
+      ],
+      "dependScripts": [
+        "6cdfb6c2-1151-4fb5-aacc-8231fb02bf5b"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e2084fe2-3acd-42ce-a339-c88f695d2354@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Pause/1900049e372_3f4.png@6c48a",
+    "value": {
+      "depends": [
+        "e2084fe2-3acd-42ce-a339-c88f695d2354"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fbb82878-86a9-4d5d-9b10-7b94fdc4cbda@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Pause/1900049e373_844.png@6c48a",
+    "value": {
+      "depends": [
+        "fbb82878-86a9-4d5d-9b10-7b94fdc4cbda"
+      ]
+    },
+    "versionCode": 1
+  },
+  "fd09455a-43d9-44f8-8cc0-50476ff372c9": {
+    "url": "db://assets/resources/Prefab/Game/Battle/boxItem.prefab",
+    "value": {
+      "depends": [
+        "ffd7ecb5-66b9-4a21-9f87-c652d4a32367"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "7ad335e4-a13b-434e-8769-2de68c16d4c2@6c48a": {
+    "url": "db://assets/Res/Texture/Popup/Pause/1900049e37a_fa3.png@6c48a",
+    "value": {
+      "depends": [
+        "7ad335e4-a13b-434e-8769-2de68c16d4c2"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9eee6bb4-9f86-4636-b1c6-d03c70bba8d5": {
+    "url": "db://assets/resources/Prefab/Game/Battle/damageNum.prefab",
+    "value": {
+      "depends": [
+        "ff3b151d-3aa3-4d56-b491-2d491f898f85"
+      ],
+      "dependScripts": [
+        "6c20c86e-dfd8-4729-8bfd-32e6bd3b3fd7"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e2084fe2-3acd-42ce-a339-c88f695d2354@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Pause/1900049e372_3f4.png@f9941",
+    "value": {
+      "depends": [
+        "e2084fe2-3acd-42ce-a339-c88f695d2354@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f6076b75-37db-4c77-9c70-4c91ace5ff5b": {
+    "url": "db://assets/resources/Prefab/Game/Battle/goldItem.prefab",
+    "value": {
+      "depends": [
+        "280e3cd6-33d6-4a96-a764-d108505fa4d0@f9941"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 1
+  },
+  "fbb82878-86a9-4d5d-9b10-7b94fdc4cbda@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Pause/1900049e373_844.png@f9941",
+    "value": {
+      "depends": [
+        "fbb82878-86a9-4d5d-9b10-7b94fdc4cbda@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "7ad335e4-a13b-434e-8769-2de68c16d4c2@f9941": {
+    "url": "db://assets/Res/Texture/Popup/Pause/1900049e37a_fa3.png@f9941",
+    "value": {
+      "depends": [
+        "7ad335e4-a13b-434e-8769-2de68c16d4c2@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "12d7e706-effd-4302-8e03-4a1ec144ddde": {
+    "url": "db://assets/resources/Prefab/Game/Battle/heroHpItem.prefab",
+    "value": {
+      "depends": [
+        "24a704da-2867-446d-8d1a-5e920c75e09d@f9941",
+        "ff3b151d-3aa3-4d56-b491-2d491f898f85",
+        "45b11c54-1382-4473-bd4d-ef8498a3c89b@f9941",
+        "9fd900dd-221b-4f89-8f2c-fba34243c835@f9941"
+      ],
+      "dependScripts": [
+        "f84e21ad-966f-4b50-8668-6c1b4f9788b2"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e5dab950-7bcf-4701-8c59-9fd3f39b89d1": {
+    "url": "db://assets/resources/Prefab/Game/Battle/monsterHpItem.prefab",
+    "value": {
+      "depends": [
+        "24a704da-2867-446d-8d1a-5e920c75e09d@f9941",
+        "9fd900dd-221b-4f89-8f2c-fba34243c835@f9941"
+      ],
+      "dependScripts": [
+        "237f57b9-042e-4502-b07a-ed01ee011017"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3f41154c-83d4-435a-b7a6-091281db04cb": {
+    "url": "db://assets/resources/Prefab/Game/Battle/shadown.prefab",
+    "value": {
+      "depends": [
+        "fab4a0b3-7948-40ab-a109-62e48ca4d7ea@f9941"
+      ],
+      "dependScripts": [
+        "12eda857-5875-44b8-86fb-f41f2dc0c013"
+      ]
+    },
+    "versionCode": 1
+  },
+  "72cc8167-7c0e-4ddc-b382-195966697561": {
+    "url": "db://assets/resources/Prefab/Game/Battle/synEffect.prefab",
+    "value": {
+      "depends": [
+        "bbc6afb7-f0fc-414f-8689-414d5c32d25b",
+        "a8043dc1-8314-4682-8c1f-2bb5f47eba37"
+      ],
+      "dependScripts": [
+        "6f6646b3-a51d-4feb-be2b-3ef7f8d86669"
+      ]
+    },
+    "versionCode": 1
+  },
+  "16702ea5-8986-4082-9211-8231b9f60b66": {
+    "url": "db://assets/resources/Prefab/Game/Grid/gridBgItem.prefab",
+    "value": {
+      "depends": [
+        "e3d7c799-25ba-4ce0-bbd3-a7cd397d5665@f9941",
+        "ea643814-787d-4f0b-93aa-a664f7c4eed1@f9941"
+      ],
+      "dependScripts": [
+        "9bfcbb7d-541a-495e-b4d8-7736ab54c761"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c4cfe24b-bbfa-427d-8b15-a9683d5948c8": {
+    "url": "db://assets/resources/Prefab/Game/Grid/gridItem.prefab",
+    "value": {
+      "depends": [
+        "37ad525b-7124-454a-af36-c4d8950cca91@f9941"
+      ],
+      "dependScripts": [
+        "568992d7-c457-459f-a4f9-0da8c8204d8e"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5d168af4-a4d9-4967-b152-fdedb9017ebd": {
+    "url": "db://assets/resources/Prefab/Game/Hero/heroItem.prefab",
+    "value": {
+      "depends": [
+        "f8853531-ea7f-4b6d-9c52-29f7afd6e51f",
+        "49c927a3-8471-4d6a-8d6a-78eb101bd461",
+        "327b242b-853b-4378-bb4a-53c0b670fb23"
+      ],
+      "dependScripts": [
+        "2cade8c2-61d6-412a-b09f-ceea7b089e3f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d7bde034-757b-4b38-9907-9bff62bd8828": {
+    "url": "db://assets/resources/Prefab/Game/Monster/MonsterPrefab.prefab",
+    "value": {
+      "depends": [
+        "f8853531-ea7f-4b6d-9c52-29f7afd6e51f",
+        "080d9386-80a1-40e2-a24c-d893bd78440f@f9941"
+      ],
+      "dependScripts": [
+        "15d328bb-e096-4a35-87d5-f77254b5c489"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f999bbc8-119e-4608-965d-e865744f402b": {
+    "url": "db://assets/resources/Prefab/Game/Skill/skillBulletItem.prefab",
+    "value": {
+      "depends": [],
+      "dependScripts": [
+        "a64849d4-9b25-493a-b545-3b2a42740226"
+      ]
+    },
+    "versionCode": 1
+  },
+  "327b242b-853b-4378-bb4a-53c0b670fb23": {
+    "url": "db://assets/resources/Prefab/Game/Skill/skillTypeItem.prefab",
+    "value": {
+      "depends": [
+        "05097e4f-d0d8-44dc-946d-76b003f635d0@f9941"
+      ],
+      "dependScripts": [
+        "f6d14e3d-aaaf-4764-95f4-8b8cffccb141"
+      ]
+    },
+    "versionCode": 1
+  },
+  "04daa289-9296-419d-8272-cd19b335fd4a": {
+    "url": "db://assets/resources/Prefab/Game/Weapon/weaponBgItem.prefab",
+    "value": {
+      "depends": [
+        "37ad525b-7124-454a-af36-c4d8950cca91@f9941"
+      ],
+      "dependScripts": [
+        "f96cdda8-70dd-40bf-bb22-6763256f3d3b"
+      ]
+    },
+    "versionCode": 1
+  },
+  "080c3bbf-1a4e-4d74-8678-7daad253eefb": {
+    "url": "db://assets/resources/Prefab/Game/Weapon/weaponItem.prefab",
+    "value": {
+      "depends": [
+        "b5883b96-4b1f-421c-9b41-5de44f7c15d8"
+      ],
+      "dependScripts": [
+        "25dfd9f6-3516-4f28-b669-20ec18f39c22"
+      ]
+    },
+    "versionCode": 1
+  },
+  "b714d3f2-5530-4ec9-92e9-24be33736a50": {
+    "url": "db://assets/resources/Prefab/Popup/Common/toast.prefab",
+    "value": {
+      "depends": [
+        "3d3fe646-2353-4817-9ff4-d00319ccd5d9@f9941"
+      ],
+      "dependScripts": [
+        "ddfe1ae0-c55c-44a1-95bc-fcabbcf179fb"
+      ]
+    },
+    "versionCode": 1
+  },
+  "6610fd95-f2d0-4503-bcaf-a02c889668fc": {
+    "url": "db://assets/resources/Prefab/Popup/Game/gameOverPopup.prefab",
+    "value": {
+      "depends": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "5a21866d-89d1-455a-8f40-d59b10dbe07b@f9941",
+        "2bda9e07-d104-4e58-bb9e-086ad9c2b9f2@f9941",
+        "64beba9f-f511-4c9a-bc39-08d333458aac@f9941"
+      ],
+      "dependScripts": [
+        "a7351039-bdf0-46db-a56a-dc5c78673ceb",
+        "29ec86fb-03d6-407e-9a21-dbca48600190",
+        "9d1be4d9-b195-4b2e-874b-14c86405af32",
+        "29c35fe4-51b6-40df-af51-a34f9d0f9efc"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e74b687c-bad6-4db4-a69b-7a54e4f22d80": {
+    "url": "db://assets/resources/Prefab/Popup/Game/gamePopup.prefab",
+    "value": {
+      "depends": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "ccdeab3d-0695-4fb1-8ec3-496c9b93fa95@f9941",
+        "37d0323a-89da-4702-8e26-dde7f97d5bd8@f9941",
+        "ff3b151d-3aa3-4d56-b491-2d491f898f85",
+        "babe40f5-d9c6-42e5-bd59-896cb8966da9@f9941",
+        "fd9d18f8-8346-44d8-bd5d-2059a35c8b7d@f9941",
+        "b470fb93-8863-476d-b52c-bc860afd2d4e@f9941",
+        "f0075b91-82f1-4479-abc6-2116e69faeb1@f9941",
+        "5a21866d-89d1-455a-8f40-d59b10dbe07b@f9941",
+        "327b242b-853b-4378-bb4a-53c0b670fb23"
+      ],
+      "dependScripts": [
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8",
+        "9d1be4d9-b195-4b2e-874b-14c86405af32",
+        "dbe14afe-9a7e-4486-b7e2-3b3cbe62cf15"
+      ]
+    },
+    "versionCode": 1
+  },
+  "d18069bf-e1c7-4816-8b27-49f504bb6b05": {
+    "url": "db://assets/resources/Prefab/Popup/Game/pausePopup.prefab",
+    "value": {
+      "depends": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "e2084fe2-3acd-42ce-a339-c88f695d2354@f9941",
+        "5a21866d-89d1-455a-8f40-d59b10dbe07b@f9941",
+        "f0075b91-82f1-4479-abc6-2116e69faeb1@f9941"
+      ],
+      "dependScripts": [
+        "9d1be4d9-b195-4b2e-874b-14c86405af32",
+        "b25360d3-352d-488b-9380-996a152abcf1"
+      ]
+    },
+    "versionCode": 1
+  },
+  "c0472610-52b1-4e75-8cd2-816c7b3d811b": {
+    "url": "db://assets/resources/Prefab/Popup/Weapon/weaponDetailPopup.prefab",
+    "value": {
+      "depends": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "bc37ec52-f152-40d8-85f1-0785a7fffa12@f9941",
+        "4537425f-7b6f-4ca8-b1f6-d59a7d67ace7@f9941",
+        "5a21866d-89d1-455a-8f40-d59b10dbe07b@f9941"
+      ],
+      "dependScripts": [
+        "9d1be4d9-b195-4b2e-874b-14c86405af32",
+        "53b5d988-d75d-4edc-a1e7-3cd30c66b8f9"
+      ]
+    },
+    "versionCode": 1
+  }
+}

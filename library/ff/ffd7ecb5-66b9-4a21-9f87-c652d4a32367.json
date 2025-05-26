@@ -1,0 +1,281 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "skeleton",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "aCERHVMFiSquGOyyMHsXqAtunkw",
+      "spine": "3.8.99",
+      "x": -83,
+      "y": -80,
+      "width": 166,
+      "height": 160,
+      "images": "./新建文件夹/",
+      "audio": ""
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "kai",
+        "parent": "root",
+        "length": 31.54,
+        "rotation": 92.2,
+        "x": 1.7,
+        "y": -33.7
+      },
+      {
+        "name": "guan",
+        "parent": "root",
+        "length": 39.73,
+        "rotation": 92.62,
+        "x": 1.62,
+        "y": -35.38
+      },
+      {
+        "name": "guang",
+        "parent": "root"
+      }
+    ],
+    "slots": [
+      {
+        "name": "001",
+        "bone": "guan",
+        "attachment": "001"
+      },
+      {
+        "name": "kai",
+        "bone": "kai",
+        "attachment": "002"
+      },
+      {
+        "name": "guang",
+        "bone": "guang",
+        "attachment": "003"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "001": {
+            "001": {
+              "x": 35.42,
+              "rotation": -92.62,
+              "width": 97,
+              "height": 98
+            }
+          },
+          "guang": {
+            "003": {
+              "width": 166,
+              "height": 160
+            }
+          },
+          "kai": {
+            "002": {
+              "x": 33.74,
+              "y": 0.41,
+              "rotation": -92.2,
+              "width": 97,
+              "height": 98
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "animation": {
+        "slots": {
+          "001": {
+            "color": [
+              {
+                "time": 0.5,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.5333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "guang": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5333,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5667,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 0.8333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 0.9,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "kai": {
+            "color": [
+              {
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5,
+                "color": "ffffff00"
+              },
+              {
+                "time": 0.5333,
+                "color": "ffffffff",
+                "curve": "stepped"
+              },
+              {
+                "time": 1.1333,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1.3333,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "guan": {
+            "translate": [
+              {
+                "x": -15.35,
+                "y": 335.07,
+                "curve": 1,
+                "c2": 0.25,
+                "c3": 0.138,
+                "c4": 0.71
+              },
+              {
+                "time": 0.1667,
+                "x": 0.92,
+                "y": -19.98
+              },
+              {
+                "time": 0.5
+              }
+            ],
+            "scale": [
+              {
+                "x": 0.9
+              },
+              {
+                "time": 0.1667,
+                "x": 0.6
+              },
+              {
+                "time": 0.5,
+                "x": 1.2,
+                "y": 0.8
+              },
+              {
+                "time": 0.8333
+              }
+            ]
+          },
+          "kai": {
+            "translate": [
+              {
+                "time": 0.5,
+                "x": 0.06,
+                "y": -1.68
+              },
+              {
+                "time": 0.5333,
+                "x": 0.02,
+                "y": -1.68
+              },
+              {
+                "time": 0.8333,
+                "x": -0.34,
+                "y": -1.69
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.5,
+                "x": 1.2,
+                "y": 0.8
+              },
+              {
+                "time": 0.8333,
+                "x": 0.8,
+                "y": 1.2
+              },
+              {
+                "time": 1
+              }
+            ]
+          },
+          "guang": {
+            "translate": [
+              {
+                "time": 0.5667,
+                "y": -33.33,
+                "curve": 0.511,
+                "c3": 0.393,
+                "c4": 0.55
+              },
+              {
+                "time": 0.8333,
+                "y": -27.56,
+                "curve": 0.164,
+                "c2": 0.51,
+                "c3": 0.45,
+                "c4": 0.94
+              },
+              {
+                "time": 1,
+                "y": -12.28
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.5333,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "time": 0.5667,
+                "x": 2,
+                "y": 2
+              },
+              {
+                "time": 0.8667,
+                "x": 2,
+                "y": 0.8
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "textures": [
+    {
+      "__uuid__": "79e9e771-29b9-4e83-8857-7aca46d1c144@6c48a",
+      "__expectedType__": "cc.Texture2D"
+    }
+  ],
+  "textureNames": [
+    "skeleton.png"
+  ],
+  "scale": 1,
+  "_atlasText": "\r\nskeleton.png\r\nsize: 256,256\r\nformat: RGBA8888\r\nfilter: Linear,Linear\r\nrepeat: none\r\n001\r\n  rotate: true\r\n  xy: 95, 3\r\n  size: 97, 82\r\n  orig: 97, 98\r\n  offset: 0, 0\r\n  index: -1\r\n002\r\n  rotate: false\r\n  xy: 2, 2\r\n  size: 91, 98\r\n  orig: 97, 98\r\n  offset: 3, 0\r\n  index: -1\r\n003\r\n  rotate: false\r\n  xy: 2, 102\r\n  size: 161, 73\r\n  orig: 166, 160\r\n  offset: 2, 58\r\n  index: -1\r\n"
+}
