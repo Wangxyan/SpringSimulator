@@ -1,4 +1,4 @@
-import { _decorator, Component, Node, UITransform, Layout, Sprite, Vec3, Size, v3, SpriteFrame, UIOpacity, Vec2, v2, Rect, tween } from 'cc';
+import { _decorator, director, Component, Node, UITransform, Layout, Sprite, Vec3, Size, v3, SpriteFrame, UIOpacity, Vec2, v2, Rect, tween, Label } from 'cc';
 import { Constants } from '../../Constants';
 import { EventListener } from '../../Frame/EventListener';
 import { ResourcesUtil } from '../../Frame/ResourcesUtil';
@@ -19,16 +19,46 @@ export class GridMapManager extends Component {
     bg: Node = null;
     @property(Node)
     gridList: Node = null;  //拥有格子
+    @property({ type: Vec3, tooltip: "GridList相对于基准点的偏移" })
+    gridListOffset: Vec3 = new Vec3(0, 0, 0);
     @property(Node)
     allGridList: Node = null;  //所有格子列表
     @property(Node)
     weaponList: Node = null;
+    @property({ type: Vec3, tooltip: "WeaponList相对于基准点的偏移" })
+    weaponListOffset: Vec3 = new Vec3(0, 0, 0);
     @property(Node)
     removeWeaponList: Node = null;
     @property(Node)
     preWeaponList: Node = null;
+    @property({ type: Vec3, tooltip: "PreWeaponList相对于基准点的偏移" })
+    preWeaponListOffset: Vec3 = new Vec3(0, 0, 0);
     @property(Node)
     preBg: Node = null;
+    // 新增：倒计时相关属性
+    @property(Label) 
+    countdownLabel: Label = null;  // 显示倒计时的Label组件
+
+    // 新增：属性显示Label
+    @property(Label)
+    charmLabel: Label = null;
+    @property(Label)
+    knowledgeLabel: Label = null;
+    @property(Label)
+    talentLabel: Label = null;
+    @property(Label)
+    wealthLabel: Label = null;
+
+    // 新增：锚点Node（需在Cocos编辑器中绑定）
+    @property(Node)
+    anchorNode: Node = null;  // 作为锚点的特定Node
+
+
+    
+    // 计时器预设
+    private _countdownTime: number = 60;  // 初始倒计时60秒（可根据需求调整）
+    private _isCounting: boolean = false;  // 计时器是否运行中
+
 
     private _gridRes: Array<string> = ['bag1', 'bag1', 'bag3', 'bag5', 'bag5', 'bag6', 'bag6', 'bag7', 'bag7', 'bag8', 'bag8', 'bag9', 'bag']; //背包背景图
     private _padding: number = 90;//周围内边距距离
@@ -48,6 +78,14 @@ export class GridMapManager extends Component {
     init() {
         this.initGridRes();
         this.initStatPoint();
+        // 初始显示属性总和
+        this.updateAttributeDisplay();
+        // 新增：初始化倒计时显示
+        this._countdownTime = 60;  // 重置为60秒
+        this._isCounting = true;   // 启动计时（或根据实际逻辑控制启动时机）
+        if (this.countdownLabel) {
+            this.countdownLabel.string = this._countdownTime.toString();
+        }
     }
 
     /* 初始拥有格子在背景格子中的位置 */
@@ -99,9 +137,11 @@ export class GridMapManager extends Component {
         let gridWidth = GridData.instance.gridWidth;
         let bagCfg = GridData.instance.bagCfg;
         let rowColArr = bagCfg.private_gridLen.split('_');
+
         this.gridList.getComponent(UITransform).setContentSize(size);
         this.gridList.getComponent(Layout).spacingX = space;
         this.gridList.getComponent(Layout).spacingY = space;
+
         this.bg.getComponent(UITransform).setContentSize(size.width + this._padding, size.height + this._padding);
         this.bg.getComponent(Layout).paddingTop = this._padding / 2;
         this.bg.getComponent(Layout).paddingBottom = this._padding / 2;
@@ -110,22 +150,69 @@ export class GridMapManager extends Component {
         this.gridList.getComponent(Layout).updateLayout(true);
         this.bg.getComponent(Layout).updateLayout(true);
 
+        // 计算 gridList 的基准位置 (例如，左上角对齐到父节点的某个点)
+        // 假设基准点是父节点中心，然后向上向左偏移 size 的一半
+        const basePositionX = -size.width / 2;
+        const basePositionY = size.height / 2;
+
+        //this.gridList.setPosition(basePositionX + this.gridListOffset.x, basePositionY + this.gridListOffset.y, this.gridListOffset.z);
+
+        // 设置 weaponList
+        // this.weaponList.getComponent(UITransform).setContentSize(size.width, size.height); // 假设它和gridList一样大
+        // this.weaponList.setPosition(basePositionX + this.weaponListOffset.x, basePositionY + this.weaponListOffset.y, this.weaponListOffset.z);
+        // 或者 weaponList 的位置可以独立于 gridList 的 size
+        // this.weaponList.setPosition(this.weaponListOffset.x, this.weaponListOffset.y, this.weaponListOffset.z); // 如果偏移是绝对的
+
+        // 设置 preWeaponList
+        // this.preWeaponList.getComponent(UITransform).setContentSize(size.width, size.height); // 假设它和gridList一样大
+        // this.preWeaponList.setPosition(basePositionX + this.preWeaponListOffset.x, basePositionY + this.preWeaponListOffset.y, this.preWeaponListOffset.z);
+        // 或者 preWeaponList 的位置可以独立于 gridList 的 size
+        // this.preWeaponList.setPosition(this.preWeaponListOffset.x, this.preWeaponListOffset.y, this.preWeaponListOffset.z);
+
         // 固定位置计算方法
-        this.gridList.setPosition(-size.width / 2, size.height / 2);
-        this.weaponList.setPosition(-size.width / 2, size.height / 2)
-        this.preWeaponList.setPosition(-size.width / 2, size.height / 2);
+        // this.gridList.setPosition(-size.width / 2, (size.height / 2));
+        // this.weaponList.setPosition(-size.width / 2, (size.height / 2))
+        // this.preWeaponList.setPosition(-size.width / 2, (size.height / 2));
         // 改为直接使用Map对象的Position  
         //let mapPosition = this.getMapPosition();  
         //this.gridList.setPosition(mapPosition.x, mapPosition.y);
         //this.weaponList.setPosition(mapPosition.x, mapPosition.y);
         //this.preWeaponList.setPosition(mapPosition.x, mapPosition.y); 
+
+        // 新增：基于锚点的位置计算
+    if (this.anchorNode) {
+        // 获取锚点的世界坐标
+        const anchorWorldPos = this.anchorNode.getWorldPosition();
+        // 转换为当前节点的局部坐标
+        const localAnchorPos = this.node.getComponent(UITransform).convertToNodeSpaceAR(anchorWorldPos);
+        
+        // 设置背包对象位置（锚点位置 + 偏移量）
+        this.gridList.setPosition(
+            localAnchorPos.x + this.gridListOffset.x, 
+            localAnchorPos.y + this.gridListOffset.y
+        );
+        this.weaponList.setPosition(
+            localAnchorPos.x + this.weaponListOffset.x, 
+            localAnchorPos.y + this.weaponListOffset.y
+        );
+        this.preWeaponList.setPosition(
+            localAnchorPos.x + this.preWeaponListOffset.x, 
+            localAnchorPos.y + this.preWeaponListOffset.y
+        );
+    } else {
+        // 无锚点时使用默认位置（可选）
+        this.gridList.setPosition(-size.width / 2, (size.height / 2));
+        this.weaponList.setPosition(-size.width / 2, (size.height / 2));
+        this.preWeaponList.setPosition(-size.width / 2, (size.height / 2));
+    }
         
         this.weaponList.getComponent(UITransform).setContentSize(size.width, size.height);
         this.preWeaponList.getComponent(UITransform).setContentSize(size.width, size.height);
+
         let offerY = Number(rowColArr[0]) > 5 ? 100 : 200;
         // this.removeWeaponList.setPosition(0, -size.height / 2 - offerY);
         let offerX = size.width / 2 + 800; // 可以根据需要调整距离  
-        this.removeWeaponList.setPosition(-offerX, offerY); 
+        this.removeWeaponList.setPosition(-offerX, 0); 
         for (let i = 0; i < this._gridRes.length; i++) {
             const res = this._gridRes[i];
             let sprite = this.bgs[i].getComponent(Sprite);
@@ -224,28 +311,67 @@ export class GridMapManager extends Component {
     }
 
     /* 设置新增格子区域的占位key */
+    // setAddPlaceAreaKey(weaponBgItem: WeaponBgItem) {
+    //     let startGridObj = this._temAddPoint;
+    //     let gripObjArr = this.getPointGridObjArr(weaponBgItem.weaponCfg);
+    //     let items = this.allGridList.children;
+    //     let data: Array<GridObj> = [];
+        
+    //     for (let index = 0; index < gripObjArr.length; index++) {
+    //         const subGridObj = gripObjArr[index];
+    //         let row = startGridObj.row + subGridObj.row;
+    //         let col = startGridObj.col + subGridObj.col;
+    //         let newGridObj = new GridObj();
+    //         newGridObj.row = row;
+    //         newGridObj.col = col;
+    //         data.push(newGridObj);
+    //         let newIndex = GridData.instance.getGridBgIndexByTiled(row, col);
+    //         let gridBgItem = items[newIndex];
+    //         gridBgItem.getComponent(GridBgItem).placeAreaKey = weaponBgItem.weaponKey;
+    //     }
+    //     let gridBgObj = new GridBgObj();
+    //     gridBgObj.item = weaponBgItem.node;
+    //     gridBgObj.data = data;
+    //     this._addPlaceAreaData.set(weaponBgItem.weaponKey, gridBgObj);
+
+    // }
+
+    /* 设置新增格子区域的占位key */
     setAddPlaceAreaKey(weaponBgItem: WeaponBgItem) {
         let startGridObj = this._temAddPoint;
         let gripObjArr = this.getPointGridObjArr(weaponBgItem.weaponCfg);
         let items = this.allGridList.children;
-        let data: Array<GridObj> = [];
+        let data: Array<GridObj> = []; // 这些是武器占用的绝对格子坐标
+
+        // ... (计算 data: Array<GridObj>) ...
+        // 你需要确保这里的 gripObjArr 是武器在 allGridList 中的绝对坐标，而不是相对武器自身的。
+        // 当前的 gripObjArr 是相对武器自身的，需要结合 _temAddPoint 转换。
+        let absoluteGridObjArr: Array<GridObj> = [];
         for (let index = 0; index < gripObjArr.length; index++) {
-            const subGridObj = gripObjArr[index];
+            const subGridObj = gripObjArr[index]; // 武器内部的相对坐标
             let row = startGridObj.row + subGridObj.row;
             let col = startGridObj.col + subGridObj.col;
             let newGridObj = new GridObj();
             newGridObj.row = row;
             newGridObj.col = col;
-            data.push(newGridObj);
+            absoluteGridObjArr.push(newGridObj); // 收集绝对坐标
+
             let newIndex = GridData.instance.getGridBgIndexByTiled(row, col);
             let gridBgItem = items[newIndex];
             gridBgItem.getComponent(GridBgItem).placeAreaKey = weaponBgItem.weaponKey;
         }
+
         let gridBgObj = new GridBgObj();
         gridBgObj.item = weaponBgItem.node;
-        gridBgObj.data = data;
+        gridBgObj.data = absoluteGridObjArr; // 使用绝对坐标
         this._addPlaceAreaData.set(weaponBgItem.weaponKey, gridBgObj);
 
+        // !!! 关键改动: 在这里将武器数据添加到 GridData，并触发事件 !!!
+        // 这个前提是 setAddPlaceAreaKey 意味着这个武器已经被“初步确认”放置了。
+        // 如果后续可能会取消，则这个时机不对。
+        // 更好的时机可能是在 onPlaceGridFinish 内部，当所有武器都确定了最终位置之后。
+
+        // ---- 下面的逻辑需要根据你的“确认”流程来调整触发时机 ----
     }
 
     /* 清除区域key 和区域值 */
@@ -520,15 +646,25 @@ export class GridMapManager extends Component {
     onPlaceGridEnd(weaponBgItem: WeaponBgItem) {
         let item = weaponBgItem.node;
         this.initAllGridListTips();
+        
         if (this._placeStatus) {
             item.setPosition(this._temPos);
             this.setAddPlaceAreaKey(weaponBgItem);
         }
+        // else {
+        //     EventListener.emit(GameEvent.ADD_REMOVE_WEAPON_LIST, item);
+        //     this._addPlaceAreaData.delete(weaponBgItem.weaponKey);
+        // }
+        // this._placeStatus = false;
         else {
-            EventListener.emit(GameEvent.ADD_REMOVE_WEAPON_LIST, item);
-            this._addPlaceAreaData.delete(weaponBgItem.weaponKey);
+            // 如果放置状态无效（比如拖到了不可放置区域或部分重叠）
+            EventListener.emit(GameEvent.ADD_REMOVE_WEAPON_LIST, item); // 将武器送回待移除列表
+            this._addPlaceAreaData.delete(weaponBgItem.weaponKey); // 从尝试放置区域中移除
+            this.delPlaceAreaKey(weaponBgItem.weaponKey); // 清除其在 allGridList 上的占位标记
         }
-        this._placeStatus = false;
+        this._placeStatus = false; // 重置放置状态，为下一个武器拖拽做准备
+        this._temPos.set(0,0,0); // 重置临时位置
+        this._temAddPoint = null; // 重置临时添加点
     }
 
 
@@ -536,6 +672,7 @@ export class GridMapManager extends Component {
     onPlaceGridFinish() {
         if (this.allGridList.active) {
             this.checkAddAreaGridData();
+
             GridData.instance.gridEditMode = false;
             this.allGridList.active = false;
             this.gridList.parent = this.bg;
@@ -544,8 +681,12 @@ export class GridMapManager extends Component {
             this.initGridRes();
             EventListener.emit(GameEvent.SHOW_HIDE_PLACE_LIST, false);
 
+            // 触发属性更新
+            console.log("GridMapManager: onPlaceGridFinish - Triggering REFRESH_ATTRIBUTES");
+            EventListener.emit(GameEvent.REFRESH_ATTRIBUTES); // 创建一个新的事件名，或复用，但要确保 GridMapManager 监听它
         }
     }
+    
 
     /* 获取拥有格子里的第一个有格子的数据 */
     getFirstGridObj() {
@@ -773,6 +914,30 @@ export class GridMapManager extends Component {
         this._addPlaceAreaData.clear();
     }
 
+    // 新增：每帧更新计时器
+    update(deltaTime: number) {
+        if (this._isCounting && this._countdownTime > 0) {
+            this._countdownTime -= deltaTime;
+            // 更新UI显示（保留2位小数或取整）
+            // this.countdownLabel.string = Math.ceil(this._countdownTime).toString();
+            // 更新UI显示，修改为显示“时间还有xx秒”
+            this.countdownLabel.string = `购物时间还有${Math.ceil(this._countdownTime)}秒`;
+        
+            // 时间归零处理
+            if (this._countdownTime <= 0) {
+                this._isCounting = false;
+                 this.onCountdownEnd();  // 触发倒计时结束逻辑
+            }
+        }
+    }
+    private onCountdownEnd() {
+        // 跳转场景（替换为实际场景名称）
+        director.loadScene('Game_1');  // 示例：跳转到游戏结束场景
+        
+        // 可选：发送事件通知其他模块（如根据项目事件系统）
+        // EventListener.emit(GameEvent.COUNTDOWN_END);
+    }
+
 
     protected onEnable(): void {
         //放置新增格子监听
@@ -790,6 +955,11 @@ export class GridMapManager extends Component {
         EventListener.on(GameEvent.CLEAR_AREA_DATA, this.onClearAreaData, this);
         EventListener.on(GameEvent.PLACE_GRID_FINISH, this.onPlaceGridFinish, this);
 
+        EventListener.on(GameEvent.WEAPON_PLACE, this.updateAttributeDisplay, this);  // 武器放置事件
+        EventListener.on(GameEvent.WEAPON_REMOVE, this.updateAttributeDisplay, this);  // 武器移除事件
+        EventListener.on(GameEvent.WEAPON_UPGRADE, this.updateAttributeDisplay, this);  // 武器合成事件
+        EventListener.on(GameEvent.REFRESH_ATTRIBUTES, this.updateAttributeDisplay, this); //属性更新时间
+
     }
 
     protected onDisable(): void {
@@ -804,7 +974,18 @@ export class GridMapManager extends Component {
 
         EventListener.off(GameEvent.CLEAR_AREA_DATA, this.onClearAreaData, this);
         EventListener.off(GameEvent.PLACE_GRID_FINISH, this.onPlaceGridFinish, this);
+        EventListener.off(GameEvent.REFRESH_ATTRIBUTES, this.updateAttributeDisplay, this);
     }
+
+    /** 更新属性显示 */
+    private updateAttributeDisplay() {
+        const totalAttrs = GridData.instance.getTotalAttributes();
+        this.charmLabel.string = `魅力: ${totalAttrs.charm}`;
+        this.knowledgeLabel.string = `知识: ${totalAttrs.knowledge}`;
+        this.talentLabel.string = `才艺: ${totalAttrs.talent}`;
+        this.wealthLabel.string = `财富: ${totalAttrs.wealth}`;
+    }
+
 }
 
 

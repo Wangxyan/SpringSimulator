@@ -9,6 +9,50 @@
       "Id": 109,
       "name": "9格",
       "private_gridLen": "3_3",
+      "max_gridLen": "3_3",
+      "private_gridWidth": 94,
+      "private_gredHeight": 94,
+      "picture": 1,
+      "private_space": 10,
+      "private_grid": [
+        [
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "0"
+        ]
+      ],
+      "max_grid": [
+        [
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "0"
+        ],
+        [
+          "0",
+          "0",
+          "0"
+        ]
+      ]
+    },
+    {
+      "Id": 112,
+      "name": "9格2",
+      "private_gridLen": "3_3",
       "max_gridLen": "7_5",
       "private_gridWidth": 94,
       "private_gredHeight": 94,

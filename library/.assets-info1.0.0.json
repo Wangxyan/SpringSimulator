@@ -10,7 +10,7 @@
       "uuid": "70644437-7a88-404d-ad45-64edb60478f8"
     },
     "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Scenes": {
-      "time": 1718709974000,
+      "time": 1748264196664.5095,
       "uuid": "083d22a8-260a-42b9-bbe1-b9fa687da934"
     },
     "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Scripts": {
@@ -90,7 +90,7 @@
       "uuid": "cfdd6456-1a95-4a62-adc5-0f76709c4632"
     },
     "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Scripts\\Scenes": {
-      "time": 1718709974000,
+      "time": 1748264120973.322,
       "uuid": "4a378809-7a31-4b4b-9792-b0a323f328c1"
     },
     "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Res\\Shade\\Effect": {
@@ -478,11 +478,11 @@
       "uuid": "76678548-5fbe-447d-ad01-bbcbdef674d6"
     },
     "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Scripts\\Game\\Data\\GameData.ts": {
-      "time": 1718709972000,
+      "time": 1748276405074.8777,
       "uuid": "1d101990-6199-47e5-880d-0d31e91c538d"
     },
     "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Scripts\\Game\\Data\\GridData.ts": {
-      "time": 1748256365261.7627,
+      "time": 1748276403276.9497,
       "uuid": "fe537a22-f782-4f56-8ebd-fc50c71b3860"
     },
     "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Scripts\\Game\\Data\\HeroData.ts": {
@@ -510,7 +510,7 @@
       "uuid": "9134856f-a96e-418b-aabc-4816f7e1df95"
     },
     "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Scripts\\Game\\Event\\GameEvent.ts": {
-      "time": 1718709974000,
+      "time": 1748279647691.6133,
       "uuid": "d5d0d63f-f3d3-4464-aa7b-3d3c5a33b18d"
     },
     "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Scripts\\Game\\Grid\\GridBgItem.ts": {
@@ -546,7 +546,7 @@
       "uuid": "40e3b80f-a89f-4912-a0ae-ea943fae8586"
     },
     "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Scripts\\Game\\Mgr\\GridMapManager.ts": {
-      "time": 1748242824582.24,
+      "time": 1748280291119.3428,
       "uuid": "c4c63093-53ee-4d73-9c8c-83e0399bd783"
     },
     "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Scripts\\Game\\Mgr\\HeroManager.ts": {
@@ -586,7 +586,7 @@
       "uuid": "f6d14e3d-aaaf-4764-95f4-8b8cffccb141"
     },
     "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Scripts\\Game\\Weapon\\WeaponBgItem.ts": {
-      "time": 1718709974000,
+      "time": 1748279850129.892,
       "uuid": "f96cdda8-70dd-40bf-bb22-6763256f3d3b"
     },
     "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Scripts\\Game\\Weapon\\WeaponItem.ts": {
@@ -1122,7 +1122,7 @@
       "time": 1729990181000
     },
     "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Scenes\\Game.scene": {
-      "time": 1748250122068.6152,
+      "time": 1748275076997.1987,
       "uuid": "b9cbfc7b-2f0c-4026-89a7-4d411f8ecfbe"
     },
     "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Scenes\\Load.scene": {
@@ -1186,7 +1186,7 @@
       "uuid": "fcb618c4-62c6-45d8-8179-62c4d7eb4575"
     },
     "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\resources\\ConfigData\\Bag.json": {
-      "time": 1748239540983.478,
+      "time": 1748270326853.416,
       "uuid": "b51d2f96-0b15-45d7-a473-908b666a0a8d"
     },
     "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\resources\\ConfigData\\BattleLevel.json": {
@@ -1226,7 +1226,7 @@
       "uuid": "f0e62172-ef21-4cb8-be19-a73bc192b4e0"
     },
     "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\resources\\ConfigData\\Weapon.json": {
-      "time": 1748255905764.187,
+      "time": 1748276640298.113,
       "uuid": "134a7d7d-d4ef-4c68-b830-f1e6966731f9"
     },
     "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\resources\\Item\\item001.png": {
@@ -1742,7 +1742,7 @@
       "uuid": "6610fd95-f2d0-4503-bcaf-a02c889668fc"
     },
     "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\resources\\Prefab\\Popup\\Game\\gamePopup.prefab": {
-      "time": 1718709972000,
+      "time": 1748277198771.3428,
       "uuid": "e74b687c-bad6-4db4-a69b-7a54e4f22d80"
     },
     "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\resources\\Prefab\\Popup\\Game\\pausePopup.prefab": {
@@ -2338,6 +2338,20 @@
     "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\resources\\Game\\Weapon\\401.png": {
       "time": 1748254278574.567,
       "uuid": "e070ed5e-abff-4e01-9968-783aa8bb77f5"
+    },
+    "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Scripts\\Scenes\\Game_1.ts.meta": {
+      "time": 1748264101775.8267
+    },
+    "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Scripts\\Scenes\\Game_1.ts": {
+      "time": 1718709974000,
+      "uuid": "f055e330-b11f-4a1d-a8e9-52e35239e08a"
+    },
+    "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Scenes\\Game_1.scene.meta": {
+      "time": 1748264190573.7512
+    },
+    "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Scenes\\Game_1.scene": {
+      "time": 1748264196668.6677,
+      "uuid": "8a97ea95-1d34-4607-8c40-ae90c62b392d"
     }
   },
   "missing": {
@@ -2385,6 +2399,16 @@
       "path": "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\resources\\Game\\Weapon\\402.png",
       "time": 1718709972000,
       "removeTime": 1748254353333
+    },
+    "f055e330-b11f-4a1d-a8e9-52e35239e08a": {
+      "path": "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Scripts\\Scenes\\Game-001.ts",
+      "time": 1718709974000,
+      "removeTime": 1748264120974
+    },
+    "8a97ea95-1d34-4607-8c40-ae90c62b392d": {
+      "path": "D:\\CODE\\cocos_workspace\\背包英雄\\assets\\Scenes\\Game-001.scene",
+      "time": 1748264190579.2654,
+      "removeTime": 1748264196665
     }
   }
 }

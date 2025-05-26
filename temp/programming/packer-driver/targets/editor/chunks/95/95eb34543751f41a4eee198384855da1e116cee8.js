@@ -1,7 +1,7 @@
 System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__unresolved_3", "__unresolved_4", "__unresolved_5", "__unresolved_6", "__unresolved_7", "__unresolved_8"], function (_export, _context) {
   "use strict";
 
-  var _reporterNs, _cclegacy, __checkObsolete__, __checkObsoleteInNamespace__, _decorator, Component, Node, UITransform, Layout, Sprite, Vec3, v3, UIOpacity, v2, Rect, Constants, EventListener, ResourcesUtil, Util, GridData, GridObj, GameEvent, GridBgItem, WeaponItem, GridBgObj, _dec, _dec2, _dec3, _dec4, _dec5, _dec6, _dec7, _dec8, _dec9, _class, _class2, _descriptor, _descriptor2, _descriptor3, _descriptor4, _descriptor5, _descriptor6, _descriptor7, _descriptor8, _crd, ccclass, property, GridMapManager;
+  var _reporterNs, _cclegacy, __checkObsolete__, __checkObsoleteInNamespace__, _decorator, director, Component, Node, UITransform, Layout, Sprite, Vec3, v3, UIOpacity, v2, Rect, Label, Constants, EventListener, ResourcesUtil, Util, GridData, GridObj, GameEvent, GridBgItem, WeaponItem, GridBgObj, _dec, _dec2, _dec3, _dec4, _dec5, _dec6, _dec7, _dec8, _dec9, _dec10, _dec11, _dec12, _dec13, _dec14, _dec15, _dec16, _dec17, _dec18, _class, _class2, _descriptor, _descriptor2, _descriptor3, _descriptor4, _descriptor5, _descriptor6, _descriptor7, _descriptor8, _descriptor9, _descriptor10, _descriptor11, _descriptor12, _descriptor13, _descriptor14, _descriptor15, _descriptor16, _descriptor17, _crd, ccclass, property, GridMapManager;
 
   function _initializerDefineProperty(target, property, descriptor, context) { if (!descriptor) return; Object.defineProperty(target, property, { enumerable: descriptor.enumerable, configurable: descriptor.configurable, writable: descriptor.writable, value: descriptor.initializer ? descriptor.initializer.call(context) : void 0 }); }
 
@@ -63,6 +63,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
       __checkObsolete__ = _cc.__checkObsolete__;
       __checkObsoleteInNamespace__ = _cc.__checkObsoleteInNamespace__;
       _decorator = _cc._decorator;
+      director = _cc.director;
       Component = _cc.Component;
       Node = _cc.Node;
       UITransform = _cc.UITransform;
@@ -73,6 +74,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
       UIOpacity = _cc.UIOpacity;
       v2 = _cc.v2;
       Rect = _cc.Rect;
+      Label = _cc.Label;
     }, function (_unresolved_2) {
       Constants = _unresolved_2.Constants;
     }, function (_unresolved_3) {
@@ -96,14 +98,23 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
 
       _cclegacy._RF.push({}, "c4c63CTU+5Nc5yMg+A5m9eD", "GridMapManager", undefined);
 
-      __checkObsolete__(['_decorator', 'Component', 'Node', 'UITransform', 'Layout', 'Sprite', 'Vec3', 'Size', 'v3', 'SpriteFrame', 'UIOpacity', 'Vec2', 'v2', 'Rect', 'tween']);
+      __checkObsolete__(['_decorator', 'director', 'Component', 'Node', 'UITransform', 'Layout', 'Sprite', 'Vec3', 'Size', 'v3', 'SpriteFrame', 'UIOpacity', 'Vec2', 'v2', 'Rect', 'tween', 'Label']);
 
       ({
         ccclass,
         property
       } = _decorator);
 
-      _export("GridMapManager", GridMapManager = (_dec = ccclass('GridMapManager'), _dec2 = property(Node), _dec3 = property(Node), _dec4 = property(Node), _dec5 = property(Node), _dec6 = property(Node), _dec7 = property(Node), _dec8 = property(Node), _dec9 = property(Node), _dec(_class = (_class2 = class GridMapManager extends Component {
+      _export("GridMapManager", GridMapManager = (_dec = ccclass('GridMapManager'), _dec2 = property(Node), _dec3 = property(Node), _dec4 = property(Node), _dec5 = property({
+        type: Vec3,
+        tooltip: "GridList相对于基准点的偏移"
+      }), _dec6 = property(Node), _dec7 = property(Node), _dec8 = property({
+        type: Vec3,
+        tooltip: "WeaponList相对于基准点的偏移"
+      }), _dec9 = property(Node), _dec10 = property(Node), _dec11 = property({
+        type: Vec3,
+        tooltip: "PreWeaponList相对于基准点的偏移"
+      }), _dec12 = property(Node), _dec13 = property(Label), _dec14 = property(Label), _dec15 = property(Label), _dec16 = property(Label), _dec17 = property(Label), _dec18 = property(Node), _dec(_class = (_class2 = class GridMapManager extends Component {
         constructor(...args) {
           super(...args);
 
@@ -114,17 +125,45 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
           _initializerDefineProperty(this, "gridList", _descriptor3, this);
 
           //拥有格子
-          _initializerDefineProperty(this, "allGridList", _descriptor4, this);
+          _initializerDefineProperty(this, "gridListOffset", _descriptor4, this);
+
+          _initializerDefineProperty(this, "allGridList", _descriptor5, this);
 
           //所有格子列表
-          _initializerDefineProperty(this, "weaponList", _descriptor5, this);
+          _initializerDefineProperty(this, "weaponList", _descriptor6, this);
 
-          _initializerDefineProperty(this, "removeWeaponList", _descriptor6, this);
+          _initializerDefineProperty(this, "weaponListOffset", _descriptor7, this);
 
-          _initializerDefineProperty(this, "preWeaponList", _descriptor7, this);
+          _initializerDefineProperty(this, "removeWeaponList", _descriptor8, this);
 
-          _initializerDefineProperty(this, "preBg", _descriptor8, this);
+          _initializerDefineProperty(this, "preWeaponList", _descriptor9, this);
 
+          _initializerDefineProperty(this, "preWeaponListOffset", _descriptor10, this);
+
+          _initializerDefineProperty(this, "preBg", _descriptor11, this);
+
+          // 新增：倒计时相关属性
+          _initializerDefineProperty(this, "countdownLabel", _descriptor12, this);
+
+          // 显示倒计时的Label组件
+          // 新增：属性显示Label
+          _initializerDefineProperty(this, "charmLabel", _descriptor13, this);
+
+          _initializerDefineProperty(this, "knowledgeLabel", _descriptor14, this);
+
+          _initializerDefineProperty(this, "talentLabel", _descriptor15, this);
+
+          _initializerDefineProperty(this, "wealthLabel", _descriptor16, this);
+
+          // 新增：锚点Node（需在Cocos编辑器中绑定）
+          _initializerDefineProperty(this, "anchorNode", _descriptor17, this);
+
+          // 作为锚点的特定Node
+          // 计时器预设
+          this._countdownTime = 60;
+          // 初始倒计时60秒（可根据需求调整）
+          this._isCounting = false;
+          // 计时器是否运行中
           this._gridRes = ['bag1', 'bag1', 'bag3', 'bag5', 'bag5', 'bag6', 'bag6', 'bag7', 'bag7', 'bag8', 'bag8', 'bag9', 'bag'];
           //背包背景图
           this._padding = 90;
@@ -151,7 +190,17 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
         //新增放置区域数据  key=>placeAreaKey
         init() {
           this.initGridRes();
-          this.initStatPoint();
+          this.initStatPoint(); // 初始显示属性总和
+
+          this.updateAttributeDisplay(); // 新增：初始化倒计时显示
+
+          this._countdownTime = 60; // 重置为60秒
+
+          this._isCounting = true; // 启动计时（或根据实际逻辑控制启动时机）
+
+          if (this.countdownLabel) {
+            this.countdownLabel.string = this._countdownTime.toString();
+          }
         }
         /* 初始拥有格子在背景格子中的位置 */
 
@@ -240,15 +289,47 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
           this.bg.getComponent(Layout).paddingLeft = this._padding / 2;
           this.bg.getComponent(Layout).paddingRight = this._padding / 2;
           this.gridList.getComponent(Layout).updateLayout(true);
-          this.bg.getComponent(Layout).updateLayout(true); // 固定位置计算方法
+          this.bg.getComponent(Layout).updateLayout(true); // 计算 gridList 的基准位置 (例如，左上角对齐到父节点的某个点)
+          // 假设基准点是父节点中心，然后向上向左偏移 size 的一半
 
-          this.gridList.setPosition(-size.width / 2, size.height / 2);
-          this.weaponList.setPosition(-size.width / 2, size.height / 2);
-          this.preWeaponList.setPosition(-size.width / 2, size.height / 2); // 改为直接使用Map对象的Position  
+          const basePositionX = -size.width / 2;
+          const basePositionY = size.height / 2; //this.gridList.setPosition(basePositionX + this.gridListOffset.x, basePositionY + this.gridListOffset.y, this.gridListOffset.z);
+          // 设置 weaponList
+          // this.weaponList.getComponent(UITransform).setContentSize(size.width, size.height); // 假设它和gridList一样大
+          // this.weaponList.setPosition(basePositionX + this.weaponListOffset.x, basePositionY + this.weaponListOffset.y, this.weaponListOffset.z);
+          // 或者 weaponList 的位置可以独立于 gridList 的 size
+          // this.weaponList.setPosition(this.weaponListOffset.x, this.weaponListOffset.y, this.weaponListOffset.z); // 如果偏移是绝对的
+          // 设置 preWeaponList
+          // this.preWeaponList.getComponent(UITransform).setContentSize(size.width, size.height); // 假设它和gridList一样大
+          // this.preWeaponList.setPosition(basePositionX + this.preWeaponListOffset.x, basePositionY + this.preWeaponListOffset.y, this.preWeaponListOffset.z);
+          // 或者 preWeaponList 的位置可以独立于 gridList 的 size
+          // this.preWeaponList.setPosition(this.preWeaponListOffset.x, this.preWeaponListOffset.y, this.preWeaponListOffset.z);
+          // 固定位置计算方法
+          // this.gridList.setPosition(-size.width / 2, (size.height / 2));
+          // this.weaponList.setPosition(-size.width / 2, (size.height / 2))
+          // this.preWeaponList.setPosition(-size.width / 2, (size.height / 2));
+          // 改为直接使用Map对象的Position  
           //let mapPosition = this.getMapPosition();  
           //this.gridList.setPosition(mapPosition.x, mapPosition.y);
           //this.weaponList.setPosition(mapPosition.x, mapPosition.y);
           //this.preWeaponList.setPosition(mapPosition.x, mapPosition.y); 
+          // 新增：基于锚点的位置计算
+
+          if (this.anchorNode) {
+            // 获取锚点的世界坐标
+            const anchorWorldPos = this.anchorNode.getWorldPosition(); // 转换为当前节点的局部坐标
+
+            const localAnchorPos = this.node.getComponent(UITransform).convertToNodeSpaceAR(anchorWorldPos); // 设置背包对象位置（锚点位置 + 偏移量）
+
+            this.gridList.setPosition(localAnchorPos.x + this.gridListOffset.x, localAnchorPos.y + this.gridListOffset.y);
+            this.weaponList.setPosition(localAnchorPos.x + this.weaponListOffset.x, localAnchorPos.y + this.weaponListOffset.y);
+            this.preWeaponList.setPosition(localAnchorPos.x + this.preWeaponListOffset.x, localAnchorPos.y + this.preWeaponListOffset.y);
+          } else {
+            // 无锚点时使用默认位置（可选）
+            this.gridList.setPosition(-size.width / 2, size.height / 2);
+            this.weaponList.setPosition(-size.width / 2, size.height / 2);
+            this.preWeaponList.setPosition(-size.width / 2, size.height / 2);
+          }
 
           this.weaponList.getComponent(UITransform).setContentSize(size.width, size.height);
           this.preWeaponList.getComponent(UITransform).setContentSize(size.width, size.height);
@@ -256,7 +337,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
 
           let offerX = size.width / 2 + 800; // 可以根据需要调整距离  
 
-          this.removeWeaponList.setPosition(-offerX, offerY);
+          this.removeWeaponList.setPosition(-offerX, 0);
 
           for (let i = 0; i < this._gridRes.length; i++) {
             const res = this._gridRes[i];
@@ -390,16 +471,46 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
           this._addPlaceAreaData.set(this._mainAreaKey, gridBgObj);
         }
         /* 设置新增格子区域的占位key */
+        // setAddPlaceAreaKey(weaponBgItem: WeaponBgItem) {
+        //     let startGridObj = this._temAddPoint;
+        //     let gripObjArr = this.getPointGridObjArr(weaponBgItem.weaponCfg);
+        //     let items = this.allGridList.children;
+        //     let data: Array<GridObj> = [];
+        //     for (let index = 0; index < gripObjArr.length; index++) {
+        //         const subGridObj = gripObjArr[index];
+        //         let row = startGridObj.row + subGridObj.row;
+        //         let col = startGridObj.col + subGridObj.col;
+        //         let newGridObj = new GridObj();
+        //         newGridObj.row = row;
+        //         newGridObj.col = col;
+        //         data.push(newGridObj);
+        //         let newIndex = GridData.instance.getGridBgIndexByTiled(row, col);
+        //         let gridBgItem = items[newIndex];
+        //         gridBgItem.getComponent(GridBgItem).placeAreaKey = weaponBgItem.weaponKey;
+        //     }
+        //     let gridBgObj = new GridBgObj();
+        //     gridBgObj.item = weaponBgItem.node;
+        //     gridBgObj.data = data;
+        //     this._addPlaceAreaData.set(weaponBgItem.weaponKey, gridBgObj);
+        // }
+
+        /* 设置新增格子区域的占位key */
 
 
         setAddPlaceAreaKey(weaponBgItem) {
           let startGridObj = this._temAddPoint;
           let gripObjArr = this.getPointGridObjArr(weaponBgItem.weaponCfg);
           let items = this.allGridList.children;
-          let data = [];
+          let data = []; // 这些是武器占用的绝对格子坐标
+          // ... (计算 data: Array<GridObj>) ...
+          // 你需要确保这里的 gripObjArr 是武器在 allGridList 中的绝对坐标，而不是相对武器自身的。
+          // 当前的 gripObjArr 是相对武器自身的，需要结合 _temAddPoint 转换。
+
+          let absoluteGridObjArr = [];
 
           for (let index = 0; index < gripObjArr.length; index++) {
-            const subGridObj = gripObjArr[index];
+            const subGridObj = gripObjArr[index]; // 武器内部的相对坐标
+
             let row = startGridObj.row + subGridObj.row;
             let col = startGridObj.col + subGridObj.col;
             let newGridObj = new (_crd && GridObj === void 0 ? (_reportPossibleCrUseOfGridObj({
@@ -407,7 +518,8 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
             }), GridObj) : GridObj)();
             newGridObj.row = row;
             newGridObj.col = col;
-            data.push(newGridObj);
+            absoluteGridObjArr.push(newGridObj); // 收集绝对坐标
+
             let newIndex = (_crd && GridData === void 0 ? (_reportPossibleCrUseOfGridData({
               error: Error()
             }), GridData) : GridData).instance.getGridBgIndexByTiled(row, col);
@@ -419,9 +531,14 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
 
           let gridBgObj = new GridBgObj();
           gridBgObj.item = weaponBgItem.node;
-          gridBgObj.data = data;
+          gridBgObj.data = absoluteGridObjArr; // 使用绝对坐标
 
-          this._addPlaceAreaData.set(weaponBgItem.weaponKey, gridBgObj);
+          this._addPlaceAreaData.set(weaponBgItem.weaponKey, gridBgObj); // !!! 关键改动: 在这里将武器数据添加到 GridData，并触发事件 !!!
+          // 这个前提是 setAddPlaceAreaKey 意味着这个武器已经被“初步确认”放置了。
+          // 如果后续可能会取消，则这个时机不对。
+          // 更好的时机可能是在 onPlaceGridFinish 内部，当所有武器都确定了最终位置之后。
+          // ---- 下面的逻辑需要根据你的“确认”流程来调整触发时机 ----
+
         }
         /* 清除区域key 和区域值 */
 
@@ -833,17 +950,31 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
           if (this._placeStatus) {
             item.setPosition(this._temPos);
             this.setAddPlaceAreaKey(weaponBgItem);
-          } else {
+          } // else {
+          //     EventListener.emit(GameEvent.ADD_REMOVE_WEAPON_LIST, item);
+          //     this._addPlaceAreaData.delete(weaponBgItem.weaponKey);
+          // }
+          // this._placeStatus = false;
+          else {
+            // 如果放置状态无效（比如拖到了不可放置区域或部分重叠）
             (_crd && EventListener === void 0 ? (_reportPossibleCrUseOfEventListener({
               error: Error()
             }), EventListener) : EventListener).emit((_crd && GameEvent === void 0 ? (_reportPossibleCrUseOfGameEvent({
               error: Error()
-            }), GameEvent) : GameEvent).ADD_REMOVE_WEAPON_LIST, item);
+            }), GameEvent) : GameEvent).ADD_REMOVE_WEAPON_LIST, item); // 将武器送回待移除列表
 
-            this._addPlaceAreaData.delete(weaponBgItem.weaponKey);
+            this._addPlaceAreaData.delete(weaponBgItem.weaponKey); // 从尝试放置区域中移除
+
+
+            this.delPlaceAreaKey(weaponBgItem.weaponKey); // 清除其在 allGridList 上的占位标记
           }
 
-          this._placeStatus = false;
+          this._placeStatus = false; // 重置放置状态，为下一个武器拖拽做准备
+
+          this._temPos.set(0, 0, 0); // 重置临时位置
+
+
+          this._temAddPoint = null; // 重置临时添加点
         }
         /* 放置格子确定 */
 
@@ -863,7 +994,14 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
               error: Error()
             }), EventListener) : EventListener).emit((_crd && GameEvent === void 0 ? (_reportPossibleCrUseOfGameEvent({
               error: Error()
-            }), GameEvent) : GameEvent).SHOW_HIDE_PLACE_LIST, false);
+            }), GameEvent) : GameEvent).SHOW_HIDE_PLACE_LIST, false); // 触发属性更新
+
+            console.log("GridMapManager: onPlaceGridFinish - Triggering REFRESH_ATTRIBUTES");
+            (_crd && EventListener === void 0 ? (_reportPossibleCrUseOfEventListener({
+              error: Error()
+            }), EventListener) : EventListener).emit((_crd && GameEvent === void 0 ? (_reportPossibleCrUseOfGameEvent({
+              error: Error()
+            }), GameEvent) : GameEvent).REFRESH_ATTRIBUTES); // 创建一个新的事件名，或复用，但要确保 GridMapManager 监听它
           }
         }
         /* 获取拥有格子里的第一个有格子的数据 */
@@ -1177,6 +1315,29 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
 
         onClearAreaData() {
           this._addPlaceAreaData.clear();
+        } // 新增：每帧更新计时器
+
+
+        update(deltaTime) {
+          if (this._isCounting && this._countdownTime > 0) {
+            this._countdownTime -= deltaTime; // 更新UI显示（保留2位小数或取整）
+            // this.countdownLabel.string = Math.ceil(this._countdownTime).toString();
+            // 更新UI显示，修改为显示“时间还有xx秒”
+
+            this.countdownLabel.string = `购物时间还有${Math.ceil(this._countdownTime)}秒`; // 时间归零处理
+
+            if (this._countdownTime <= 0) {
+              this._isCounting = false;
+              this.onCountdownEnd(); // 触发倒计时结束逻辑
+            }
+          }
+        }
+
+        onCountdownEnd() {
+          // 跳转场景（替换为实际场景名称）
+          director.loadScene('Game_1'); // 示例：跳转到游戏结束场景
+          // 可选：发送事件通知其他模块（如根据项目事件系统）
+          // EventListener.emit(GameEvent.COUNTDOWN_END);
         }
 
         onEnable() {
@@ -1227,6 +1388,29 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
           }), EventListener) : EventListener).on((_crd && GameEvent === void 0 ? (_reportPossibleCrUseOfGameEvent({
             error: Error()
           }), GameEvent) : GameEvent).PLACE_GRID_FINISH, this.onPlaceGridFinish, this);
+          (_crd && EventListener === void 0 ? (_reportPossibleCrUseOfEventListener({
+            error: Error()
+          }), EventListener) : EventListener).on((_crd && GameEvent === void 0 ? (_reportPossibleCrUseOfGameEvent({
+            error: Error()
+          }), GameEvent) : GameEvent).WEAPON_PLACE, this.updateAttributeDisplay, this); // 武器放置事件
+
+          (_crd && EventListener === void 0 ? (_reportPossibleCrUseOfEventListener({
+            error: Error()
+          }), EventListener) : EventListener).on((_crd && GameEvent === void 0 ? (_reportPossibleCrUseOfGameEvent({
+            error: Error()
+          }), GameEvent) : GameEvent).WEAPON_REMOVE, this.updateAttributeDisplay, this); // 武器移除事件
+
+          (_crd && EventListener === void 0 ? (_reportPossibleCrUseOfEventListener({
+            error: Error()
+          }), EventListener) : EventListener).on((_crd && GameEvent === void 0 ? (_reportPossibleCrUseOfGameEvent({
+            error: Error()
+          }), GameEvent) : GameEvent).WEAPON_UPGRADE, this.updateAttributeDisplay, this); // 武器合成事件
+
+          (_crd && EventListener === void 0 ? (_reportPossibleCrUseOfEventListener({
+            error: Error()
+          }), EventListener) : EventListener).on((_crd && GameEvent === void 0 ? (_reportPossibleCrUseOfGameEvent({
+            error: Error()
+          }), GameEvent) : GameEvent).REFRESH_ATTRIBUTES, this.updateAttributeDisplay, this); //属性更新时间
         }
 
         onDisable() {
@@ -1275,6 +1459,23 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
           }), EventListener) : EventListener).off((_crd && GameEvent === void 0 ? (_reportPossibleCrUseOfGameEvent({
             error: Error()
           }), GameEvent) : GameEvent).PLACE_GRID_FINISH, this.onPlaceGridFinish, this);
+          (_crd && EventListener === void 0 ? (_reportPossibleCrUseOfEventListener({
+            error: Error()
+          }), EventListener) : EventListener).off((_crd && GameEvent === void 0 ? (_reportPossibleCrUseOfGameEvent({
+            error: Error()
+          }), GameEvent) : GameEvent).REFRESH_ATTRIBUTES, this.updateAttributeDisplay, this);
+        }
+        /** 更新属性显示 */
+
+
+        updateAttributeDisplay() {
+          const totalAttrs = (_crd && GridData === void 0 ? (_reportPossibleCrUseOfGridData({
+            error: Error()
+          }), GridData) : GridData).instance.getTotalAttributes();
+          this.charmLabel.string = `魅力: ${totalAttrs.charm}`;
+          this.knowledgeLabel.string = `知识: ${totalAttrs.knowledge}`;
+          this.talentLabel.string = `才艺: ${totalAttrs.talent}`;
+          this.wealthLabel.string = `财富: ${totalAttrs.wealth}`;
         }
 
       }, (_descriptor = _applyDecoratedDescriptor(_class2.prototype, "bgs", [_dec2], {
@@ -1298,35 +1499,98 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
         initializer: function () {
           return null;
         }
-      }), _descriptor4 = _applyDecoratedDescriptor(_class2.prototype, "allGridList", [_dec5], {
+      }), _descriptor4 = _applyDecoratedDescriptor(_class2.prototype, "gridListOffset", [_dec5], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function () {
+          return new Vec3(0, 0, 0);
+        }
+      }), _descriptor5 = _applyDecoratedDescriptor(_class2.prototype, "allGridList", [_dec6], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: function () {
           return null;
         }
-      }), _descriptor5 = _applyDecoratedDescriptor(_class2.prototype, "weaponList", [_dec6], {
+      }), _descriptor6 = _applyDecoratedDescriptor(_class2.prototype, "weaponList", [_dec7], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: function () {
           return null;
         }
-      }), _descriptor6 = _applyDecoratedDescriptor(_class2.prototype, "removeWeaponList", [_dec7], {
+      }), _descriptor7 = _applyDecoratedDescriptor(_class2.prototype, "weaponListOffset", [_dec8], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function () {
+          return new Vec3(0, 0, 0);
+        }
+      }), _descriptor8 = _applyDecoratedDescriptor(_class2.prototype, "removeWeaponList", [_dec9], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: function () {
           return null;
         }
-      }), _descriptor7 = _applyDecoratedDescriptor(_class2.prototype, "preWeaponList", [_dec8], {
+      }), _descriptor9 = _applyDecoratedDescriptor(_class2.prototype, "preWeaponList", [_dec10], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: function () {
           return null;
         }
-      }), _descriptor8 = _applyDecoratedDescriptor(_class2.prototype, "preBg", [_dec9], {
+      }), _descriptor10 = _applyDecoratedDescriptor(_class2.prototype, "preWeaponListOffset", [_dec11], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function () {
+          return new Vec3(0, 0, 0);
+        }
+      }), _descriptor11 = _applyDecoratedDescriptor(_class2.prototype, "preBg", [_dec12], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function () {
+          return null;
+        }
+      }), _descriptor12 = _applyDecoratedDescriptor(_class2.prototype, "countdownLabel", [_dec13], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function () {
+          return null;
+        }
+      }), _descriptor13 = _applyDecoratedDescriptor(_class2.prototype, "charmLabel", [_dec14], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function () {
+          return null;
+        }
+      }), _descriptor14 = _applyDecoratedDescriptor(_class2.prototype, "knowledgeLabel", [_dec15], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function () {
+          return null;
+        }
+      }), _descriptor15 = _applyDecoratedDescriptor(_class2.prototype, "talentLabel", [_dec16], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function () {
+          return null;
+        }
+      }), _descriptor16 = _applyDecoratedDescriptor(_class2.prototype, "wealthLabel", [_dec17], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function () {
+          return null;
+        }
+      }), _descriptor17 = _applyDecoratedDescriptor(_class2.prototype, "anchorNode", [_dec18], {
         configurable: true,
         enumerable: true,
         writable: true,

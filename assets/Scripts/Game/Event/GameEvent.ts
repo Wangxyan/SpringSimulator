@@ -27,8 +27,12 @@ export class GameEvent {
     public static WEAPON_ICON_STATUS = 'weaponIconStatus';//武器图标状态
     public static WEAPON_UPGRADE = 'weaponGrade';//武器升级
     public static WEAPON_SHAKE = 'weaponShake';//武器抖动
-    public static WEAPON_PlACE = 'weaponPlace';//武器放置完成
+    public static WEAPON_PLACE = 'weaponPlace';//武器放置完成
     public static WEAPON_REMOVE = 'weaponRemove';//武器卸下
+
+    public static ATTRIBUTES_UPDATED = 'AttributesUpdated'; // 新事件名，表示属性需要刷新
+    public static REFRESH_ATTRIBUTES = 'RefreshAttributes'; // 与你之前代码一致，我们就用这个
+
     public static WEAPON_CHANGE_COIN = 'weaponChangeCoin';//武器转换金币
     public static WEAPON_PROGRESS_BAR = 'weaponProgressBar';//武器进度条
     public static ADD_REMOVE_WEAPON_LIST = 'addRemoveWeaponList';//添加卸下武器列表

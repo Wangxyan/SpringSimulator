@@ -51,10 +51,14 @@ System.register(["cc"], function (_export, _context) {
       //武器升级
       GameEvent.WEAPON_SHAKE = 'weaponShake';
       //武器抖动
-      GameEvent.WEAPON_PlACE = 'weaponPlace';
+      GameEvent.WEAPON_PLACE = 'weaponPlace';
       //武器放置完成
       GameEvent.WEAPON_REMOVE = 'weaponRemove';
       //武器卸下
+      GameEvent.ATTRIBUTES_UPDATED = 'AttributesUpdated';
+      // 新事件名，表示属性需要刷新
+      GameEvent.REFRESH_ATTRIBUTES = 'RefreshAttributes';
+      // 与你之前代码一致，我们就用这个
       GameEvent.WEAPON_CHANGE_COIN = 'weaponChangeCoin';
       //武器转换金币
       GameEvent.WEAPON_PROGRESS_BAR = 'weaponProgressBar';

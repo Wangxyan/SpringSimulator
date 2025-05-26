@@ -255,6 +255,28 @@ export class GridData {
         return values;
     }
 
+    getTotalAttributes() {
+        let totalCharm = 0;
+        let totalKnowledge = 0;
+        let totalTalent = 0;
+        let totalWealth = 0;
+        
+        this._gridItemData.forEach((weaponObj) => {
+            const weaponCfg = WeaponData.instance.getWeaponCfgById(weaponObj.wid);
+            totalCharm += weaponCfg.charm;
+            totalKnowledge += weaponCfg.knowledge;
+            totalTalent += weaponCfg.talent;
+            totalWealth += weaponCfg.wealth;
+        });
+        
+        return {
+            charm: totalCharm,
+            knowledge: totalKnowledge,
+            talent: totalTalent,
+            wealth: totalWealth
+        };
+    }
+
     /*获取携带的武器Map数据  */
     getGridItemMapData() {
         return this._gridItemData;

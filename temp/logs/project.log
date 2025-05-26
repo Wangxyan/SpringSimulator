@@ -1,65 +1,20 @@
-2025-5-26 15:42:40 - log: Load engine in C:\ProgramData\cocos\editors\Creator\3.8.6\resources\resources\3d\engine
-2025-5-26 15:42:40 - log: Register native engine in C:\ProgramData\cocos\editors\Creator\3.8.6\resources\resources\3d\engine\native
-2025-5-26 15:42:41 - log: Request namespace: device-list
-2025-5-26 15:42:49 - log: [Scene] meshopt wasm decoder initialized
-2025-5-26 15:42:49 - log: [Scene] [bullet]:bullet wasm lib loaded.
-2025-5-26 15:42:49 - log: [Scene] [box2d]:box2d wasm lib loaded.
-2025-5-26 15:42:49 - log: [Scene] [PHYSICS]: using builtin.
-2025-5-26 15:42:49 - log: [Scene] Cocos Creator v3.8.6
-2025-5-26 15:42:49 - log: [Scene] Using legacy pipeline
-2025-5-26 15:42:49 - log: [Scene] Forward render pipeline initialized.
-2025-5-26 15:42:49 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to builtin.
-2025-5-26 16:10:47 - warn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the scriptWarn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the script
-    at console.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@sentry\src\instrument\console.ts:40:20)
-    at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1510)
-    at findVsCode (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3546)
-    at Object.openCode [as open] (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3282)
-    at Ipc.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\ipc.ccc:1:530)
-2025-5-26 16:54:13 - warn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the scriptWarn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the script
-    at console.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@sentry\src\instrument\console.ts:40:20)
-    at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1510)
-    at findVsCode (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3546)
-    at Object.openCode [as open] (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3282)
-    at Ipc.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\ipc.ccc:1:530)
-2025-5-26 17:14:47 - warn: [Assets] Failed to delete temporary cache: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\301.pngWarn: [Assets] Failed to delete temporary cache: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\301.png
-    at console.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@sentry\src\instrument\console.ts:40:20)
-    at CustomConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1510)
-    at Asset.reset (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\asset.ccc:1:3259)
-    at ImportTask.importAsset (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\task.ccc:1:2273)
-    at ImportTask.exec (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\task.ccc:1:731)
-    at ParallelQueue._generate (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\asset-db.ccc:1:2677)
-2025-5-26 17:14:47 - warn: [Assets] EBUSY: resource busy or locked, unlink 'D:\CODE\cocos_workspace\背包英雄\library\40\406b6020-e923-454d-9b8f-ee073d134c5b.json'Error: EBUSY: resource busy or locked, unlink 'D:\CODE\cocos_workspace\背包英雄\library\40\406b6020-e923-454d-9b8f-ee073d134c5b.json'
-2025-5-26 17:14:48 - warn: [Assets] Failed to delete temporary cache: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\301.png@6c48aWarn: [Assets] Failed to delete temporary cache: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\301.png@6c48a
-    at console.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@sentry\src\instrument\console.ts:40:20)
-    at CustomConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1510)
-    at VirtualAsset.reset (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\asset.ccc:1:3259)
-    at Asset.reset (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\asset.ccc:1:3504)
-    at ImportTask.importAsset (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\task.ccc:1:2273)
-    at ImportTask.exec (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\task.ccc:1:731)
-    at ParallelQueue._generate (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\asset-db.ccc:1:2677)
-2025-5-26 17:14:48 - warn: [Assets] EBUSY: resource busy or locked, unlink 'D:\CODE\cocos_workspace\背包英雄\library\40\406b6020-e923-454d-9b8f-ee073d134c5b@6c48a.json'Error: EBUSY: resource busy or locked, unlink 'D:\CODE\cocos_workspace\背包英雄\library\40\406b6020-e923-454d-9b8f-ee073d134c5b@6c48a.json'
-2025-5-26 18:00:21 - warn: [Assets] Failed to delete temporary cache: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\501.pngWarn: [Assets] Failed to delete temporary cache: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\501.png
-    at console.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@sentry\src\instrument\console.ts:40:20)
-    at CustomConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1510)
-    at Asset.reset (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\asset.ccc:1:3259)
-    at ImportTask.importAsset (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\task.ccc:1:2273)
-    at ImportTask.exec (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\task.ccc:1:731)
-    at ParallelQueue._generate (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\asset-db.ccc:1:2677)
-2025-5-26 18:00:21 - warn: [Assets] EBUSY: resource busy or locked, unlink 'D:\CODE\cocos_workspace\背包英雄\library\26\2620eaa5-58e5-451f-be75-d5331e96f7db.json'Error: EBUSY: resource busy or locked, unlink 'D:\CODE\cocos_workspace\背包英雄\library\26\2620eaa5-58e5-451f-be75-d5331e96f7db.json'
-2025-5-26 18:00:26 - warn: [Assets] Failed to delete temporary cache: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\502.pngWarn: [Assets] Failed to delete temporary cache: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\502.png
-    at console.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@sentry\src\instrument\console.ts:40:20)
-    at CustomConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1510)
-    at Asset.reset (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\asset.ccc:1:3259)
-    at ImportTask.importAsset (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\task.ccc:1:2273)
-    at ImportTask.exec (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\task.ccc:1:731)
-    at ParallelQueue._generate (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\asset-db.ccc:1:2677)
-2025-5-26 18:00:26 - warn: [Assets] EBUSY: resource busy or locked, unlink 'D:\CODE\cocos_workspace\背包英雄\library\26\26fde536-d9c6-4db7-afb7-54009e2f3ee4.json'Error: EBUSY: resource busy or locked, unlink 'D:\CODE\cocos_workspace\背包英雄\library\26\26fde536-d9c6-4db7-afb7-54009e2f3ee4.json'
-2025-5-26 18:00:27 - warn: [Assets] Failed to delete temporary cache: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\502.png@6c48aWarn: [Assets] Failed to delete temporary cache: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\502.png@6c48a
-    at console.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@sentry\src\instrument\console.ts:40:20)
-    at CustomConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1510)
-    at VirtualAsset.reset (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\asset.ccc:1:3259)
-    at Asset.reset (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\asset.ccc:1:3504)
-    at ImportTask.importAsset (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\task.ccc:1:2273)
-    at ImportTask.exec (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\task.ccc:1:731)
-    at ParallelQueue._generate (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\asset-db.ccc:1:2677)
-2025-5-26 18:00:27 - warn: [Assets] EBUSY: resource busy or locked, unlink 'D:\CODE\cocos_workspace\背包英雄\library\26\26fde536-d9c6-4db7-afb7-54009e2f3ee4@6c48a.json'Error: EBUSY: resource busy or locked, unlink 'D:\CODE\cocos_workspace\背包英雄\library\26\26fde536-d9c6-4db7-afb7-54009e2f3ee4@6c48a.json'
+2025-5-26 23:44:29 - log: Load engine in C:\ProgramData\cocos\editors\Creator\3.8.6\resources\resources\3d\engine
+2025-5-26 23:44:29 - log: Register native engine in C:\ProgramData\cocos\editors\Creator\3.8.6\resources\resources\3d\engine\native
+2025-5-26 23:44:30 - log: Request namespace: device-list
+2025-5-26 23:44:38 - log: [Scene] meshopt wasm decoder initialized
+2025-5-26 23:44:38 - log: [Scene] [box2d]:box2d wasm lib loaded.
+2025-5-26 23:44:38 - log: [Scene] [bullet]:bullet wasm lib loaded.
+2025-5-26 23:44:38 - log: [Scene] [PHYSICS]: using builtin.
+2025-5-26 23:44:38 - log: [Scene] Cocos Creator v3.8.6
+2025-5-26 23:44:38 - log: [Scene] No need to specify the "type" of "GridMapManager.gridListOffset" because cc.Vec3 is a child class of ValueType.
+2025-5-26 23:44:38 - log: [Scene] No need to specify the "type" of "GridMapManager.weaponListOffset" because cc.Vec3 is a child class of ValueType.
+2025-5-26 23:44:38 - log: [Scene] No need to specify the "type" of "GridMapManager.preWeaponListOffset" because cc.Vec3 is a child class of ValueType.
+2025-5-26 23:44:38 - log: [Scene] Using legacy pipeline
+2025-5-26 23:44:38 - log: [Scene] Forward render pipeline initialized.
+2025-5-26 23:44:38 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to builtin.
+2025-5-26 23:49:51 - log: [Scene] No need to specify the "type" of "GridMapManager.gridListOffset" because cc.Vec3 is a child class of ValueType.
+2025-5-26 23:49:51 - log: [Scene] No need to specify the "type" of "GridMapManager.weaponListOffset" because cc.Vec3 is a child class of ValueType.
+2025-5-26 23:49:51 - log: [Scene] No need to specify the "type" of "GridMapManager.preWeaponListOffset" because cc.Vec3 is a child class of ValueType.
+2025-5-27 00:21:07 - log: [Scene] No need to specify the "type" of "GridMapManager.gridListOffset" because cc.Vec3 is a child class of ValueType.
+2025-5-27 00:21:07 - log: [Scene] No need to specify the "type" of "GridMapManager.weaponListOffset" because cc.Vec3 is a child class of ValueType.
+2025-5-27 00:21:07 - log: [Scene] No need to specify the "type" of "GridMapManager.preWeaponListOffset" because cc.Vec3 is a child class of ValueType.

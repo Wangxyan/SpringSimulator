@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 6051.8872,
+      "mTimestamp": 6672.4049,
       "chunkId": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b",
       "imports": [
         {
@@ -976,7 +976,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 11075165.4929,
+      "mTimestamp": 6025224.9444,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
@@ -2184,7 +2184,7 @@
           }
         },
         {
-          "value": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Scenes/Load.ts",
+          "value": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Scenes/Game_1.ts",
           "resolved": "__unresolved_86",
           "loc": {
             "start": {
@@ -2193,7 +2193,21 @@
             },
             "end": {
               "line": 5,
-              "column": 11103
+              "column": 11105
+            }
+          }
+        },
+        {
+          "value": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Scenes/Load.ts",
+          "resolved": "__unresolved_87",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 11121
+            },
+            "end": {
+              "line": 5,
+              "column": 11221
             }
           }
         }
@@ -2799,6 +2813,13 @@
           "resolved": {
             "type": "module",
             "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Scenes/Game.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Scenes/Game_1.ts"
           },
           "messages": []
         },
@@ -5579,7 +5600,7 @@
     },
     "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Data/GameData.ts": {
       "mTimestamp": {
-        "mtime": 1718709972000,
+        "mtime": 1748276405074.8777,
         "uuid": "1d101990-6199-47e5-880d-0d31e91c538d"
       },
       "chunkId": "dfddd4815a6f0943c74144424ed23b3e3d5978a1",
@@ -5654,7 +5675,7 @@
     },
     "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Data/GridData.ts": {
       "mTimestamp": {
-        "mtime": 1748256365261.7627,
+        "mtime": 1748276403276.9497,
         "uuid": "fe537a22-f782-4f56-8ebd-fc50c71b3860"
       },
       "chunkId": "43cd309c44da4028fec8d5cd529f9c8be786004e",
@@ -6424,7 +6445,7 @@
     },
     "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Event/GameEvent.ts": {
       "mTimestamp": {
-        "mtime": 1718709974000,
+        "mtime": 1748279647691.6133,
         "uuid": "d5d0d63f-f3d3-4464-aa7b-3d3c5a33b18d"
       },
       "chunkId": "bc92cd5e126642563f7a5b71f252dbb2bfe5f615",
@@ -7706,7 +7727,7 @@
     },
     "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Mgr/GridMapManager.ts": {
       "mTimestamp": {
-        "mtime": 1748242824582.24,
+        "mtime": 1748280291119.3428,
         "uuid": "c4c63093-53ee-4d73-9c8c-83e0399bd783"
       },
       "chunkId": "95eb34543751f41a4eee198384855da1e116cee8",
@@ -7726,11 +7747,11 @@
           "loc": {
             "start": {
               "line": 1,
-              "column": 136
+              "column": 153
             },
             "end": {
               "line": 1,
-              "column": 140
+              "column": 157
             }
           }
         },
@@ -9828,7 +9849,7 @@
     },
     "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Weapon/WeaponBgItem.ts": {
       "mTimestamp": {
-        "mtime": 1718709974000,
+        "mtime": 1748279850129.892,
         "uuid": "f96cdda8-70dd-40bf-bb22-6763256f3d3b"
       },
       "chunkId": "ff751a1e7f0d1e4848bae524d8e6f59a8a3b3697",
@@ -12561,11 +12582,809 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1748245360824,
+      "mTimestamp": 1748274269734,
       "chunkId": "6a5019a719a9014c047e67aa1cf34453ab8392ce",
       "imports": [],
       "type": "esm",
       "resolutions": []
+    },
+    "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Scenes/Game-001.ts": {
+      "mTimestamp": {
+        "mtime": 1718709974000,
+        "uuid": "f055e330-b11f-4a1d-a8e9-52e35239e08a"
+      },
+      "chunkId": "8521f909e7e06b96aed1a31b28ccfc90ebab66d6",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 167
+            },
+            "end": {
+              "line": 1,
+              "column": 171
+            }
+          }
+        },
+        {
+          "value": "../Frame/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 29
+            },
+            "end": {
+              "line": 3,
+              "column": 52
+            }
+          }
+        },
+        {
+          "value": "../Frame/EventListener",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 30
+            },
+            "end": {
+              "line": 4,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../Frame/GameController",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 27
+            },
+            "end": {
+              "line": 5,
+              "column": 52
+            }
+          }
+        },
+        {
+          "value": "../Frame/OpenPopupManager",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 33
+            },
+            "end": {
+              "line": 6,
+              "column": 60
+            }
+          }
+        },
+        {
+          "value": "../Frame/PopupManager",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 29
+            },
+            "end": {
+              "line": 7,
+              "column": 52
+            }
+          }
+        },
+        {
+          "value": "../Game/Event/GameEvent",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 26
+            },
+            "end": {
+              "line": 10,
+              "column": 51
+            }
+          }
+        },
+        {
+          "value": "../Game/Mgr/BattleUIManager",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 11,
+              "column": 32
+            },
+            "end": {
+              "line": 11,
+              "column": 61
+            }
+          }
+        },
+        {
+          "value": "../Game/Mgr/BgManager",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 26
+            },
+            "end": {
+              "line": 12,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "../Game/Mgr/BoxManager",
+          "resolved": "__unresolved_9",
+          "loc": {
+            "start": {
+              "line": 13,
+              "column": 27
+            },
+            "end": {
+              "line": 13,
+              "column": 51
+            }
+          }
+        },
+        {
+          "value": "../Game/Mgr/GridManager",
+          "resolved": "__unresolved_10",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 28
+            },
+            "end": {
+              "line": 14,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../Game/Mgr/GridMapManager",
+          "resolved": "__unresolved_11",
+          "loc": {
+            "start": {
+              "line": 15,
+              "column": 31
+            },
+            "end": {
+              "line": 15,
+              "column": 59
+            }
+          }
+        },
+        {
+          "value": "../Game/Mgr/HeroManager",
+          "resolved": "__unresolved_12",
+          "loc": {
+            "start": {
+              "line": 16,
+              "column": 28
+            },
+            "end": {
+              "line": 16,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../Game/Mgr/MonsterManager",
+          "resolved": "__unresolved_13",
+          "loc": {
+            "start": {
+              "line": 17,
+              "column": 31
+            },
+            "end": {
+              "line": 17,
+              "column": 59
+            }
+          }
+        },
+        {
+          "value": "../Game/Mgr/SkillManager",
+          "resolved": "__unresolved_14",
+          "loc": {
+            "start": {
+              "line": 18,
+              "column": 29
+            },
+            "end": {
+              "line": 18,
+              "column": 55
+            }
+          }
+        },
+        {
+          "value": "../Game/Mgr/WeaponManager",
+          "resolved": "__unresolved_15",
+          "loc": {
+            "start": {
+              "line": 19,
+              "column": 30
+            },
+            "end": {
+              "line": 19,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "../GameDefine",
+          "resolved": "__unresolved_16",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 27
+            },
+            "end": {
+              "line": 20,
+              "column": 42
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Frame/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Frame/EventListener.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Frame/GameController.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Frame/OpenPopupManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Frame/PopupManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Event/GameEvent.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Mgr/BattleUIManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Mgr/BgManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Mgr/BoxManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Mgr/GridManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Mgr/GridMapManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Mgr/HeroManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Mgr/MonsterManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Mgr/SkillManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Mgr/WeaponManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/GameDefine.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Scenes/Game_1.ts": {
+      "mTimestamp": {
+        "mtime": 1718709974000,
+        "uuid": "f055e330-b11f-4a1d-a8e9-52e35239e08a"
+      },
+      "chunkId": "62d1b890e8be0a769c9eeca3a81139028ef9daa1",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 167
+            },
+            "end": {
+              "line": 1,
+              "column": 171
+            }
+          }
+        },
+        {
+          "value": "../Frame/AudioManager",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 29
+            },
+            "end": {
+              "line": 3,
+              "column": 52
+            }
+          }
+        },
+        {
+          "value": "../Frame/EventListener",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 30
+            },
+            "end": {
+              "line": 4,
+              "column": 54
+            }
+          }
+        },
+        {
+          "value": "../Frame/GameController",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 27
+            },
+            "end": {
+              "line": 5,
+              "column": 52
+            }
+          }
+        },
+        {
+          "value": "../Frame/OpenPopupManager",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 33
+            },
+            "end": {
+              "line": 6,
+              "column": 60
+            }
+          }
+        },
+        {
+          "value": "../Frame/PopupManager",
+          "resolved": "__unresolved_5",
+          "loc": {
+            "start": {
+              "line": 7,
+              "column": 29
+            },
+            "end": {
+              "line": 7,
+              "column": 52
+            }
+          }
+        },
+        {
+          "value": "../Game/Event/GameEvent",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 10,
+              "column": 26
+            },
+            "end": {
+              "line": 10,
+              "column": 51
+            }
+          }
+        },
+        {
+          "value": "../Game/Mgr/BattleUIManager",
+          "resolved": "__unresolved_7",
+          "loc": {
+            "start": {
+              "line": 11,
+              "column": 32
+            },
+            "end": {
+              "line": 11,
+              "column": 61
+            }
+          }
+        },
+        {
+          "value": "../Game/Mgr/BgManager",
+          "resolved": "__unresolved_8",
+          "loc": {
+            "start": {
+              "line": 12,
+              "column": 26
+            },
+            "end": {
+              "line": 12,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "../Game/Mgr/BoxManager",
+          "resolved": "__unresolved_9",
+          "loc": {
+            "start": {
+              "line": 13,
+              "column": 27
+            },
+            "end": {
+              "line": 13,
+              "column": 51
+            }
+          }
+        },
+        {
+          "value": "../Game/Mgr/GridManager",
+          "resolved": "__unresolved_10",
+          "loc": {
+            "start": {
+              "line": 14,
+              "column": 28
+            },
+            "end": {
+              "line": 14,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../Game/Mgr/GridMapManager",
+          "resolved": "__unresolved_11",
+          "loc": {
+            "start": {
+              "line": 15,
+              "column": 31
+            },
+            "end": {
+              "line": 15,
+              "column": 59
+            }
+          }
+        },
+        {
+          "value": "../Game/Mgr/HeroManager",
+          "resolved": "__unresolved_12",
+          "loc": {
+            "start": {
+              "line": 16,
+              "column": 28
+            },
+            "end": {
+              "line": 16,
+              "column": 53
+            }
+          }
+        },
+        {
+          "value": "../Game/Mgr/MonsterManager",
+          "resolved": "__unresolved_13",
+          "loc": {
+            "start": {
+              "line": 17,
+              "column": 31
+            },
+            "end": {
+              "line": 17,
+              "column": 59
+            }
+          }
+        },
+        {
+          "value": "../Game/Mgr/SkillManager",
+          "resolved": "__unresolved_14",
+          "loc": {
+            "start": {
+              "line": 18,
+              "column": 29
+            },
+            "end": {
+              "line": 18,
+              "column": 55
+            }
+          }
+        },
+        {
+          "value": "../Game/Mgr/WeaponManager",
+          "resolved": "__unresolved_15",
+          "loc": {
+            "start": {
+              "line": 19,
+              "column": 30
+            },
+            "end": {
+              "line": 19,
+              "column": 57
+            }
+          }
+        },
+        {
+          "value": "../GameDefine",
+          "resolved": "__unresolved_16",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 27
+            },
+            "end": {
+              "line": 20,
+              "column": 42
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Frame/AudioManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Frame/EventListener.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Frame/GameController.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Frame/OpenPopupManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Frame/PopupManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Event/GameEvent.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Mgr/BattleUIManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Mgr/BgManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Mgr/BoxManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Mgr/GridManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Mgr/GridMapManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Mgr/HeroManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Mgr/MonsterManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Mgr/SkillManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Mgr/WeaponManager.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/GameDefine.ts"
+          },
+          "messages": []
+        }
+      ]
     }
   }
 }

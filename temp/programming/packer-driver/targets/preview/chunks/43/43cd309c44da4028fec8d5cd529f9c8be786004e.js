@@ -351,6 +351,30 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
           var values = weaponCfg.wealth;
           return values;
         }
+
+        getTotalAttributes() {
+          var totalCharm = 0;
+          var totalKnowledge = 0;
+          var totalTalent = 0;
+          var totalWealth = 0;
+
+          this._gridItemData.forEach(weaponObj => {
+            var weaponCfg = (_crd && WeaponData === void 0 ? (_reportPossibleCrUseOfWeaponData({
+              error: Error()
+            }), WeaponData) : WeaponData).instance.getWeaponCfgById(weaponObj.wid);
+            totalCharm += weaponCfg.charm;
+            totalKnowledge += weaponCfg.knowledge;
+            totalTalent += weaponCfg.talent;
+            totalWealth += weaponCfg.wealth;
+          });
+
+          return {
+            charm: totalCharm,
+            knowledge: totalKnowledge,
+            talent: totalTalent,
+            wealth: totalWealth
+          };
+        }
         /*获取携带的武器Map数据  */
 
 

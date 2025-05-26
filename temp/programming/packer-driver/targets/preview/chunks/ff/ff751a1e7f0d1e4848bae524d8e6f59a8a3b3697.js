@@ -244,6 +244,8 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
 
 
         onPlaceFinish() {
+          // 放置完成时触发属性更新事件
+          // EventListener.emit(GameEvent.WEAPON_PLACE, this._weaponCfg); // 传递当前武器配置
           //放置完成
           (_crd && EventListener === void 0 ? (_reportPossibleCrUseOfEventListener({
             error: Error()

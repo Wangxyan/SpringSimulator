@@ -127,6 +127,8 @@ export class WeaponBgItem extends BaseComponent {
 
     /* 放置完成 */
     onPlaceFinish() {
+        // 放置完成时触发属性更新事件
+        // EventListener.emit(GameEvent.WEAPON_PLACE, this._weaponCfg); // 传递当前武器配置
         //放置完成
         EventListener.emit(GameEvent.PLACE_GRID_END, this);
     }
@@ -145,6 +147,7 @@ export class WeaponBgItem extends BaseComponent {
             this.placeStatus = true;
             this.setNodeAngel();
             EventListener.emit(GameEvent.PLACE_GRID_START, this);
+            
             let pos = this.node.parent.getComponent(UITransform).convertToNodeSpaceAR(new Vec3(wpos.x, wpos.y, 0));
             this.node.setPosition(pos.x, pos.y);
         }

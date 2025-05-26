@@ -3986,8 +3986,10 @@
         "babe40f5-d9c6-42e5-bd59-896cb8966da9@f9941",
         "fd9d18f8-8346-44d8-bd5d-2059a35c8b7d@f9941",
         "b470fb93-8863-476d-b52c-bc860afd2d4e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
         "f0075b91-82f1-4479-abc6-2116e69faeb1@f9941",
-        "5a21866d-89d1-455a-8f40-d59b10dbe07b@f9941",
         "327b242b-853b-4378-bb4a-53c0b670fb23"
       ],
       "dependScripts": [
@@ -4226,6 +4228,36 @@
     "value": {
       "depends": [
         "9a4c5698-6767-4a60-bd05-c08334ca8f06@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "f055e330-b11f-4a1d-a8e9-52e35239e08a": {
+    "url": "db://assets/Scripts/Scenes/Game_1.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "8a97ea95-1d34-4607-8c40-ae90c62b392d": {
+    "url": "db://assets/Scenes/Game_1.scene",
+    "value": {
+      "depends": [
+        "8a97ea95-1d34-4607-8c40-ae90c62b392d",
+        "c4cfe24b-bbfa-427d-8b15-a9683d5948c8",
+        "16702ea5-8986-4082-9211-8231b9f60b66",
+        "b9cbfc7b-2f0c-4026-89a7-4d411f8ecfbe"
+      ],
+      "dependScripts": [
+        "9d1be4d9-b195-4b2e-874b-14c86405af32",
+        "bba98930-7d5b-490f-94c4-8e56d1ebae6a",
+        "c4c63093-53ee-4d73-9c8c-83e0399bd783",
+        "40e3b80f-a89f-4912-a0ae-ea943fae8586",
+        "8979318f-3aa3-45a8-887e-7b5442eefa1d",
+        "0590486c-2698-4859-980d-ceb7f54946e2",
+        "8b377a57-9451-4848-8d9c-613d2cdc52cd",
+        "bc3816cb-d054-40fa-a3a3-4d32cc3fb96e",
+        "847ce576-5d69-40df-b380-aaea4aa2830c",
+        "bfbb4b87-27e2-4a8e-aecd-fd9f2dfca2de",
+        "3b31d323-7b93-4671-8171-c5881cb37d35"
       ]
     },
     "versionCode": 1
