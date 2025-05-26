@@ -225,3 +225,929 @@
 2025-5-26 16:44:26-log: run build task Sort some build options to settings.json success in 13 ms√, progress: 15%
 2025-5-26 16:44:26-debug: [Build Memory track]: Sort some build options to settings.json start:208.36MB, end 207.10MB, increase: -1298.92KB
 2025-5-26 16:44:26-debug: // ---- build task Sort some build options to settings.json ---- (13ms)
+2025-5-26 16:53:25-debug: refresh db internal success
+2025-5-26 16:53:25-debug: refresh db assets success
+2025-5-26 16:53:25-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 16:53:25-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 16:53:25-debug: asset-db:refresh-all-database (147ms)
+2025-5-26 16:53:25-debug: asset-db:worker-effect-data-processing (3ms)
+2025-5-26 16:53:25-debug: asset-db-hook-engine-extends-afterRefresh (3ms)
+2025-5-26 16:53:53-debug: refresh db internal success
+2025-5-26 16:53:53-debug: refresh db assets success
+2025-5-26 16:53:53-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 16:53:53-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 16:53:53-debug: asset-db:refresh-all-database (111ms)
+2025-5-26 16:53:53-debug: asset-db:worker-effect-data-processing (1ms)
+2025-5-26 16:53:53-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2025-5-26 16:54:13-warn: Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the script
+2025-5-26 16:54:59-debug: refresh db internal success
+2025-5-26 16:54:59-debug: refresh db assets success
+2025-5-26 16:54:59-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 16:54:59-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 16:54:59-debug: asset-db:refresh-all-database (136ms)
+2025-5-26 16:54:59-debug: asset-db:worker-effect-data-processing (4ms)
+2025-5-26 16:54:59-debug: asset-db-hook-engine-extends-afterRefresh (5ms)
+2025-5-26 16:55:52-debug: refresh db internal success
+2025-5-26 16:55:52-debug: refresh db assets success
+2025-5-26 16:55:52-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 16:55:52-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 16:55:52-debug: asset-db:refresh-all-database (121ms)
+2025-5-26 16:55:52-debug: asset-db:worker-effect-data-processing (2ms)
+2025-5-26 16:55:52-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2025-5-26 17:00:30-debug: refresh db internal success
+2025-5-26 17:00:30-debug: refresh db assets success
+2025-5-26 17:00:30-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 17:00:30-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 17:00:30-debug: asset-db:worker-effect-data-processing (1ms)
+2025-5-26 17:00:30-debug: asset-db:refresh-all-database (117ms)
+2025-5-26 17:00:30-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2025-5-26 17:00:42-debug: refresh db internal success
+2025-5-26 17:00:42-debug: refresh db assets success
+2025-5-26 17:00:42-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 17:00:42-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 17:00:42-debug: asset-db:refresh-all-database (119ms)
+2025-5-26 17:00:42-debug: asset-db:worker-effect-data-processing (1ms)
+2025-5-26 17:00:42-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-5-26 17:00:45-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\105.png...
+2025-5-26 17:00:45-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\105.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:00:45-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\105.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:00:45-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon success
+2025-5-26 17:00:45-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weaponbackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:00:45-debug: refresh db internal success
+2025-5-26 17:00:45-debug: refresh db assets success
+2025-5-26 17:00:45-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 17:00:45-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 17:00:45-debug: asset-db:worker-effect-data-processing (1ms)
+2025-5-26 17:00:45-debug: asset-db:refresh-all-database (141ms)
+2025-5-26 17:00:45-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-5-26 17:01:08-debug: refresh db internal success
+2025-5-26 17:01:08-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 17:01:08-debug: refresh db assets success
+2025-5-26 17:01:08-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 17:01:08-debug: asset-db:refresh-all-database (120ms)
+2025-5-26 17:01:08-debug: asset-db:worker-effect-data-processing (1ms)
+2025-5-26 17:01:08-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-5-26 17:01:21-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\105.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:01:21-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\105.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:01:21-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\105.png@f9941background: #aaff85; color: #000;color: #000;
+2025-5-26 17:01:21-debug: asset-db:reimport-asset8ae77041-b8f2-4cc7-8b0f-b746e61e9d84 (19ms)
+2025-5-26 17:01:26-debug: refresh db internal success
+2025-5-26 17:01:26-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 17:01:26-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 17:01:26-debug: refresh db assets success
+2025-5-26 17:01:26-debug: asset-db:refresh-all-database (97ms)
+2025-5-26 17:01:28-debug: refresh db internal success
+2025-5-26 17:01:28-debug: refresh db assets success
+2025-5-26 17:01:28-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 17:01:28-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 17:01:28-debug: asset-db:refresh-all-database (108ms)
+2025-5-26 17:01:32-debug: refresh db internal success
+2025-5-26 17:01:32-debug: refresh db assets success
+2025-5-26 17:01:32-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 17:01:32-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 17:01:32-debug: asset-db:refresh-all-database (124ms)
+2025-5-26 17:01:32-debug: asset-db:worker-effect-data-processing (1ms)
+2025-5-26 17:01:32-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-5-26 17:01:36-debug: start move asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\101.png -> D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\106.png...
+2025-5-26 17:01:36-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\106.png...
+2025-5-26 17:01:36-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\106.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:01:36-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\106.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:01:36-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\106.png@f9941background: #aaff85; color: #000;color: #000;
+2025-5-26 17:01:36-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon success
+2025-5-26 17:01:36-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon...
+2025-5-26 17:01:36-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weaponbackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:01:36-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game success
+2025-5-26 17:01:36-debug: move asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\101.png -> D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\106.png success
+2025-5-26 17:01:43-debug: start move asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\106.png -> D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\1011.png...
+2025-5-26 17:01:44-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\1011.png...
+2025-5-26 17:01:44-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\1011.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:01:44-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\1011.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:01:44-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\1011.png@f9941background: #aaff85; color: #000;color: #000;
+2025-5-26 17:01:44-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon success
+2025-5-26 17:01:44-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon...
+2025-5-26 17:01:44-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weaponbackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:01:44-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game success
+2025-5-26 17:01:44-debug: move asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\106.png -> D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\1011.png success
+2025-5-26 17:01:53-debug: start move asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\1011.png -> D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\106.png...
+2025-5-26 17:01:53-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\106.png...
+2025-5-26 17:01:53-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\106.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:01:53-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\106.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:01:53-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\106.png@f9941background: #aaff85; color: #000;color: #000;
+2025-5-26 17:01:53-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon success
+2025-5-26 17:01:53-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon...
+2025-5-26 17:01:53-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weaponbackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:01:53-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game success
+2025-5-26 17:01:53-debug: move asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\1011.png -> D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\106.png success
+2025-5-26 17:01:59-debug: start move asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\105.png -> D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\101.png...
+2025-5-26 17:01:59-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\101.png...
+2025-5-26 17:01:59-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\101.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:01:59-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\101.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:01:59-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\101.png@f9941background: #aaff85; color: #000;color: #000;
+2025-5-26 17:01:59-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon success
+2025-5-26 17:01:59-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon...
+2025-5-26 17:01:59-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weaponbackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:01:59-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game success
+2025-5-26 17:01:59-debug: move asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\105.png -> D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\101.png success
+2025-5-26 17:02:02-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\Scenes\Game.scenebackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:02:02-debug: asset-db:reimport-assetb9cbfc7b-2f0c-4026-89a7-4d411f8ecfbe (7ms)
+2025-5-26 17:02:05-debug: Query all assets info in project
+2025-5-26 17:02:05-debug: init custom config: keepNodeUuid: false, useCache: true
+2025-5-26 17:02:05-debug: Skip compress image, progress: 0%
+2025-5-26 17:02:05-debug: Num of bundles: 3..., progress: 0%
+2025-5-26 17:02:05-debug: Init all bundles start..., progress: 0%
+2025-5-26 17:02:05-debug: // ---- build task Query asset bundle ----
+2025-5-26 17:02:05-debug: Query asset bundle start, progress: 0%
+2025-5-26 17:02:05-debug: Init bundle root assets start..., progress: 0%
+2025-5-26 17:02:05-debug: Query preload assets/scripts from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,b2bd1fa7-8d7c-49c5-a158-df29a6d3a594,871c3b6c-7379-419d-bda3-794b239ab90d
+2025-5-26 17:02:05-debug:   Number of other assets: 688
+2025-5-26 17:02:05-debug:   Number of all scripts: 87
+2025-5-26 17:02:05-debug: Init bundle root assets success..., progress: 0%
+2025-5-26 17:02:05-debug:   Number of all scenes: 2
+2025-5-26 17:02:05-log: run build task Query asset bundle success in 13 ms√, progress: 5%
+2025-5-26 17:02:05-debug: // ---- build task Query asset bundle ---- (13ms)
+2025-5-26 17:02:05-debug: [Build Memory track]: Query asset bundle start:203.08MB, end 203.13MB, increase: 50.30KB
+2025-5-26 17:02:05-debug: Query asset bundle start, progress: 5%
+2025-5-26 17:02:05-debug: // ---- build task Query asset bundle ----
+2025-5-26 17:02:05-log: run build task Query asset bundle success in 4 ms√, progress: 10%
+2025-5-26 17:02:05-debug: [Build Memory track]: Query asset bundle start:203.16MB, end 203.30MB, increase: 148.63KB
+2025-5-26 17:02:05-debug: // ---- build task Query asset bundle ---- (4ms)
+2025-5-26 17:02:05-debug: Sort some build options to settings.json start, progress: 10%
+2025-5-26 17:02:05-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 17:02:05-debug: // ---- build task Sort some build options to settings.json ---- (2ms)
+2025-5-26 17:02:05-log: run build task Sort some build options to settings.json success in 2 ms√, progress: 12%
+2025-5-26 17:02:05-debug: [Build Memory track]: Sort some build options to settings.json start:203.33MB, end 203.36MB, increase: 27.46KB
+2025-5-26 17:02:05-debug: Fill script data to settings start, progress: 12%
+2025-5-26 17:02:05-debug: // ---- build task Fill script data to settings ----
+2025-5-26 17:02:05-debug: // ---- build task Fill script data to settings ---- (1ms)
+2025-5-26 17:02:05-log: run build task Fill script data to settings success in 1 ms√, progress: 13%
+2025-5-26 17:02:05-debug: [Build Memory track]: Fill script data to settings start:203.39MB, end 203.41MB, increase: 26.04KB
+2025-5-26 17:02:05-debug: Sort some build options to settings.json start, progress: 13%
+2025-5-26 17:02:05-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 17:02:05-log: run build task Sort some build options to settings.json success in 8 ms√, progress: 15%
+2025-5-26 17:02:05-debug: // ---- build task Sort some build options to settings.json ---- (8ms)
+2025-5-26 17:02:05-debug: [Build Memory track]: Sort some build options to settings.json start:203.44MB, end 203.58MB, increase: 138.67KB
+2025-5-26 17:02:20-debug: refresh db internal success
+2025-5-26 17:02:20-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 17:02:20-debug: refresh db assets success
+2025-5-26 17:02:20-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 17:02:20-debug: asset-db:worker-effect-data-processing (2ms)
+2025-5-26 17:02:20-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2025-5-26 17:02:20-debug: asset-db:refresh-all-database (142ms)
+2025-5-26 17:04:28-debug: refresh db internal success
+2025-5-26 17:04:28-debug: refresh db assets success
+2025-5-26 17:04:28-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 17:04:28-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 17:04:28-debug: asset-db:refresh-all-database (110ms)
+2025-5-26 17:04:28-debug: asset-db:worker-effect-data-processing (2ms)
+2025-5-26 17:04:28-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2025-5-26 17:04:32-debug: refresh db internal success
+2025-5-26 17:04:32-debug: refresh db assets success
+2025-5-26 17:04:32-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 17:04:32-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 17:04:32-debug: asset-db:refresh-all-database (126ms)
+2025-5-26 17:04:32-debug: asset-db:worker-effect-data-processing (4ms)
+2025-5-26 17:04:32-debug: asset-db-hook-engine-extends-afterRefresh (4ms)
+2025-5-26 17:04:39-debug: refresh db internal success
+2025-5-26 17:04:39-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 17:04:39-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 17:04:39-debug: refresh db assets success
+2025-5-26 17:04:39-debug: asset-db:worker-effect-data-processing (4ms)
+2025-5-26 17:04:39-debug: asset-db:refresh-all-database (127ms)
+2025-5-26 17:04:39-debug: asset-db-hook-engine-extends-afterRefresh (5ms)
+2025-5-26 17:04:42-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\101.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:04:42-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\101.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:04:42-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\101.png@f9941background: #aaff85; color: #000;color: #000;
+2025-5-26 17:04:42-debug: asset-db:reimport-assetD:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\101.png (14ms)
+2025-5-26 17:04:42-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\101.png...
+2025-5-26 17:04:42-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon success
+2025-5-26 17:04:42-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weaponbackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:04:42-debug: refresh db internal success
+2025-5-26 17:04:42-debug: refresh db assets success
+2025-5-26 17:04:42-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 17:04:42-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 17:04:42-debug: asset-db:refresh-all-database (135ms)
+2025-5-26 17:04:42-debug: asset-db:worker-effect-data-processing (1ms)
+2025-5-26 17:04:42-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2025-5-26 17:04:46-debug: refresh db internal success
+2025-5-26 17:04:46-debug: refresh db assets success
+2025-5-26 17:04:46-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 17:04:46-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 17:04:46-debug: asset-db:refresh-all-database (135ms)
+2025-5-26 17:04:46-debug: asset-db:worker-effect-data-processing (1ms)
+2025-5-26 17:04:46-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-5-26 17:04:47-debug: Query all assets info in project
+2025-5-26 17:04:47-debug: init custom config: keepNodeUuid: false, useCache: true
+2025-5-26 17:04:47-debug: Skip compress image, progress: 0%
+2025-5-26 17:04:47-debug: Num of bundles: 3..., progress: 0%
+2025-5-26 17:04:47-debug: Init all bundles start..., progress: 0%
+2025-5-26 17:04:47-debug: // ---- build task Query asset bundle ----
+2025-5-26 17:04:47-debug: Query asset bundle start, progress: 0%
+2025-5-26 17:04:47-debug: Init bundle root assets start..., progress: 0%
+2025-5-26 17:04:47-debug:   Number of all scenes: 2
+2025-5-26 17:04:47-debug: Query preload assets/scripts from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,b2bd1fa7-8d7c-49c5-a158-df29a6d3a594,871c3b6c-7379-419d-bda3-794b239ab90d
+2025-5-26 17:04:47-debug:   Number of all scripts: 87
+2025-5-26 17:04:47-debug:   Number of other assets: 688
+2025-5-26 17:04:47-debug: Init bundle root assets success..., progress: 0%
+2025-5-26 17:04:47-log: run build task Query asset bundle success in 16 ms√, progress: 5%
+2025-5-26 17:04:47-debug: [Build Memory track]: Query asset bundle start:209.65MB, end 208.50MB, increase: -1179.50KB
+2025-5-26 17:04:47-debug: // ---- build task Query asset bundle ---- (16ms)
+2025-5-26 17:04:47-debug: // ---- build task Query asset bundle ----
+2025-5-26 17:04:47-debug: Query asset bundle start, progress: 5%
+2025-5-26 17:04:47-debug: // ---- build task Query asset bundle ---- (3ms)
+2025-5-26 17:04:47-debug: [Build Memory track]: Query asset bundle start:208.53MB, end 208.67MB, increase: 150.84KB
+2025-5-26 17:04:47-log: run build task Query asset bundle success in 3 ms√, progress: 10%
+2025-5-26 17:04:47-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 17:04:47-debug: Sort some build options to settings.json start, progress: 10%
+2025-5-26 17:04:47-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+2025-5-26 17:04:47-log: run build task Sort some build options to settings.json success in 1 ms√, progress: 12%
+2025-5-26 17:04:47-debug: Fill script data to settings start, progress: 12%
+2025-5-26 17:04:47-debug: [Build Memory track]: Sort some build options to settings.json start:208.70MB, end 208.74MB, increase: 33.29KB
+2025-5-26 17:04:47-debug: // ---- build task Fill script data to settings ----
+2025-5-26 17:04:47-log: run build task Fill script data to settings success in 3 ms√, progress: 13%
+2025-5-26 17:04:47-debug: // ---- build task Fill script data to settings ---- (3ms)
+2025-5-26 17:04:47-debug: [Build Memory track]: Fill script data to settings start:208.76MB, end 208.79MB, increase: 26.73KB
+2025-5-26 17:04:47-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 17:04:47-debug: Sort some build options to settings.json start, progress: 13%
+2025-5-26 17:04:47-debug: [Build Memory track]: Sort some build options to settings.json start:208.82MB, end 208.94MB, increase: 130.61KB
+2025-5-26 17:04:47-debug: // ---- build task Sort some build options to settings.json ---- (7ms)
+2025-5-26 17:04:47-log: run build task Sort some build options to settings.json success in 7 ms√, progress: 15%
+2025-5-26 17:04:47-debug: Query all assets info in project
+2025-5-26 17:04:47-debug: init custom config: keepNodeUuid: false, useCache: true
+2025-5-26 17:04:47-debug: Skip compress image, progress: 0%
+2025-5-26 17:04:47-debug: Num of bundles: 3..., progress: 0%
+2025-5-26 17:04:47-debug: Init all bundles start..., progress: 0%
+2025-5-26 17:04:47-debug: Query asset bundle start, progress: 0%
+2025-5-26 17:04:47-debug: // ---- build task Query asset bundle ----
+2025-5-26 17:04:47-debug: Init bundle root assets start..., progress: 0%
+2025-5-26 17:04:47-debug:   Number of all scenes: 2
+2025-5-26 17:04:47-debug:   Number of other assets: 688
+2025-5-26 17:04:47-debug: Query preload assets/scripts from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,b2bd1fa7-8d7c-49c5-a158-df29a6d3a594,871c3b6c-7379-419d-bda3-794b239ab90d
+2025-5-26 17:04:47-debug:   Number of all scripts: 87
+2025-5-26 17:04:47-debug: // ---- build task Query asset bundle ---- (11ms)
+2025-5-26 17:04:47-log: run build task Query asset bundle success in 11 ms√, progress: 5%
+2025-5-26 17:04:47-debug: [Build Memory track]: Query asset bundle start:209.58MB, end 208.75MB, increase: -842.68KB
+2025-5-26 17:04:47-debug: // ---- build task Query asset bundle ----
+2025-5-26 17:04:47-debug: Init bundle root assets success..., progress: 0%
+2025-5-26 17:04:47-debug: Query asset bundle start, progress: 5%
+2025-5-26 17:04:47-debug: // ---- build task Query asset bundle ---- (2ms)
+2025-5-26 17:04:47-log: run build task Query asset bundle success in 2 ms√, progress: 10%
+2025-5-26 17:04:47-debug: [Build Memory track]: Query asset bundle start:208.78MB, end 208.93MB, increase: 149.05KB
+2025-5-26 17:04:47-debug: Sort some build options to settings.json start, progress: 10%
+2025-5-26 17:04:47-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 17:04:47-debug: // ---- build task Sort some build options to settings.json ---- (2ms)
+2025-5-26 17:04:47-log: run build task Sort some build options to settings.json success in 2 ms√, progress: 12%
+2025-5-26 17:04:47-debug: Fill script data to settings start, progress: 12%
+2025-5-26 17:04:47-debug: [Build Memory track]: Sort some build options to settings.json start:208.96MB, end 208.98MB, increase: 27.39KB
+2025-5-26 17:04:47-debug: // ---- build task Fill script data to settings ----
+2025-5-26 17:04:47-debug: // ---- build task Fill script data to settings ---- (2ms)
+2025-5-26 17:04:47-debug: Sort some build options to settings.json start, progress: 13%
+2025-5-26 17:04:47-log: run build task Fill script data to settings success in 2 ms√, progress: 13%
+2025-5-26 17:04:47-debug: [Build Memory track]: Fill script data to settings start:209.01MB, end 209.04MB, increase: 25.70KB
+2025-5-26 17:04:47-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 17:04:47-debug: // ---- build task Sort some build options to settings.json ---- (5ms)
+2025-5-26 17:04:47-log: run build task Sort some build options to settings.json success in 5 ms√, progress: 15%
+2025-5-26 17:04:47-debug: [Build Memory track]: Sort some build options to settings.json start:209.07MB, end 209.20MB, increase: 132.43KB
+2025-5-26 17:06:51-debug: refresh db internal success
+2025-5-26 17:06:51-debug: refresh db assets success
+2025-5-26 17:06:51-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 17:06:51-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 17:06:51-debug: asset-db:worker-effect-data-processing (1ms)
+2025-5-26 17:06:51-debug: asset-db:refresh-all-database (110ms)
+2025-5-26 17:06:51-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-5-26 17:14:17-debug: refresh db internal success
+2025-5-26 17:14:17-debug: refresh db assets success
+2025-5-26 17:14:17-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 17:14:17-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 17:14:17-debug: asset-db:refresh-all-database (126ms)
+2025-5-26 17:14:17-debug: asset-db:worker-effect-data-processing (1ms)
+2025-5-26 17:14:17-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-5-26 17:14:29-debug: start move asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\301.png -> D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\301c.png...
+2025-5-26 17:14:29-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\301c.png...
+2025-5-26 17:14:29-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\301c.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:14:29-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\301c.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:14:29-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\301c.png@f9941background: #aaff85; color: #000;color: #000;
+2025-5-26 17:14:29-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon...
+2025-5-26 17:14:29-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon success
+2025-5-26 17:14:29-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weaponbackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:14:29-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game success
+2025-5-26 17:14:29-debug: move asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\301.png -> D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\301c.png success
+2025-5-26 17:14:34-debug: start move asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\302.png -> D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\302c.png...
+2025-5-26 17:14:36-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\302c.png...
+2025-5-26 17:14:36-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\302c.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:14:36-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\302c.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:14:36-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\302c.png@f9941background: #aaff85; color: #000;color: #000;
+2025-5-26 17:14:36-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon...
+2025-5-26 17:14:36-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon success
+2025-5-26 17:14:36-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weaponbackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:14:36-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game success
+2025-5-26 17:14:36-debug: move asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\302.png -> D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\302c.png success
+2025-5-26 17:14:42-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\301.png...
+2025-5-26 17:14:42-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\301.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:14:42-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\302.png...
+2025-5-26 17:14:42-debug: asset-db:reimport-assetD:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\301.png (1ms)
+2025-5-26 17:14:42-debug: asset-db:reimport-assetD:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\302.png (1ms)
+2025-5-26 17:14:42-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\301.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:14:42-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\302.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:14:42-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\302.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:14:42-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon success
+2025-5-26 17:14:42-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon success
+2025-5-26 17:14:42-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weaponbackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:14:42-debug: refresh db internal success
+2025-5-26 17:14:42-debug: refresh db assets success
+2025-5-26 17:14:42-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 17:14:42-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 17:14:42-debug: asset-db:refresh-all-database (152ms)
+2025-5-26 17:14:42-debug: asset-db:worker-effect-data-processing (1ms)
+2025-5-26 17:14:42-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2025-5-26 17:14:48-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\301.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:14:48-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\301.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:14:48-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\301.png@f9941background: #aaff85; color: #000;color: #000;
+2025-5-26 17:14:48-debug: asset-db:reimport-asset406b6020-e923-454d-9b8f-ee073d134c5b (1233ms)
+2025-5-26 17:14:53-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\302.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:14:53-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\302.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 17:14:53-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\302.png@f9941background: #aaff85; color: #000;color: #000;
+2025-5-26 17:14:53-debug: asset-db:reimport-asset773a9863-09bf-4b65-ab38-31e1109f50fa (14ms)
+2025-5-26 17:14:56-debug: refresh db internal success
+2025-5-26 17:14:57-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 17:14:57-debug: refresh db assets success
+2025-5-26 17:14:57-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 17:14:57-debug: asset-db:refresh-all-database (125ms)
+2025-5-26 17:14:57-debug: asset-db:worker-effect-data-processing (1ms)
+2025-5-26 17:14:57-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2025-5-26 17:14:59-debug: Query all assets info in project
+2025-5-26 17:14:59-debug: Skip compress image, progress: 0%
+2025-5-26 17:14:59-debug: init custom config: keepNodeUuid: false, useCache: true
+2025-5-26 17:14:59-debug: Init all bundles start..., progress: 0%
+2025-5-26 17:14:59-debug: Query asset bundle start, progress: 0%
+2025-5-26 17:14:59-debug: // ---- build task Query asset bundle ----
+2025-5-26 17:14:59-debug: Init bundle root assets start..., progress: 0%
+2025-5-26 17:14:59-debug: Num of bundles: 3..., progress: 0%
+2025-5-26 17:14:59-debug: Query preload assets/scripts from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,b2bd1fa7-8d7c-49c5-a158-df29a6d3a594,871c3b6c-7379-419d-bda3-794b239ab90d
+2025-5-26 17:14:59-debug:   Number of all scenes: 2
+2025-5-26 17:14:59-debug:   Number of other assets: 694
+2025-5-26 17:14:59-debug: Init bundle root assets success..., progress: 0%
+2025-5-26 17:14:59-debug:   Number of all scripts: 87
+2025-5-26 17:14:59-debug: // ---- build task Query asset bundle ---- (12ms)
+2025-5-26 17:14:59-log: run build task Query asset bundle success in 12 ms√, progress: 5%
+2025-5-26 17:14:59-debug: [Build Memory track]: Query asset bundle start:200.87MB, end 199.86MB, increase: -1038.16KB
+2025-5-26 17:14:59-debug: Query asset bundle start, progress: 5%
+2025-5-26 17:14:59-debug: // ---- build task Query asset bundle ----
+2025-5-26 17:14:59-debug: // ---- build task Query asset bundle ---- (4ms)
+2025-5-26 17:14:59-log: run build task Query asset bundle success in 4 ms√, progress: 10%
+2025-5-26 17:14:59-debug: [Build Memory track]: Query asset bundle start:199.90MB, end 200.06MB, increase: 161.73KB
+2025-5-26 17:14:59-debug: Sort some build options to settings.json start, progress: 10%
+2025-5-26 17:14:59-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 17:14:59-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+2025-5-26 17:14:59-log: run build task Sort some build options to settings.json success in 1 ms√, progress: 12%
+2025-5-26 17:14:59-debug: Fill script data to settings start, progress: 12%
+2025-5-26 17:14:59-debug: // ---- build task Fill script data to settings ----
+2025-5-26 17:14:59-debug: [Build Memory track]: Sort some build options to settings.json start:200.09MB, end 200.13MB, increase: 35.56KB
+2025-5-26 17:14:59-debug: // ---- build task Fill script data to settings ---- (1ms)
+2025-5-26 17:14:59-log: run build task Fill script data to settings success in 1 ms√, progress: 13%
+2025-5-26 17:14:59-debug: [Build Memory track]: Fill script data to settings start:200.17MB, end 200.20MB, increase: 30.21KB
+2025-5-26 17:14:59-debug: Sort some build options to settings.json start, progress: 13%
+2025-5-26 17:14:59-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 17:14:59-debug: // ---- build task Sort some build options to settings.json ---- (4ms)
+2025-5-26 17:14:59-log: run build task Sort some build options to settings.json success in 4 ms√, progress: 15%
+2025-5-26 17:14:59-debug: [Build Memory track]: Sort some build options to settings.json start:200.24MB, end 200.37MB, increase: 140.08KB
+2025-5-26 18:00:03-debug: refresh db internal success
+2025-5-26 18:00:03-debug: refresh db assets success
+2025-5-26 18:00:03-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 18:00:03-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 18:00:03-debug: asset-db:refresh-all-database (143ms)
+2025-5-26 18:00:03-debug: asset-db-hook-engine-extends-afterRefresh (3ms)
+2025-5-26 18:00:03-debug: asset-db:worker-effect-data-processing (3ms)
+2025-5-26 18:00:09-debug: start move asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\501.png -> D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\501c.png...
+2025-5-26 18:00:09-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\501c.png...
+2025-5-26 18:00:09-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\501c.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:00:09-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\501c.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:00:09-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\501c.png@f9941background: #aaff85; color: #000;color: #000;
+2025-5-26 18:00:09-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon success
+2025-5-26 18:00:09-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon...
+2025-5-26 18:00:09-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weaponbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:00:09-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game success
+2025-5-26 18:00:09-debug: move asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\501.png -> D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\501c.png success
+2025-5-26 18:00:12-debug: start move asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\502.png -> D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\502c.png...
+2025-5-26 18:00:12-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\502c.png...
+2025-5-26 18:00:12-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\502c.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:00:12-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\502c.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:00:12-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\502c.png@f9941background: #aaff85; color: #000;color: #000;
+2025-5-26 18:00:12-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon success
+2025-5-26 18:00:12-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon...
+2025-5-26 18:00:12-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weaponbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:00:12-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game success
+2025-5-26 18:00:12-debug: move asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\502.png -> D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\502c.png success
+2025-5-26 18:00:16-debug: asset-db:reimport-assetD:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\501.png (1ms)
+2025-5-26 18:00:16-debug: asset-db:reimport-assetD:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\502.png (1ms)
+2025-5-26 18:00:16-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\502.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:00:16-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\501.png...
+2025-5-26 18:00:16-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\502.png...
+2025-5-26 18:00:16-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\502.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:00:16-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\501.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:00:16-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\501.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:00:16-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon success
+2025-5-26 18:00:16-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon success
+2025-5-26 18:00:16-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weaponbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:00:16-debug: refresh db internal success
+2025-5-26 18:00:16-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 18:00:16-debug: refresh db assets success
+2025-5-26 18:00:16-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 18:00:16-debug: asset-db:worker-effect-data-processing (1ms)
+2025-5-26 18:00:16-debug: asset-db:refresh-all-database (150ms)
+2025-5-26 18:00:16-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-5-26 18:00:21-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\501.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:00:21-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\501.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:00:21-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\501.png@f9941background: #aaff85; color: #000;color: #000;
+2025-5-26 18:00:21-debug: asset-db:reimport-asset2620eaa5-58e5-451f-be75-d5331e96f7db (919ms)
+2025-5-26 18:00:27-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\502.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:00:27-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\502.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:00:27-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\502.png@f9941background: #aaff85; color: #000;color: #000;
+2025-5-26 18:00:27-debug: asset-db:reimport-asset26fde536-d9c6-4db7-afb7-54009e2f3ee4 (1228ms)
+2025-5-26 18:00:27-debug: refresh db internal success
+2025-5-26 18:00:27-debug: refresh db assets success
+2025-5-26 18:00:27-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 18:00:27-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 18:00:27-debug: asset-db:refresh-all-database (126ms)
+2025-5-26 18:00:27-debug: asset-db:worker-effect-data-processing (1ms)
+2025-5-26 18:00:27-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2025-5-26 18:00:58-debug: refresh db internal success
+2025-5-26 18:00:58-debug: refresh db assets success
+2025-5-26 18:00:58-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 18:00:58-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 18:00:58-debug: Query all assets info in project
+2025-5-26 18:00:58-debug: asset-db:refresh-all-database (161ms)
+2025-5-26 18:00:58-debug: asset-db:worker-effect-data-processing (2ms)
+2025-5-26 18:00:58-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2025-5-26 18:00:58-debug: init custom config: keepNodeUuid: false, useCache: true
+2025-5-26 18:00:58-debug: Skip compress image, progress: 0%
+2025-5-26 18:00:58-debug: Query asset bundle start, progress: 0%
+2025-5-26 18:00:58-debug: Init all bundles start..., progress: 0%
+2025-5-26 18:00:58-debug: Num of bundles: 3..., progress: 0%
+2025-5-26 18:00:58-debug: // ---- build task Query asset bundle ----
+2025-5-26 18:00:58-debug: Init bundle root assets start..., progress: 0%
+2025-5-26 18:00:58-debug:   Number of all scripts: 87
+2025-5-26 18:00:58-debug: Query preload assets/scripts from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,b2bd1fa7-8d7c-49c5-a158-df29a6d3a594,871c3b6c-7379-419d-bda3-794b239ab90d
+2025-5-26 18:00:58-debug:   Number of other assets: 700
+2025-5-26 18:00:58-debug: Init bundle root assets success..., progress: 0%
+2025-5-26 18:00:58-debug:   Number of all scenes: 2
+2025-5-26 18:00:58-debug: // ---- build task Query asset bundle ---- (13ms)
+2025-5-26 18:00:58-log: run build task Query asset bundle success in 13 ms√, progress: 5%
+2025-5-26 18:00:58-debug: Query asset bundle start, progress: 5%
+2025-5-26 18:00:58-debug: [Build Memory track]: Query asset bundle start:202.61MB, end 202.60MB, increase: -4.64KB
+2025-5-26 18:00:58-debug: // ---- build task Query asset bundle ----
+2025-5-26 18:00:58-debug: // ---- build task Query asset bundle ---- (4ms)
+2025-5-26 18:00:58-log: run build task Query asset bundle success in 4 ms√, progress: 10%
+2025-5-26 18:00:58-debug: Sort some build options to settings.json start, progress: 10%
+2025-5-26 18:00:58-debug: [Build Memory track]: Query asset bundle start:202.64MB, end 202.79MB, increase: 153.50KB
+2025-5-26 18:00:58-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 18:00:58-debug: // ---- build task Sort some build options to settings.json ---- (2ms)
+2025-5-26 18:00:58-debug: [Build Memory track]: Sort some build options to settings.json start:202.82MB, end 202.86MB, increase: 33.38KB
+2025-5-26 18:00:58-log: run build task Sort some build options to settings.json success in 2 ms√, progress: 12%
+2025-5-26 18:00:58-debug: Fill script data to settings start, progress: 12%
+2025-5-26 18:00:58-debug: // ---- build task Fill script data to settings ----
+2025-5-26 18:00:58-log: run build task Fill script data to settings success in 3 ms√, progress: 13%
+2025-5-26 18:00:58-debug: [Build Memory track]: Fill script data to settings start:202.89MB, end 202.92MB, increase: 31.46KB
+2025-5-26 18:00:58-debug: Sort some build options to settings.json start, progress: 13%
+2025-5-26 18:00:58-debug: // ---- build task Fill script data to settings ---- (3ms)
+2025-5-26 18:00:58-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 18:00:58-debug: // ---- build task Sort some build options to settings.json ---- (7ms)
+2025-5-26 18:00:58-log: run build task Sort some build options to settings.json success in 7 ms√, progress: 15%
+2025-5-26 18:00:58-debug: [Build Memory track]: Sort some build options to settings.json start:202.96MB, end 202.35MB, increase: -621.05KB
+2025-5-26 18:01:29-debug: refresh db internal success
+2025-5-26 18:01:29-debug: refresh db assets success
+2025-5-26 18:01:29-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 18:01:29-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 18:01:29-debug: asset-db:refresh-all-database (117ms)
+2025-5-26 18:01:29-debug: asset-db-hook-engine-extends-afterRefresh (3ms)
+2025-5-26 18:01:29-debug: asset-db:worker-effect-data-processing (2ms)
+2025-5-26 18:01:29-debug: Query all assets info in project
+2025-5-26 18:01:29-debug: init custom config: keepNodeUuid: false, useCache: true
+2025-5-26 18:01:29-debug: Skip compress image, progress: 0%
+2025-5-26 18:01:29-debug: Init all bundles start..., progress: 0%
+2025-5-26 18:01:29-debug: Num of bundles: 3..., progress: 0%
+2025-5-26 18:01:29-debug: // ---- build task Query asset bundle ----
+2025-5-26 18:01:29-debug: Query asset bundle start, progress: 0%
+2025-5-26 18:01:29-debug: Init bundle root assets start..., progress: 0%
+2025-5-26 18:01:29-debug: Query preload assets/scripts from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,b2bd1fa7-8d7c-49c5-a158-df29a6d3a594,871c3b6c-7379-419d-bda3-794b239ab90d
+2025-5-26 18:01:29-debug:   Number of all scripts: 87
+2025-5-26 18:01:29-debug: Init bundle root assets success..., progress: 0%
+2025-5-26 18:01:29-debug:   Number of other assets: 700
+2025-5-26 18:01:29-debug:   Number of all scenes: 2
+2025-5-26 18:01:29-debug: [Build Memory track]: Query asset bundle start:204.10MB, end 204.91MB, increase: 821.14KB
+2025-5-26 18:01:29-debug: Query asset bundle start, progress: 5%
+2025-5-26 18:01:29-debug: // ---- build task Query asset bundle ---- (10ms)
+2025-5-26 18:01:29-log: run build task Query asset bundle success in 10 ms√, progress: 5%
+2025-5-26 18:01:29-debug: // ---- build task Query asset bundle ----
+2025-5-26 18:01:29-debug: // ---- build task Query asset bundle ---- (5ms)
+2025-5-26 18:01:29-log: run build task Query asset bundle success in 5 ms√, progress: 10%
+2025-5-26 18:01:29-debug: Sort some build options to settings.json start, progress: 10%
+2025-5-26 18:01:29-debug: [Build Memory track]: Query asset bundle start:204.94MB, end 205.09MB, increase: 154.36KB
+2025-5-26 18:01:29-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 18:01:29-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+2025-5-26 18:01:29-log: run build task Sort some build options to settings.json success in 1 ms√, progress: 12%
+2025-5-26 18:01:29-debug: [Build Memory track]: Sort some build options to settings.json start:205.13MB, end 205.16MB, increase: 31.11KB
+2025-5-26 18:01:29-debug: Fill script data to settings start, progress: 12%
+2025-5-26 18:01:29-debug: // ---- build task Fill script data to settings ----
+2025-5-26 18:01:29-debug: // ---- build task Fill script data to settings ---- (1ms)
+2025-5-26 18:01:29-log: run build task Fill script data to settings success in 1 ms√, progress: 13%
+2025-5-26 18:01:29-debug: [Build Memory track]: Fill script data to settings start:205.19MB, end 205.22MB, increase: 32.12KB
+2025-5-26 18:01:29-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 18:01:29-debug: Sort some build options to settings.json start, progress: 13%
+2025-5-26 18:01:29-debug: // ---- build task Sort some build options to settings.json ---- (4ms)
+2025-5-26 18:01:29-log: run build task Sort some build options to settings.json success in 4 ms√, progress: 15%
+2025-5-26 18:01:29-debug: [Build Memory track]: Sort some build options to settings.json start:205.26MB, end 203.99MB, increase: -1300.08KB
+2025-5-26 18:04:25-debug: refresh db internal success
+2025-5-26 18:04:25-debug: refresh db assets success
+2025-5-26 18:04:25-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 18:04:25-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 18:04:25-debug: asset-db:refresh-all-database (108ms)
+2025-5-26 18:04:25-debug: asset-db-hook-engine-extends-afterRefresh (3ms)
+2025-5-26 18:04:25-debug: asset-db:worker-effect-data-processing (2ms)
+2025-5-26 18:04:29-debug: start move asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\102.png -> D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\102c.png...
+2025-5-26 18:04:29-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\102c.png...
+2025-5-26 18:04:29-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\102c.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:04:29-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\102c.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:04:29-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\102c.png@f9941background: #aaff85; color: #000;color: #000;
+2025-5-26 18:04:29-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon success
+2025-5-26 18:04:29-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon...
+2025-5-26 18:04:29-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weaponbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:04:29-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game success
+2025-5-26 18:04:29-debug: move asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\102.png -> D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\102c.png success
+2025-5-26 18:04:36-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\102.png...
+2025-5-26 18:04:36-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\102.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:04:36-debug: asset-db:reimport-assetD:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\102.png (1ms)
+2025-5-26 18:04:36-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\102.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:04:36-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon success
+2025-5-26 18:04:36-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weaponbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:04:36-debug: refresh db internal success
+2025-5-26 18:04:36-debug: refresh db assets success
+2025-5-26 18:04:36-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 18:04:36-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 18:04:36-debug: asset-db:refresh-all-database (137ms)
+2025-5-26 18:04:36-debug: asset-db:worker-effect-data-processing (2ms)
+2025-5-26 18:04:36-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2025-5-26 18:04:42-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\102.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:04:42-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\102.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:04:42-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\102.png@f9941background: #aaff85; color: #000;color: #000;
+2025-5-26 18:04:42-debug: asset-db:reimport-asset67d059c6-798f-45bc-8034-c2a42ab9211c (15ms)
+2025-5-26 18:04:52-debug: start move asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\106.png -> D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\101c.png...
+2025-5-26 18:04:52-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\101c.png...
+2025-5-26 18:04:52-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\101c.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:04:52-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\101c.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:04:52-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\101c.png@f9941background: #aaff85; color: #000;color: #000;
+2025-5-26 18:04:52-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon success
+2025-5-26 18:04:52-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon...
+2025-5-26 18:04:52-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weaponbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:04:52-debug: move asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\106.png -> D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\101c.png success
+2025-5-26 18:04:52-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game success
+2025-5-26 18:05:01-debug: Query all assets info in project
+2025-5-26 18:05:01-debug: init custom config: keepNodeUuid: false, useCache: true
+2025-5-26 18:05:01-debug: Skip compress image, progress: 0%
+2025-5-26 18:05:01-debug: Num of bundles: 3..., progress: 0%
+2025-5-26 18:05:01-debug: Init all bundles start..., progress: 0%
+2025-5-26 18:05:01-debug: // ---- build task Query asset bundle ----
+2025-5-26 18:05:01-debug: Query asset bundle start, progress: 0%
+2025-5-26 18:05:01-debug: Init bundle root assets start..., progress: 0%
+2025-5-26 18:05:01-debug:   Number of all scenes: 2
+2025-5-26 18:05:01-debug: Query preload assets/scripts from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,b2bd1fa7-8d7c-49c5-a158-df29a6d3a594,871c3b6c-7379-419d-bda3-794b239ab90d
+2025-5-26 18:05:01-debug:   Number of all scripts: 87
+2025-5-26 18:05:01-debug:   Number of other assets: 703
+2025-5-26 18:05:01-debug: Init bundle root assets success..., progress: 0%
+2025-5-26 18:05:01-debug: // ---- build task Query asset bundle ---- (11ms)
+2025-5-26 18:05:01-debug: [Build Memory track]: Query asset bundle start:207.03MB, end 207.03MB, increase: -0.68KB
+2025-5-26 18:05:01-log: run build task Query asset bundle success in 11 ms√, progress: 5%
+2025-5-26 18:05:01-debug: Query asset bundle start, progress: 5%
+2025-5-26 18:05:01-debug: // ---- build task Query asset bundle ----
+2025-5-26 18:05:01-debug: // ---- build task Query asset bundle ---- (5ms)
+2025-5-26 18:05:01-log: run build task Query asset bundle success in 5 ms√, progress: 10%
+2025-5-26 18:05:01-debug: [Build Memory track]: Query asset bundle start:207.06MB, end 207.22MB, increase: 157.39KB
+2025-5-26 18:05:01-debug: Sort some build options to settings.json start, progress: 10%
+2025-5-26 18:05:01-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 18:05:01-debug: // ---- build task Sort some build options to settings.json ---- (2ms)
+2025-5-26 18:05:01-log: run build task Sort some build options to settings.json success in 2 ms√, progress: 12%
+2025-5-26 18:05:01-debug: [Build Memory track]: Sort some build options to settings.json start:207.26MB, end 207.29MB, increase: 34.72KB
+2025-5-26 18:05:01-debug: Fill script data to settings start, progress: 12%
+2025-5-26 18:05:01-debug: // ---- build task Fill script data to settings ----
+2025-5-26 18:05:01-log: run build task Fill script data to settings success in 3 ms√, progress: 13%
+2025-5-26 18:05:01-debug: [Build Memory track]: Fill script data to settings start:207.32MB, end 207.34MB, increase: 27.75KB
+2025-5-26 18:05:01-debug: Sort some build options to settings.json start, progress: 13%
+2025-5-26 18:05:01-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 18:05:01-debug: // ---- build task Fill script data to settings ---- (3ms)
+2025-5-26 18:05:01-debug: [Build Memory track]: Sort some build options to settings.json start:207.37MB, end 207.50MB, increase: 132.32KB
+2025-5-26 18:05:01-debug: // ---- build task Sort some build options to settings.json ---- (10ms)
+2025-5-26 18:05:01-log: run build task Sort some build options to settings.json success in 10 ms√, progress: 15%
+2025-5-26 18:08:50-debug: refresh db internal success
+2025-5-26 18:08:50-debug: refresh db assets success
+2025-5-26 18:08:50-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 18:08:50-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 18:08:50-debug: asset-db:refresh-all-database (98ms)
+2025-5-26 18:08:50-debug: asset-db:worker-effect-data-processing (1ms)
+2025-5-26 18:08:50-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2025-5-26 18:12:19-debug: refresh db internal success
+2025-5-26 18:12:19-debug: refresh db assets success
+2025-5-26 18:12:19-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 18:12:19-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 18:12:19-debug: asset-db:refresh-all-database (96ms)
+2025-5-26 18:12:19-debug: asset-db:worker-effect-data-processing (1ms)
+2025-5-26 18:12:19-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2025-5-26 18:12:26-debug: start move asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\401.png -> D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\401c.png...
+2025-5-26 18:12:26-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\401c.png...
+2025-5-26 18:12:26-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\401c.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:12:26-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\401c.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:12:26-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\401c.png@f9941background: #aaff85; color: #000;color: #000;
+2025-5-26 18:12:26-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon success
+2025-5-26 18:12:26-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon...
+2025-5-26 18:12:26-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weaponbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:12:26-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game success
+2025-5-26 18:12:26-debug: move asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\401.png -> D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\401c.png success
+2025-5-26 18:12:29-debug: start move asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\402.png -> D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\402c.png...
+2025-5-26 18:12:33-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\402c.png...
+2025-5-26 18:12:33-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\402c.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:12:33-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\402c.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:12:33-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\402c.png@f9941background: #aaff85; color: #000;color: #000;
+2025-5-26 18:12:33-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon success
+2025-5-26 18:12:33-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon...
+2025-5-26 18:12:33-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weaponbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:12:33-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game success
+2025-5-26 18:12:33-debug: move asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\402.png -> D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\402c.png success
+2025-5-26 18:12:34-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\402.png...
+2025-5-26 18:12:34-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\402.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:12:34-debug: start refresh asset from D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\401.png...
+2025-5-26 18:12:34-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\402.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:12:34-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\401.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:12:34-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\401.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:12:34-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon success
+2025-5-26 18:12:34-debug: refresh asset D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon success
+2025-5-26 18:12:34-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weaponbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:12:34-debug: refresh db internal success
+2025-5-26 18:12:34-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 18:12:34-debug: refresh db assets success
+2025-5-26 18:12:34-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 18:12:34-debug: asset-db:refresh-all-database (148ms)
+2025-5-26 18:12:34-debug: asset-db:worker-effect-data-processing (2ms)
+2025-5-26 18:12:34-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2025-5-26 18:12:38-debug: refresh db internal success
+2025-5-26 18:12:38-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 18:12:38-debug: refresh db assets success
+2025-5-26 18:12:38-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 18:12:38-debug: asset-db:refresh-all-database (135ms)
+2025-5-26 18:12:38-debug: asset-db:worker-effect-data-processing (1ms)
+2025-5-26 18:12:38-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-5-26 18:12:52-debug: Query all assets info in project
+2025-5-26 18:12:52-debug: init custom config: keepNodeUuid: false, useCache: true
+2025-5-26 18:12:52-debug: Skip compress image, progress: 0%
+2025-5-26 18:12:52-debug: Init all bundles start..., progress: 0%
+2025-5-26 18:12:52-debug: // ---- build task Query asset bundle ----
+2025-5-26 18:12:52-debug: Num of bundles: 3..., progress: 0%
+2025-5-26 18:12:52-debug: Query asset bundle start, progress: 0%
+2025-5-26 18:12:52-debug: Init bundle root assets start..., progress: 0%
+2025-5-26 18:12:52-debug:   Number of all scenes: 2
+2025-5-26 18:12:52-debug: Init bundle root assets success..., progress: 0%
+2025-5-26 18:12:52-debug:   Number of all scripts: 87
+2025-5-26 18:12:52-debug:   Number of other assets: 707
+2025-5-26 18:12:52-debug: Query preload assets/scripts from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,b2bd1fa7-8d7c-49c5-a158-df29a6d3a594,871c3b6c-7379-419d-bda3-794b239ab90d
+2025-5-26 18:12:52-debug: // ---- build task Query asset bundle ---- (11ms)
+2025-5-26 18:12:52-debug: Query asset bundle start, progress: 5%
+2025-5-26 18:12:52-debug: [Build Memory track]: Query asset bundle start:213.24MB, end 211.58MB, increase: -1697.82KB
+2025-5-26 18:12:52-debug: // ---- build task Query asset bundle ----
+2025-5-26 18:12:52-log: run build task Query asset bundle success in 11 ms√, progress: 5%
+2025-5-26 18:12:52-debug: // ---- build task Query asset bundle ---- (5ms)
+2025-5-26 18:12:52-log: run build task Query asset bundle success in 5 ms√, progress: 10%
+2025-5-26 18:12:52-debug: [Build Memory track]: Query asset bundle start:211.23MB, end 211.38MB, increase: 152.16KB
+2025-5-26 18:12:52-debug: Sort some build options to settings.json start, progress: 10%
+2025-5-26 18:12:52-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 18:12:52-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+2025-5-26 18:12:52-log: run build task Sort some build options to settings.json success in 1 ms√, progress: 12%
+2025-5-26 18:12:52-debug: [Build Memory track]: Sort some build options to settings.json start:211.41MB, end 211.44MB, increase: 27.87KB
+2025-5-26 18:12:52-debug: // ---- build task Fill script data to settings ----
+2025-5-26 18:12:52-debug: Fill script data to settings start, progress: 12%
+2025-5-26 18:12:52-debug: // ---- build task Fill script data to settings ---- (2ms)
+2025-5-26 18:12:52-log: run build task Fill script data to settings success in 2 ms√, progress: 13%
+2025-5-26 18:12:52-debug: [Build Memory track]: Fill script data to settings start:211.47MB, end 211.49MB, increase: 27.43KB
+2025-5-26 18:12:52-debug: Sort some build options to settings.json start, progress: 13%
+2025-5-26 18:12:52-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 18:12:52-debug: // ---- build task Sort some build options to settings.json ---- (7ms)
+2025-5-26 18:12:52-debug: [Build Memory track]: Sort some build options to settings.json start:211.52MB, end 211.65MB, increase: 133.62KB
+2025-5-26 18:12:52-log: run build task Sort some build options to settings.json success in 7 ms√, progress: 15%
+2025-5-26 18:13:02-debug: refresh db internal success
+2025-5-26 18:13:02-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 18:13:02-debug: refresh db assets success
+2025-5-26 18:13:02-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 18:13:02-debug: asset-db:worker-effect-data-processing (10ms)
+2025-5-26 18:13:02-debug: asset-db:refresh-all-database (150ms)
+2025-5-26 18:13:02-debug: asset-db-hook-engine-extends-afterRefresh (10ms)
+2025-5-26 18:13:04-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\401.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:13:04-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\401.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:13:04-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\401.png@f9941background: #aaff85; color: #000;color: #000;
+2025-5-26 18:13:04-debug: asset-db:reimport-assete070ed5e-abff-4e01-9968-783aa8bb77f5 (16ms)
+2025-5-26 18:13:08-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\402.pngbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:13:08-debug: %cReImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\402.png@6c48abackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:13:08-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\402.png@f9941background: #aaff85; color: #000;color: #000;
+2025-5-26 18:13:08-debug: asset-db:reimport-asset9a4c5698-6767-4a60-bd05-c08334ca8f06 (15ms)
+2025-5-26 18:13:10-debug: Query all assets info in project
+2025-5-26 18:13:10-debug: init custom config: keepNodeUuid: false, useCache: true
+2025-5-26 18:13:10-debug: Skip compress image, progress: 0%
+2025-5-26 18:13:10-debug: Init all bundles start..., progress: 0%
+2025-5-26 18:13:10-debug: Query asset bundle start, progress: 0%
+2025-5-26 18:13:10-debug: Num of bundles: 3..., progress: 0%
+2025-5-26 18:13:10-debug: // ---- build task Query asset bundle ----
+2025-5-26 18:13:10-debug: Init bundle root assets start..., progress: 0%
+2025-5-26 18:13:10-debug: Query preload assets/scripts from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,b2bd1fa7-8d7c-49c5-a158-df29a6d3a594,871c3b6c-7379-419d-bda3-794b239ab90d
+2025-5-26 18:13:10-debug:   Number of all scenes: 2
+2025-5-26 18:13:10-debug: Init bundle root assets success..., progress: 0%
+2025-5-26 18:13:10-debug:   Number of all scripts: 87
+2025-5-26 18:13:10-debug: // ---- build task Query asset bundle ---- (10ms)
+2025-5-26 18:13:10-debug:   Number of other assets: 709
+2025-5-26 18:13:10-log: run build task Query asset bundle success in 10 ms√, progress: 5%
+2025-5-26 18:13:10-debug: [Build Memory track]: Query asset bundle start:214.23MB, end 212.86MB, increase: -1403.31KB
+2025-5-26 18:13:10-debug: Query asset bundle start, progress: 5%
+2025-5-26 18:13:10-debug: // ---- build task Query asset bundle ----
+2025-5-26 18:13:10-debug: // ---- build task Query asset bundle ---- (6ms)
+2025-5-26 18:13:10-log: run build task Query asset bundle success in 6 ms√, progress: 10%
+2025-5-26 18:13:10-debug: [Build Memory track]: Query asset bundle start:212.89MB, end 213.05MB, increase: 168.13KB
+2025-5-26 18:13:10-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 18:13:10-debug: Sort some build options to settings.json start, progress: 10%
+2025-5-26 18:13:10-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+2025-5-26 18:13:10-log: run build task Sort some build options to settings.json success in 1 ms√, progress: 12%
+2025-5-26 18:13:10-debug: Fill script data to settings start, progress: 12%
+2025-5-26 18:13:10-debug: [Build Memory track]: Sort some build options to settings.json start:213.08MB, end 213.11MB, increase: 27.86KB
+2025-5-26 18:13:10-debug: // ---- build task Fill script data to settings ----
+2025-5-26 18:13:10-debug: // ---- build task Fill script data to settings ---- (1ms)
+2025-5-26 18:13:10-debug: [Build Memory track]: Fill script data to settings start:213.13MB, end 213.16MB, increase: 25.68KB
+2025-5-26 18:13:10-log: run build task Fill script data to settings success in 1 ms√, progress: 13%
+2025-5-26 18:13:10-debug: Sort some build options to settings.json start, progress: 13%
+2025-5-26 18:13:10-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 18:13:10-debug: // ---- build task Sort some build options to settings.json ---- (7ms)
+2025-5-26 18:13:10-debug: [Build Memory track]: Sort some build options to settings.json start:213.19MB, end 213.32MB, increase: 138.82KB
+2025-5-26 18:13:10-log: run build task Sort some build options to settings.json success in 7 ms√, progress: 15%
+2025-5-26 18:18:49-debug: refresh db internal success
+2025-5-26 18:18:49-debug: refresh db assets success
+2025-5-26 18:18:49-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 18:18:49-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 18:18:49-debug: asset-db:refresh-all-database (105ms)
+2025-5-26 18:18:49-debug: asset-db:worker-effect-data-processing (2ms)
+2025-5-26 18:18:49-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2025-5-26 18:18:51-debug: Query all assets info in project
+2025-5-26 18:18:51-debug: init custom config: keepNodeUuid: false, useCache: true
+2025-5-26 18:18:51-debug: Skip compress image, progress: 0%
+2025-5-26 18:18:51-debug: Num of bundles: 3..., progress: 0%
+2025-5-26 18:18:51-debug: Query asset bundle start, progress: 0%
+2025-5-26 18:18:51-debug: // ---- build task Query asset bundle ----
+2025-5-26 18:18:51-debug: Init all bundles start..., progress: 0%
+2025-5-26 18:18:51-debug: Init bundle root assets start..., progress: 0%
+2025-5-26 18:18:51-debug: Query preload assets/scripts from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,b2bd1fa7-8d7c-49c5-a158-df29a6d3a594,871c3b6c-7379-419d-bda3-794b239ab90d
+2025-5-26 18:18:51-debug:   Number of other assets: 709
+2025-5-26 18:18:51-debug: Init bundle root assets success..., progress: 0%
+2025-5-26 18:18:51-debug:   Number of all scripts: 87
+2025-5-26 18:18:51-debug:   Number of all scenes: 2
+2025-5-26 18:18:51-debug: // ---- build task Query asset bundle ---- (14ms)
+2025-5-26 18:18:51-log: run build task Query asset bundle success in 14 ms√, progress: 5%
+2025-5-26 18:18:51-debug: [Build Memory track]: Query asset bundle start:214.42MB, end 214.52MB, increase: 106.44KB
+2025-5-26 18:18:51-debug: Query asset bundle start, progress: 5%
+2025-5-26 18:18:51-debug: // ---- build task Query asset bundle ----
+2025-5-26 18:18:51-debug: // ---- build task Query asset bundle ---- (6ms)
+2025-5-26 18:18:51-log: run build task Query asset bundle success in 6 ms√, progress: 10%
+2025-5-26 18:18:51-debug: Sort some build options to settings.json start, progress: 10%
+2025-5-26 18:18:51-debug: [Build Memory track]: Query asset bundle start:214.56MB, end 214.71MB, increase: 151.73KB
+2025-5-26 18:18:51-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 18:18:51-log: run build task Sort some build options to settings.json success in 2 ms√, progress: 12%
+2025-5-26 18:18:51-debug: // ---- build task Sort some build options to settings.json ---- (2ms)
+2025-5-26 18:18:51-debug: [Build Memory track]: Sort some build options to settings.json start:214.73MB, end 214.76MB, increase: 25.88KB
+2025-5-26 18:18:51-debug: Fill script data to settings start, progress: 12%
+2025-5-26 18:18:51-debug: // ---- build task Fill script data to settings ----
+2025-5-26 18:18:51-debug: [Build Memory track]: Fill script data to settings start:214.79MB, end 214.80MB, increase: 16.57KB
+2025-5-26 18:18:51-debug: Sort some build options to settings.json start, progress: 13%
+2025-5-26 18:18:51-log: run build task Fill script data to settings success in √, progress: 13%
+2025-5-26 18:18:51-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 18:18:51-debug: [Build Memory track]: Sort some build options to settings.json start:214.84MB, end 214.97MB, increase: 133.48KB
+2025-5-26 18:18:51-log: run build task Sort some build options to settings.json success in 8 ms√, progress: 15%
+2025-5-26 18:18:51-debug: // ---- build task Sort some build options to settings.json ---- (8ms)
+2025-5-26 18:20:28-debug: refresh db internal success
+2025-5-26 18:20:28-debug: refresh db assets success
+2025-5-26 18:20:28-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 18:20:28-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 18:20:28-debug: asset-db:refresh-all-database (88ms)
+2025-5-26 18:20:29-debug: Query all assets info in project
+2025-5-26 18:20:29-debug: init custom config: keepNodeUuid: false, useCache: true
+2025-5-26 18:20:29-debug: Skip compress image, progress: 0%
+2025-5-26 18:20:29-debug: Init all bundles start..., progress: 0%
+2025-5-26 18:20:29-debug: Num of bundles: 3..., progress: 0%
+2025-5-26 18:20:29-debug: // ---- build task Query asset bundle ----
+2025-5-26 18:20:29-debug: Query asset bundle start, progress: 0%
+2025-5-26 18:20:29-debug: Init bundle root assets start..., progress: 0%
+2025-5-26 18:20:30-debug:   Number of all scenes: 2
+2025-5-26 18:20:30-debug:   Number of all scripts: 87
+2025-5-26 18:20:29-debug: Query preload assets/scripts from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,b2bd1fa7-8d7c-49c5-a158-df29a6d3a594,871c3b6c-7379-419d-bda3-794b239ab90d
+2025-5-26 18:20:30-debug: Init bundle root assets success..., progress: 0%
+2025-5-26 18:20:30-debug:   Number of other assets: 709
+2025-5-26 18:20:30-debug: // ---- build task Query asset bundle ---- (22ms)
+2025-5-26 18:20:30-debug: [Build Memory track]: Query asset bundle start:216.65MB, end 216.12MB, increase: -544.19KB
+2025-5-26 18:20:30-log: run build task Query asset bundle success in 22 ms√, progress: 5%
+2025-5-26 18:20:30-debug: Query asset bundle start, progress: 5%
+2025-5-26 18:20:30-debug: // ---- build task Query asset bundle ----
+2025-5-26 18:20:30-debug: // ---- build task Query asset bundle ---- (4ms)
+2025-5-26 18:20:30-log: run build task Query asset bundle success in 4 ms√, progress: 10%
+2025-5-26 18:20:30-debug: [Build Memory track]: Query asset bundle start:216.15MB, end 216.29MB, increase: 149.76KB
+2025-5-26 18:20:30-debug: Sort some build options to settings.json start, progress: 10%
+2025-5-26 18:20:30-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 18:20:30-log: run build task Sort some build options to settings.json success in 1 ms√, progress: 12%
+2025-5-26 18:20:30-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+2025-5-26 18:20:30-debug: [Build Memory track]: Sort some build options to settings.json start:216.32MB, end 216.35MB, increase: 27.23KB
+2025-5-26 18:20:30-debug: Fill script data to settings start, progress: 12%
+2025-5-26 18:20:30-debug: // ---- build task Fill script data to settings ----
+2025-5-26 18:20:30-log: run build task Fill script data to settings success in 2 ms√, progress: 13%
+2025-5-26 18:20:30-debug: [Build Memory track]: Fill script data to settings start:216.38MB, end 216.40MB, increase: 27.61KB
+2025-5-26 18:20:30-debug: Sort some build options to settings.json start, progress: 13%
+2025-5-26 18:20:30-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 18:20:30-debug: // ---- build task Fill script data to settings ---- (2ms)
+2025-5-26 18:20:30-debug: // ---- build task Sort some build options to settings.json ---- (12ms)
+2025-5-26 18:20:30-log: run build task Sort some build options to settings.json success in 12 ms√, progress: 15%
+2025-5-26 18:20:30-debug: [Build Memory track]: Sort some build options to settings.json start:216.43MB, end 216.56MB, increase: 129.64KB
+2025-5-26 18:21:10-debug: refresh db internal success
+2025-5-26 18:21:10-debug: refresh db assets success
+2025-5-26 18:21:10-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 18:21:10-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 18:21:10-debug: asset-db:refresh-all-database (111ms)
+2025-5-26 18:21:10-debug: asset-db:worker-effect-data-processing (1ms)
+2025-5-26 18:21:10-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2025-5-26 18:47:15-debug: refresh db internal success
+2025-5-26 18:47:15-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\resources\ConfigData\Weapon.jsonbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:47:15-debug: %cImport%c: D:\CODE\cocos_workspace\背包英雄\assets\Scripts\Game\Data\GridData.tsbackground: #aaff85; color: #000;color: #000;
+2025-5-26 18:47:15-debug: refresh db assets success
+2025-5-26 18:47:15-debug: Run asset db hook engine-extends:afterRefresh ...
+2025-5-26 18:47:15-debug: Run asset db hook engine-extends:afterRefresh success!
+2025-5-26 18:47:15-debug: asset-db:worker-effect-data-processing (2ms)
+2025-5-26 18:47:15-debug: asset-db:refresh-all-database (149ms)
+2025-5-26 18:47:15-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2025-5-26 18:47:17-debug: Query all assets info in project
+2025-5-26 18:47:17-debug: init custom config: keepNodeUuid: false, useCache: true
+2025-5-26 18:47:17-debug: Skip compress image, progress: 0%
+2025-5-26 18:47:17-debug: Init all bundles start..., progress: 0%
+2025-5-26 18:47:17-debug: Query asset bundle start, progress: 0%
+2025-5-26 18:47:17-debug: Num of bundles: 3..., progress: 0%
+2025-5-26 18:47:17-debug: // ---- build task Query asset bundle ----
+2025-5-26 18:47:17-debug: Init bundle root assets start..., progress: 0%
+2025-5-26 18:47:17-debug: Query preload assets/scripts from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,b2bd1fa7-8d7c-49c5-a158-df29a6d3a594,871c3b6c-7379-419d-bda3-794b239ab90d
+2025-5-26 18:47:17-debug:   Number of all scenes: 2
+2025-5-26 18:47:17-debug:   Number of other assets: 709
+2025-5-26 18:47:17-debug: // ---- build task Query asset bundle ---- (12ms)
+2025-5-26 18:47:17-log: run build task Query asset bundle success in 12 ms√, progress: 5%
+2025-5-26 18:47:17-debug: [Build Memory track]: Query asset bundle start:199.91MB, end 199.34MB, increase: -591.65KB
+2025-5-26 18:47:17-debug:   Number of all scripts: 87
+2025-5-26 18:47:17-debug: Init bundle root assets success..., progress: 0%
+2025-5-26 18:47:17-debug: // ---- build task Query asset bundle ----
+2025-5-26 18:47:17-debug: Query asset bundle start, progress: 5%
+2025-5-26 18:47:17-debug: // ---- build task Query asset bundle ---- (4ms)
+2025-5-26 18:47:17-log: run build task Query asset bundle success in 4 ms√, progress: 10%
+2025-5-26 18:47:17-debug: Sort some build options to settings.json start, progress: 10%
+2025-5-26 18:47:17-debug: [Build Memory track]: Query asset bundle start:199.36MB, end 199.52MB, increase: 155.11KB
+2025-5-26 18:47:17-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 18:47:17-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+2025-5-26 18:47:17-log: run build task Sort some build options to settings.json success in 1 ms√, progress: 12%
+2025-5-26 18:47:17-debug: [Build Memory track]: Sort some build options to settings.json start:199.54MB, end 199.57MB, increase: 27.87KB
+2025-5-26 18:47:17-debug: // ---- build task Fill script data to settings ----
+2025-5-26 18:47:17-debug: Fill script data to settings start, progress: 12%
+2025-5-26 18:47:17-debug: // ---- build task Fill script data to settings ---- (1ms)
+2025-5-26 18:47:17-log: run build task Fill script data to settings success in 1 ms√, progress: 13%
+2025-5-26 18:47:17-debug: [Build Memory track]: Fill script data to settings start:199.60MB, end 199.63MB, increase: 27.29KB
+2025-5-26 18:47:17-debug: Sort some build options to settings.json start, progress: 13%
+2025-5-26 18:47:17-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 18:47:17-debug: // ---- build task Sort some build options to settings.json ---- (3ms)
+2025-5-26 18:47:17-log: run build task Sort some build options to settings.json success in 3 ms√, progress: 15%
+2025-5-26 18:47:17-debug: [Build Memory track]: Sort some build options to settings.json start:199.65MB, end 199.79MB, increase: 143.93KB
+2025-5-26 18:47:17-debug: Query all assets info in project
+2025-5-26 18:47:17-debug: init custom config: keepNodeUuid: false, useCache: true
+2025-5-26 18:47:17-debug: Skip compress image, progress: 0%
+2025-5-26 18:47:17-debug: Num of bundles: 3..., progress: 0%
+2025-5-26 18:47:17-debug: Init all bundles start..., progress: 0%
+2025-5-26 18:47:17-debug: // ---- build task Query asset bundle ----
+2025-5-26 18:47:17-debug: Query asset bundle start, progress: 0%
+2025-5-26 18:47:17-debug: Init bundle root assets start..., progress: 0%
+2025-5-26 18:47:17-debug:   Number of all scenes: 2
+2025-5-26 18:47:17-debug: Query preload assets/scripts from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,b2bd1fa7-8d7c-49c5-a158-df29a6d3a594,871c3b6c-7379-419d-bda3-794b239ab90d
+2025-5-26 18:47:17-debug:   Number of all scripts: 87
+2025-5-26 18:47:17-log: run build task Query asset bundle success in 9 ms√, progress: 5%
+2025-5-26 18:47:17-debug:   Number of other assets: 709
+2025-5-26 18:47:17-debug: Init bundle root assets success..., progress: 0%
+2025-5-26 18:47:17-debug: [Build Memory track]: Query asset bundle start:200.38MB, end 199.57MB, increase: -832.83KB
+2025-5-26 18:47:17-debug: // ---- build task Query asset bundle ---- (9ms)
+2025-5-26 18:47:17-debug: Query asset bundle start, progress: 5%
+2025-5-26 18:47:17-debug: // ---- build task Query asset bundle ----
+2025-5-26 18:47:17-debug: // ---- build task Query asset bundle ---- (6ms)
+2025-5-26 18:47:17-log: run build task Query asset bundle success in 6 ms√, progress: 10%
+2025-5-26 18:47:17-debug: [Build Memory track]: Query asset bundle start:199.60MB, end 199.75MB, increase: 154.89KB
+2025-5-26 18:47:17-debug: Sort some build options to settings.json start, progress: 10%
+2025-5-26 18:47:17-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 18:47:17-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+2025-5-26 18:47:17-log: run build task Sort some build options to settings.json success in 1 ms√, progress: 12%
+2025-5-26 18:47:17-debug: Fill script data to settings start, progress: 12%
+2025-5-26 18:47:17-debug: // ---- build task Fill script data to settings ----
+2025-5-26 18:47:17-debug: [Build Memory track]: Sort some build options to settings.json start:199.78MB, end 199.81MB, increase: 27.82KB
+2025-5-26 18:47:17-debug: // ---- build task Fill script data to settings ---- (1ms)
+2025-5-26 18:47:17-log: run build task Fill script data to settings success in 1 ms√, progress: 13%
+2025-5-26 18:47:17-debug: [Build Memory track]: Fill script data to settings start:199.83MB, end 199.86MB, increase: 27.33KB
+2025-5-26 18:47:17-debug: Sort some build options to settings.json start, progress: 13%
+2025-5-26 18:47:17-debug: // ---- build task Sort some build options to settings.json ----
+2025-5-26 18:47:17-log: run build task Sort some build options to settings.json success in 7 ms√, progress: 15%
+2025-5-26 18:47:17-debug: [Build Memory track]: Sort some build options to settings.json start:199.89MB, end 200.02MB, increase: 139.43KB
+2025-5-26 18:47:17-debug: // ---- build task Sort some build options to settings.json ---- (7ms)

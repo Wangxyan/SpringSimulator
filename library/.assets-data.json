@@ -1785,7 +1785,7 @@
     "versionCode": 1
   },
   "160ba03e-0d60-49d5-b9fa-e061ea0d7843": {
-    "url": "db://assets/resources/Game/Weapon/101.png",
+    "url": "db://assets/resources/Game/Weapon/101c.png",
     "value": {
       "depends": []
     },
@@ -1810,7 +1810,7 @@
     "versionCode": 1
   },
   "0ab44aa2-2432-4a18-8e7e-7a8a7d8b2779": {
-    "url": "db://assets/resources/Game/Weapon/102.png",
+    "url": "db://assets/resources/Game/Weapon/102c.png",
     "value": {
       "depends": []
     },
@@ -1867,7 +1867,7 @@
     "versionCode": 1
   },
   "160ba03e-0d60-49d5-b9fa-e061ea0d7843@6c48a": {
-    "url": "db://assets/resources/Game/Weapon/101.png@6c48a",
+    "url": "db://assets/resources/Game/Weapon/101c.png@6c48a",
     "value": {
       "depends": [
         "160ba03e-0d60-49d5-b9fa-e061ea0d7843"
@@ -1876,7 +1876,7 @@
     "versionCode": 1
   },
   "0ab44aa2-2432-4a18-8e7e-7a8a7d8b2779@6c48a": {
-    "url": "db://assets/resources/Game/Weapon/102.png@6c48a",
+    "url": "db://assets/resources/Game/Weapon/102c.png@6c48a",
     "value": {
       "depends": [
         "0ab44aa2-2432-4a18-8e7e-7a8a7d8b2779"
@@ -1885,7 +1885,7 @@
     "versionCode": 1
   },
   "160ba03e-0d60-49d5-b9fa-e061ea0d7843@f9941": {
-    "url": "db://assets/resources/Game/Weapon/101.png@f9941",
+    "url": "db://assets/resources/Game/Weapon/101c.png@f9941",
     "value": {
       "depends": [
         "160ba03e-0d60-49d5-b9fa-e061ea0d7843@6c48a"
@@ -1919,7 +1919,7 @@
     "versionCode": 1
   },
   "0ab44aa2-2432-4a18-8e7e-7a8a7d8b2779@f9941": {
-    "url": "db://assets/resources/Game/Weapon/102.png@f9941",
+    "url": "db://assets/resources/Game/Weapon/102c.png@f9941",
     "value": {
       "depends": [
         "0ab44aa2-2432-4a18-8e7e-7a8a7d8b2779@6c48a"
@@ -1969,14 +1969,14 @@
     "versionCode": 1
   },
   "068bbd28-8cb0-4d6a-bda0-622becab38a8": {
-    "url": "db://assets/resources/Game/Weapon/301.png",
+    "url": "db://assets/resources/Game/Weapon/301c.png",
     "value": {
       "depends": []
     },
     "versionCode": 1
   },
   "8a7ac936-6465-43a2-9082-3fc0f8bcf408": {
-    "url": "db://assets/resources/Game/Weapon/302.png",
+    "url": "db://assets/resources/Game/Weapon/302c.png",
     "value": {
       "depends": []
     },
@@ -2010,7 +2010,7 @@
     "versionCode": 1
   },
   "8a7ac936-6465-43a2-9082-3fc0f8bcf408@6c48a": {
-    "url": "db://assets/resources/Game/Weapon/302.png@6c48a",
+    "url": "db://assets/resources/Game/Weapon/302c.png@6c48a",
     "value": {
       "depends": [
         "8a7ac936-6465-43a2-9082-3fc0f8bcf408"
@@ -2019,7 +2019,7 @@
     "versionCode": 1
   },
   "068bbd28-8cb0-4d6a-bda0-622becab38a8@6c48a": {
-    "url": "db://assets/resources/Game/Weapon/301.png@6c48a",
+    "url": "db://assets/resources/Game/Weapon/301c.png@6c48a",
     "value": {
       "depends": [
         "068bbd28-8cb0-4d6a-bda0-622becab38a8"
@@ -2053,7 +2053,7 @@
     "versionCode": 1
   },
   "c8821289-a04e-4b1b-90d4-3feaac5717fc": {
-    "url": "db://assets/resources/Game/Weapon/401.png",
+    "url": "db://assets/resources/Game/Weapon/401c.png",
     "value": {
       "depends": []
     },
@@ -2069,14 +2069,14 @@
     "versionCode": 1
   },
   "3eece4f9-5838-4b7a-bff6-aa455c3cbc2f": {
-    "url": "db://assets/resources/Game/Weapon/402.png",
+    "url": "db://assets/resources/Game/Weapon/402c.png",
     "value": {
       "depends": []
     },
     "versionCode": 1
   },
   "8a7ac936-6465-43a2-9082-3fc0f8bcf408@f9941": {
-    "url": "db://assets/resources/Game/Weapon/302.png@f9941",
+    "url": "db://assets/resources/Game/Weapon/302c.png@f9941",
     "value": {
       "depends": [
         "8a7ac936-6465-43a2-9082-3fc0f8bcf408@6c48a"
@@ -2092,7 +2092,7 @@
     "versionCode": 1
   },
   "068bbd28-8cb0-4d6a-bda0-622becab38a8@f9941": {
-    "url": "db://assets/resources/Game/Weapon/301.png@f9941",
+    "url": "db://assets/resources/Game/Weapon/301c.png@f9941",
     "value": {
       "depends": [
         "068bbd28-8cb0-4d6a-bda0-622becab38a8@6c48a"
@@ -2108,7 +2108,7 @@
     "versionCode": 1
   },
   "c8821289-a04e-4b1b-90d4-3feaac5717fc@6c48a": {
-    "url": "db://assets/resources/Game/Weapon/401.png@6c48a",
+    "url": "db://assets/resources/Game/Weapon/401c.png@6c48a",
     "value": {
       "depends": [
         "c8821289-a04e-4b1b-90d4-3feaac5717fc"
@@ -2117,7 +2117,7 @@
     "versionCode": 1
   },
   "3eece4f9-5838-4b7a-bff6-aa455c3cbc2f@6c48a": {
-    "url": "db://assets/resources/Game/Weapon/402.png@6c48a",
+    "url": "db://assets/resources/Game/Weapon/402c.png@6c48a",
     "value": {
       "depends": [
         "3eece4f9-5838-4b7a-bff6-aa455c3cbc2f"
@@ -2153,7 +2153,7 @@
     "versionCode": 1
   },
   "c8821289-a04e-4b1b-90d4-3feaac5717fc@f9941": {
-    "url": "db://assets/resources/Game/Weapon/401.png@f9941",
+    "url": "db://assets/resources/Game/Weapon/401c.png@f9941",
     "value": {
       "depends": [
         "c8821289-a04e-4b1b-90d4-3feaac5717fc@6c48a"
@@ -2162,14 +2162,14 @@
     "versionCode": 1
   },
   "cd7c6250-f322-4a37-a70c-c1ae00158925": {
-    "url": "db://assets/resources/Game/Weapon/501.png",
+    "url": "db://assets/resources/Game/Weapon/501c.png",
     "value": {
       "depends": []
     },
     "versionCode": 1
   },
   "3eece4f9-5838-4b7a-bff6-aa455c3cbc2f@f9941": {
-    "url": "db://assets/resources/Game/Weapon/402.png@f9941",
+    "url": "db://assets/resources/Game/Weapon/402c.png@f9941",
     "value": {
       "depends": [
         "3eece4f9-5838-4b7a-bff6-aa455c3cbc2f@6c48a"
@@ -2178,7 +2178,7 @@
     "versionCode": 1
   },
   "dc581086-e58a-4aad-bf44-0cb069ee5e2a": {
-    "url": "db://assets/resources/Game/Weapon/502.png",
+    "url": "db://assets/resources/Game/Weapon/502c.png",
     "value": {
       "depends": []
     },
@@ -2242,7 +2242,7 @@
     "versionCode": 1
   },
   "dc581086-e58a-4aad-bf44-0cb069ee5e2a@6c48a": {
-    "url": "db://assets/resources/Game/Weapon/502.png@6c48a",
+    "url": "db://assets/resources/Game/Weapon/502c.png@6c48a",
     "value": {
       "depends": [
         "dc581086-e58a-4aad-bf44-0cb069ee5e2a"
@@ -2251,7 +2251,7 @@
     "versionCode": 1
   },
   "cd7c6250-f322-4a37-a70c-c1ae00158925@6c48a": {
-    "url": "db://assets/resources/Game/Weapon/501.png@6c48a",
+    "url": "db://assets/resources/Game/Weapon/501c.png@6c48a",
     "value": {
       "depends": [
         "cd7c6250-f322-4a37-a70c-c1ae00158925"
@@ -2294,7 +2294,7 @@
     "versionCode": 1
   },
   "dc581086-e58a-4aad-bf44-0cb069ee5e2a@f9941": {
-    "url": "db://assets/resources/Game/Weapon/502.png@f9941",
+    "url": "db://assets/resources/Game/Weapon/502c.png@f9941",
     "value": {
       "depends": [
         "dc581086-e58a-4aad-bf44-0cb069ee5e2a@6c48a"
@@ -2310,7 +2310,7 @@
     "versionCode": 1
   },
   "cd7c6250-f322-4a37-a70c-c1ae00158925@f9941": {
-    "url": "db://assets/resources/Game/Weapon/501.png@f9941",
+    "url": "db://assets/resources/Game/Weapon/501c.png@f9941",
     "value": {
       "depends": [
         "cd7c6250-f322-4a37-a70c-c1ae00158925@6c48a"
@@ -4026,6 +4026,206 @@
       "dependScripts": [
         "9d1be4d9-b195-4b2e-874b-14c86405af32",
         "53b5d988-d75d-4edc-a1e7-3cd30c66b8f9"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8ae77041-b8f2-4cc7-8b0f-b746e61e9d84": {
+    "url": "db://assets/resources/Game/Weapon/101.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "8ae77041-b8f2-4cc7-8b0f-b746e61e9d84@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/101.png@6c48a",
+    "value": {
+      "depends": [
+        "8ae77041-b8f2-4cc7-8b0f-b746e61e9d84"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8ae77041-b8f2-4cc7-8b0f-b746e61e9d84@f9941": {
+    "url": "db://assets/resources/Game/Weapon/101.png@f9941",
+    "value": {
+      "depends": [
+        "8ae77041-b8f2-4cc7-8b0f-b746e61e9d84@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "406b6020-e923-454d-9b8f-ee073d134c5b": {
+    "url": "db://assets/resources/Game/Weapon/301.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "406b6020-e923-454d-9b8f-ee073d134c5b@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/301.png@6c48a",
+    "value": {
+      "depends": [
+        "406b6020-e923-454d-9b8f-ee073d134c5b"
+      ]
+    },
+    "versionCode": 1
+  },
+  "773a9863-09bf-4b65-ab38-31e1109f50fa": {
+    "url": "db://assets/resources/Game/Weapon/302.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "773a9863-09bf-4b65-ab38-31e1109f50fa@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/302.png@6c48a",
+    "value": {
+      "depends": [
+        "773a9863-09bf-4b65-ab38-31e1109f50fa"
+      ]
+    },
+    "versionCode": 1
+  },
+  "406b6020-e923-454d-9b8f-ee073d134c5b@f9941": {
+    "url": "db://assets/resources/Game/Weapon/301.png@f9941",
+    "value": {
+      "depends": [
+        "406b6020-e923-454d-9b8f-ee073d134c5b@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "773a9863-09bf-4b65-ab38-31e1109f50fa@f9941": {
+    "url": "db://assets/resources/Game/Weapon/302.png@f9941",
+    "value": {
+      "depends": [
+        "773a9863-09bf-4b65-ab38-31e1109f50fa@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "26fde536-d9c6-4db7-afb7-54009e2f3ee4": {
+    "url": "db://assets/resources/Game/Weapon/502.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "26fde536-d9c6-4db7-afb7-54009e2f3ee4@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/502.png@6c48a",
+    "value": {
+      "depends": [
+        "26fde536-d9c6-4db7-afb7-54009e2f3ee4"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2620eaa5-58e5-451f-be75-d5331e96f7db": {
+    "url": "db://assets/resources/Game/Weapon/501.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "2620eaa5-58e5-451f-be75-d5331e96f7db@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/501.png@6c48a",
+    "value": {
+      "depends": [
+        "2620eaa5-58e5-451f-be75-d5331e96f7db"
+      ]
+    },
+    "versionCode": 1
+  },
+  "2620eaa5-58e5-451f-be75-d5331e96f7db@f9941": {
+    "url": "db://assets/resources/Game/Weapon/501.png@f9941",
+    "value": {
+      "depends": [
+        "2620eaa5-58e5-451f-be75-d5331e96f7db@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "26fde536-d9c6-4db7-afb7-54009e2f3ee4@f9941": {
+    "url": "db://assets/resources/Game/Weapon/502.png@f9941",
+    "value": {
+      "depends": [
+        "26fde536-d9c6-4db7-afb7-54009e2f3ee4@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "67d059c6-798f-45bc-8034-c2a42ab9211c": {
+    "url": "db://assets/resources/Game/Weapon/102.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "67d059c6-798f-45bc-8034-c2a42ab9211c@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/102.png@6c48a",
+    "value": {
+      "depends": [
+        "67d059c6-798f-45bc-8034-c2a42ab9211c"
+      ]
+    },
+    "versionCode": 1
+  },
+  "67d059c6-798f-45bc-8034-c2a42ab9211c@f9941": {
+    "url": "db://assets/resources/Game/Weapon/102.png@f9941",
+    "value": {
+      "depends": [
+        "67d059c6-798f-45bc-8034-c2a42ab9211c@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9a4c5698-6767-4a60-bd05-c08334ca8f06": {
+    "url": "db://assets/resources/Game/Weapon/402.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "9a4c5698-6767-4a60-bd05-c08334ca8f06@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/402.png@6c48a",
+    "value": {
+      "depends": [
+        "9a4c5698-6767-4a60-bd05-c08334ca8f06"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e070ed5e-abff-4e01-9968-783aa8bb77f5": {
+    "url": "db://assets/resources/Game/Weapon/401.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "e070ed5e-abff-4e01-9968-783aa8bb77f5@6c48a": {
+    "url": "db://assets/resources/Game/Weapon/401.png@6c48a",
+    "value": {
+      "depends": [
+        "e070ed5e-abff-4e01-9968-783aa8bb77f5"
+      ]
+    },
+    "versionCode": 1
+  },
+  "e070ed5e-abff-4e01-9968-783aa8bb77f5@f9941": {
+    "url": "db://assets/resources/Game/Weapon/401.png@f9941",
+    "value": {
+      "depends": [
+        "e070ed5e-abff-4e01-9968-783aa8bb77f5@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "9a4c5698-6767-4a60-bd05-c08334ca8f06@f9941": {
+    "url": "db://assets/resources/Game/Weapon/402.png@f9941",
+    "value": {
+      "depends": [
+        "9a4c5698-6767-4a60-bd05-c08334ca8f06@6c48a"
       ]
     },
     "versionCode": 1

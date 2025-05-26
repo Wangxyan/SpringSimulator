@@ -303,10 +303,54 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
         getGridItemDataKeys() {
           return Array.from(this._gridItemData.keys());
         }
-        /*获取武器的属性加成*/
+        /*获取武器的魅力加成*/
 
 
-        getGridItemValves() {}
+        getWeaponCharmByKey(key) {
+          let weaponObj = this._gridItemData.get(key);
+
+          let weaponCfg = (_crd && WeaponData === void 0 ? (_reportPossibleCrUseOfWeaponData({
+            error: Error()
+          }), WeaponData) : WeaponData).instance.getWeaponCfgById(weaponObj.wid);
+          let values = weaponCfg.charm;
+          return values;
+        }
+        /*获取武器的知识加成*/
+
+
+        getWeaponKnowledgeByKey(key) {
+          let weaponObj = this._gridItemData.get(key);
+
+          let weaponCfg = (_crd && WeaponData === void 0 ? (_reportPossibleCrUseOfWeaponData({
+            error: Error()
+          }), WeaponData) : WeaponData).instance.getWeaponCfgById(weaponObj.wid);
+          let values = weaponCfg.knowledge;
+          return values;
+        }
+        /*获取武器的才艺加成*/
+
+
+        getWeaponTalentByKey(key) {
+          let weaponObj = this._gridItemData.get(key);
+
+          let weaponCfg = (_crd && WeaponData === void 0 ? (_reportPossibleCrUseOfWeaponData({
+            error: Error()
+          }), WeaponData) : WeaponData).instance.getWeaponCfgById(weaponObj.wid);
+          let values = weaponCfg.talent;
+          return values;
+        }
+        /*获取武器的财富加成*/
+
+
+        getWeaponWealthByKey(key) {
+          let weaponObj = this._gridItemData.get(key);
+
+          let weaponCfg = (_crd && WeaponData === void 0 ? (_reportPossibleCrUseOfWeaponData({
+            error: Error()
+          }), WeaponData) : WeaponData).instance.getWeaponCfgById(weaponObj.wid);
+          let values = weaponCfg.wealth;
+          return values;
+        }
         /*获取携带的武器Map数据  */
 
 

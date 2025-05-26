@@ -15,3 +15,51 @@
     at findVsCode (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3546)
     at Object.openCode [as open] (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3282)
     at Ipc.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\ipc.ccc:1:530)
+2025-5-26 16:54:13 - warn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the scriptWarn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the script
+    at console.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@sentry\src\instrument\console.ts:40:20)
+    at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1510)
+    at findVsCode (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3546)
+    at Object.openCode [as open] (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3282)
+    at Ipc.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\ipc.ccc:1:530)
+2025-5-26 17:14:47 - warn: [Assets] Failed to delete temporary cache: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\301.pngWarn: [Assets] Failed to delete temporary cache: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\301.png
+    at console.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@sentry\src\instrument\console.ts:40:20)
+    at CustomConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1510)
+    at Asset.reset (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\asset.ccc:1:3259)
+    at ImportTask.importAsset (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\task.ccc:1:2273)
+    at ImportTask.exec (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\task.ccc:1:731)
+    at ParallelQueue._generate (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\asset-db.ccc:1:2677)
+2025-5-26 17:14:47 - warn: [Assets] EBUSY: resource busy or locked, unlink 'D:\CODE\cocos_workspace\背包英雄\library\40\406b6020-e923-454d-9b8f-ee073d134c5b.json'Error: EBUSY: resource busy or locked, unlink 'D:\CODE\cocos_workspace\背包英雄\library\40\406b6020-e923-454d-9b8f-ee073d134c5b.json'
+2025-5-26 17:14:48 - warn: [Assets] Failed to delete temporary cache: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\301.png@6c48aWarn: [Assets] Failed to delete temporary cache: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\301.png@6c48a
+    at console.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@sentry\src\instrument\console.ts:40:20)
+    at CustomConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1510)
+    at VirtualAsset.reset (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\asset.ccc:1:3259)
+    at Asset.reset (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\asset.ccc:1:3504)
+    at ImportTask.importAsset (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\task.ccc:1:2273)
+    at ImportTask.exec (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\task.ccc:1:731)
+    at ParallelQueue._generate (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\asset-db.ccc:1:2677)
+2025-5-26 17:14:48 - warn: [Assets] EBUSY: resource busy or locked, unlink 'D:\CODE\cocos_workspace\背包英雄\library\40\406b6020-e923-454d-9b8f-ee073d134c5b@6c48a.json'Error: EBUSY: resource busy or locked, unlink 'D:\CODE\cocos_workspace\背包英雄\library\40\406b6020-e923-454d-9b8f-ee073d134c5b@6c48a.json'
+2025-5-26 18:00:21 - warn: [Assets] Failed to delete temporary cache: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\501.pngWarn: [Assets] Failed to delete temporary cache: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\501.png
+    at console.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@sentry\src\instrument\console.ts:40:20)
+    at CustomConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1510)
+    at Asset.reset (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\asset.ccc:1:3259)
+    at ImportTask.importAsset (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\task.ccc:1:2273)
+    at ImportTask.exec (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\task.ccc:1:731)
+    at ParallelQueue._generate (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\asset-db.ccc:1:2677)
+2025-5-26 18:00:21 - warn: [Assets] EBUSY: resource busy or locked, unlink 'D:\CODE\cocos_workspace\背包英雄\library\26\2620eaa5-58e5-451f-be75-d5331e96f7db.json'Error: EBUSY: resource busy or locked, unlink 'D:\CODE\cocos_workspace\背包英雄\library\26\2620eaa5-58e5-451f-be75-d5331e96f7db.json'
+2025-5-26 18:00:26 - warn: [Assets] Failed to delete temporary cache: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\502.pngWarn: [Assets] Failed to delete temporary cache: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\502.png
+    at console.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@sentry\src\instrument\console.ts:40:20)
+    at CustomConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1510)
+    at Asset.reset (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\asset.ccc:1:3259)
+    at ImportTask.importAsset (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\task.ccc:1:2273)
+    at ImportTask.exec (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\task.ccc:1:731)
+    at ParallelQueue._generate (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\asset-db.ccc:1:2677)
+2025-5-26 18:00:26 - warn: [Assets] EBUSY: resource busy or locked, unlink 'D:\CODE\cocos_workspace\背包英雄\library\26\26fde536-d9c6-4db7-afb7-54009e2f3ee4.json'Error: EBUSY: resource busy or locked, unlink 'D:\CODE\cocos_workspace\背包英雄\library\26\26fde536-d9c6-4db7-afb7-54009e2f3ee4.json'
+2025-5-26 18:00:27 - warn: [Assets] Failed to delete temporary cache: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\502.png@6c48aWarn: [Assets] Failed to delete temporary cache: D:\CODE\cocos_workspace\背包英雄\assets\resources\Game\Weapon\502.png@6c48a
+    at console.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@sentry\src\instrument\console.ts:40:20)
+    at CustomConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1510)
+    at VirtualAsset.reset (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\asset.ccc:1:3259)
+    at Asset.reset (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\asset.ccc:1:3504)
+    at ImportTask.importAsset (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\task.ccc:1:2273)
+    at ImportTask.exec (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\task.ccc:1:731)
+    at ParallelQueue._generate (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@editor\asset-db\libs\asset-db.ccc:1:2677)
+2025-5-26 18:00:27 - warn: [Assets] EBUSY: resource busy or locked, unlink 'D:\CODE\cocos_workspace\背包英雄\library\26\26fde536-d9c6-4db7-afb7-54009e2f3ee4@6c48a.json'Error: EBUSY: resource busy or locked, unlink 'D:\CODE\cocos_workspace\背包英雄\library\26\26fde536-d9c6-4db7-afb7-54009e2f3ee4@6c48a.json'
