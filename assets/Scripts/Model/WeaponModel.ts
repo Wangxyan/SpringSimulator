@@ -6,6 +6,11 @@ export class WeaponCfg {
     Name: string;
     Description: string;
     Res: string;
+    /*属性*/
+    charm: number;
+    knowledge: number;
+    talent: number;
+    wealth: number;
     //物品组
     weaponGroupNum: number;
     itemType: string;

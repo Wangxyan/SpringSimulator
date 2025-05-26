@@ -223,6 +223,11 @@ export class GridData {
         return Array.from(this._gridItemData.keys());
     }
 
+    /*获取武器的属性加成*/
+    getGridItemValves() {
+        
+    }
+
     /*获取携带的武器Map数据  */
     getGridItemMapData() {
         return this._gridItemData;
@@ -395,6 +400,8 @@ export class GridData {
         return this._instance;
     }
 
+    
+
 }
 
 
@@ -410,5 +417,3 @@ export class GridObj {
     row: number;//行
     col: number;//列
 }
-
-

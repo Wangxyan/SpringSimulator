@@ -23,6 +23,12 @@ System.register(["cc"], function (_export, _context) {
           this.Name = void 0;
           this.Description = void 0;
           this.Res = void 0;
+
+          /*属性*/
+          this.charm = void 0;
+          this.knowledge = void 0;
+          this.talent = void 0;
+          this.wealth = void 0;
           //物品组
           this.weaponGroupNum = void 0;
           this.itemType = void 0;

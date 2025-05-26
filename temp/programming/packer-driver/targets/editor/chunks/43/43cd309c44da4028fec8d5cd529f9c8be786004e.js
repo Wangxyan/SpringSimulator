@@ -303,6 +303,10 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
         getGridItemDataKeys() {
           return Array.from(this._gridItemData.keys());
         }
+        /*获取武器的属性加成*/
+
+
+        getGridItemValves() {}
         /*获取携带的武器Map数据  */
 
 

@@ -1,60 +1,17 @@
-2025-5-26 10:22:46 - log: Load engine in C:\ProgramData\cocos\editors\Creator\3.8.6\resources\resources\3d\engine
-2025-5-26 10:22:46 - log: Register native engine in C:\ProgramData\cocos\editors\Creator\3.8.6\resources\resources\3d\engine\native
-2025-5-26 10:22:46 - log: Request namespace: device-list
-2025-5-26 10:22:53 - info: [PreviewInEditor] preview process is ready
-2025-5-26 10:22:54 - log: [Scene] meshopt wasm decoder initialized
-2025-5-26 10:22:54 - log: [Scene] [box2d]:box2d wasm lib loaded.
-2025-5-26 10:22:54 - log: [Scene] [bullet]:bullet wasm lib loaded.
-2025-5-26 10:22:54 - log: [Scene] [PHYSICS]: using builtin.
-2025-5-26 10:22:54 - log: [Scene] Cocos Creator v3.8.6
-2025-5-26 10:22:54 - log: [Scene] Using legacy pipeline
-2025-5-26 10:22:54 - log: [Scene] Forward render pipeline initialized.
-2025-5-26 10:22:54 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to builtin.
-2025-5-26 11:10:41 - warn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the scriptWarn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the script
+2025-5-26 15:42:40 - log: Load engine in C:\ProgramData\cocos\editors\Creator\3.8.6\resources\resources\3d\engine
+2025-5-26 15:42:40 - log: Register native engine in C:\ProgramData\cocos\editors\Creator\3.8.6\resources\resources\3d\engine\native
+2025-5-26 15:42:41 - log: Request namespace: device-list
+2025-5-26 15:42:49 - log: [Scene] meshopt wasm decoder initialized
+2025-5-26 15:42:49 - log: [Scene] [bullet]:bullet wasm lib loaded.
+2025-5-26 15:42:49 - log: [Scene] [box2d]:box2d wasm lib loaded.
+2025-5-26 15:42:49 - log: [Scene] [PHYSICS]: using builtin.
+2025-5-26 15:42:49 - log: [Scene] Cocos Creator v3.8.6
+2025-5-26 15:42:49 - log: [Scene] Using legacy pipeline
+2025-5-26 15:42:49 - log: [Scene] Forward render pipeline initialized.
+2025-5-26 15:42:49 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to builtin.
+2025-5-26 16:10:47 - warn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the scriptWarn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the script
     at console.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@sentry\src\instrument\console.ts:40:20)
     at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1510)
     at findVsCode (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3546)
     at Object.openCode [as open] (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3282)
     at Ipc.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\ipc.ccc:1:530)
-2025-5-26 11:12:32 - warn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the scriptWarn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the script
-    at console.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@sentry\src\instrument\console.ts:40:20)
-    at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1510)
-    at findVsCode (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3546)
-    at Object.openCode [as open] (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3282)
-    at Ipc.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\ipc.ccc:1:530)
-2025-5-26 11:13:14 - warn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the scriptWarn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the script
-    at console.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@sentry\src\instrument\console.ts:40:20)
-    at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1510)
-    at findVsCode (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3546)
-    at Object.openCode [as open] (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3282)
-    at Ipc.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\ipc.ccc:1:530)
-2025-5-26 11:28:43 - warn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the scriptWarn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the script
-    at console.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@sentry\src\instrument\console.ts:40:20)
-    at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1510)
-    at findVsCode (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3546)
-    at Object.openCode [as open] (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3282)
-    at Ipc.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\ipc.ccc:1:530)
-2025-5-26 14:17:58 - warn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the scriptWarn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the script
-    at console.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@sentry\src\instrument\console.ts:40:20)
-    at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1510)
-    at findVsCode (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3546)
-    at Object.openCode [as open] (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3282)
-    at Ipc.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\ipc.ccc:1:530)
-2025-5-26 14:24:39 - warn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the scriptWarn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the script
-    at console.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@sentry\src\instrument\console.ts:40:20)
-    at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1510)
-    at findVsCode (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3546)
-    at Object.openCode [as open] (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3282)
-    at Ipc.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\ipc.ccc:1:530)
-2025-5-26 14:44:28 - warn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the scriptWarn: [Assets] Please set the application in {preferences} -> {program} -> {scriptEditor} to better open the script
-    at console.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@sentry\src\instrument\console.ts:40:20)
-    at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1510)
-    at findVsCode (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3546)
-    at Object.openCode [as open] (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\modules\engine-extensions\extensions\engine-extends\dist\handler\utils.ccc:1:3282)
-    at Ipc.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\builtin\asset-db\dist\worker\ipc.ccc:1:530)
-2025-5-26 14:59:06 - log: waiting for script compile ...
-2025-5-26 15:39:17 - error: Object has been destroyedTypeError: Object has been destroyed
-    at WebContents._.send (node:electron/js2c/browser_init:2:74130)
-    at WindowSender.immediately (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@base\electron-base-ipc\dist\sender.ccc:1:2082)
-    at Immediate.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.6\resources\app.asar\node_modules\@base\electron-base-ipc\dist\sender.ccc:1:2008)
-    at processImmediate (node:internal/timers:478:21)
