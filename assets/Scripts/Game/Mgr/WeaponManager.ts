@@ -166,8 +166,8 @@ export class WeaponManager extends Component {
         layout.constraintNum = 2; // 2列  
 
         // 设置间距  
-        layout.spacingX = 30;
-        layout.spacingY = 30;
+        layout.spacingX = 50;
+        layout.spacingY = 50;
 
         layout.updateLayout(true);
     }

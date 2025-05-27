@@ -38,7 +38,7 @@
       "uuid": "fb35be1e-4e61-457b-96fa-558ab85f72f2"
     },
     "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\default_ui": {
-      "time": 1748174328197.062,
+      "time": 1748316879147.1677,
       "uuid": "0138f626-ed40-4605-9404-31e966cf14b9"
     },
     "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\dependencies": {
@@ -3479,6 +3479,41 @@
     },
     "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\dependencies\\textures\\lut\\original-color-grading.png.meta": {
       "time": 1748174328202.062
+    },
+    "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\default_ui\\dotBody.png": {
+      "time": 1748315408631.8118,
+      "uuid": "5c976bb0-ad78-4aa9-9937-d26409535419"
+    },
+    "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\default_ui\\head.png": {
+      "time": 1748316656943.6196,
+      "uuid": "19bfbd70-5bc5-4fb9-b94f-5e188e4847f1"
+    },
+    "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\default_ui\\head2.png": {
+      "time": 1748316861958.9534,
+      "uuid": "97752993-97f2-4821-9533-943027bbf4f4"
+    },
+    "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\default_ui\\phoneUI.png": {
+      "time": 1748315916767.953,
+      "uuid": "a922a866-274b-465e-8307-cfa55c908f5a"
+    },
+    "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\default_ui\\popBody.png": {
+      "time": 1748315360563.4739,
+      "uuid": "62e74aa4-49b5-4277-9aa5-0a8fcb5e1ce5"
+    },
+    "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\default_ui\\dotBody.png.meta": {
+      "time": 1748315563245.3474
+    },
+    "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\default_ui\\head.png.meta": {
+      "time": 1748316670641.9368
+    },
+    "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\default_ui\\head2.png.meta": {
+      "time": 1748316879240.788
+    },
+    "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\default_ui\\popBody.png.meta": {
+      "time": 1748315563244.3452
+    },
+    "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.6\\resources\\resources\\3d\\engine\\editor\\assets\\default_ui\\phoneUI.png.meta": {
+      "time": 1748315947020.4612
     }
   },
   "missing": {}

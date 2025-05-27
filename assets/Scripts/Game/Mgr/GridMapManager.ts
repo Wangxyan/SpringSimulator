@@ -56,12 +56,12 @@ export class GridMapManager extends Component {
 
     
     // 计时器预设
-    private _countdownTime: number = 60;  // 初始倒计时60秒（可根据需求调整）
+    private _countdownTime: number = 63;  // 初始倒计时60秒（可根据需求调整）
     private _isCounting: boolean = false;  // 计时器是否运行中
 
 
     private _gridRes: Array<string> = ['bag1', 'bag1', 'bag3', 'bag5', 'bag5', 'bag6', 'bag6', 'bag7', 'bag7', 'bag8', 'bag8', 'bag9', 'bag']; //背包背景图
-    private _padding: number = 90;//周围内边距距离
+    private _padding: number = 220;//周围内边距距离
 
     private startPoint: GridObj = null; //拥有格子gridList 
     private _isTouch: boolean = false;//是否被点击
@@ -81,12 +81,13 @@ export class GridMapManager extends Component {
         // 初始显示属性总和
         this.updateAttributeDisplay();
         // 新增：初始化倒计时显示
-        this._countdownTime = 60;  // 重置为60秒
+        this._countdownTime = 65;  // 重置为60秒
         this._isCounting = true;   // 启动计时（或根据实际逻辑控制启动时机）
         if (this.countdownLabel) {
             this.countdownLabel.string = this._countdownTime.toString();
         }
     }
+
 
     /* 初始拥有格子在背景格子中的位置 */
     initStatPoint() {
@@ -916,6 +917,7 @@ export class GridMapManager extends Component {
 
     // 新增：每帧更新计时器
     update(deltaTime: number) {
+        this.updateAttributeDisplay(); // 每帧调用属性更新
         if (this._isCounting && this._countdownTime > 0) {
             this._countdownTime -= deltaTime;
             // 更新UI显示（保留2位小数或取整）
@@ -929,6 +931,7 @@ export class GridMapManager extends Component {
                  this.onCountdownEnd();  // 触发倒计时结束逻辑
             }
         }
+        
     }
     private onCountdownEnd() {
         // 跳转场景（替换为实际场景名称）
@@ -955,7 +958,7 @@ export class GridMapManager extends Component {
         EventListener.on(GameEvent.CLEAR_AREA_DATA, this.onClearAreaData, this);
         EventListener.on(GameEvent.PLACE_GRID_FINISH, this.onPlaceGridFinish, this);
 
-        EventListener.on(GameEvent.WEAPON_PLACE, this.updateAttributeDisplay, this);  // 武器放置事件
+        EventListener.on(GameEvent.WEAPON_PlACE, this.updateAttributeDisplay, this);  // 武器放置事件
         EventListener.on(GameEvent.WEAPON_REMOVE, this.updateAttributeDisplay, this);  // 武器移除事件
         EventListener.on(GameEvent.WEAPON_UPGRADE, this.updateAttributeDisplay, this);  // 武器合成事件
         EventListener.on(GameEvent.REFRESH_ATTRIBUTES, this.updateAttributeDisplay, this); //属性更新时间

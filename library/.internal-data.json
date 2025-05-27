@@ -4020,5 +4020,130 @@
       ]
     },
     "versionCode": 1
+  },
+  "5c976bb0-ad78-4aa9-9937-d26409535419": {
+    "url": "db://internal/default_ui/dotBody.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "19bfbd70-5bc5-4fb9-b94f-5e188e4847f1": {
+    "url": "db://internal/default_ui/head.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "97752993-97f2-4821-9533-943027bbf4f4": {
+    "url": "db://internal/default_ui/head2.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "a922a866-274b-465e-8307-cfa55c908f5a": {
+    "url": "db://internal/default_ui/phoneUI.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "62e74aa4-49b5-4277-9aa5-0a8fcb5e1ce5": {
+    "url": "db://internal/default_ui/popBody.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "19bfbd70-5bc5-4fb9-b94f-5e188e4847f1@6c48a": {
+    "url": "db://internal/default_ui/head.png@6c48a",
+    "value": {
+      "depends": [
+        "19bfbd70-5bc5-4fb9-b94f-5e188e4847f1"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a922a866-274b-465e-8307-cfa55c908f5a@6c48a": {
+    "url": "db://internal/default_ui/phoneUI.png@6c48a",
+    "value": {
+      "depends": [
+        "a922a866-274b-465e-8307-cfa55c908f5a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "97752993-97f2-4821-9533-943027bbf4f4@6c48a": {
+    "url": "db://internal/default_ui/head2.png@6c48a",
+    "value": {
+      "depends": [
+        "97752993-97f2-4821-9533-943027bbf4f4"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5c976bb0-ad78-4aa9-9937-d26409535419@6c48a": {
+    "url": "db://internal/default_ui/dotBody.png@6c48a",
+    "value": {
+      "depends": [
+        "5c976bb0-ad78-4aa9-9937-d26409535419"
+      ]
+    },
+    "versionCode": 1
+  },
+  "62e74aa4-49b5-4277-9aa5-0a8fcb5e1ce5@6c48a": {
+    "url": "db://internal/default_ui/popBody.png@6c48a",
+    "value": {
+      "depends": [
+        "62e74aa4-49b5-4277-9aa5-0a8fcb5e1ce5"
+      ]
+    },
+    "versionCode": 1
+  },
+  "5c976bb0-ad78-4aa9-9937-d26409535419@f9941": {
+    "url": "db://internal/default_ui/dotBody.png@f9941",
+    "value": {
+      "depends": [
+        "5c976bb0-ad78-4aa9-9937-d26409535419@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "19bfbd70-5bc5-4fb9-b94f-5e188e4847f1@f9941": {
+    "url": "db://internal/default_ui/head.png@f9941",
+    "value": {
+      "depends": [
+        "19bfbd70-5bc5-4fb9-b94f-5e188e4847f1@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "97752993-97f2-4821-9533-943027bbf4f4@f9941": {
+    "url": "db://internal/default_ui/head2.png@f9941",
+    "value": {
+      "depends": [
+        "97752993-97f2-4821-9533-943027bbf4f4@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "62e74aa4-49b5-4277-9aa5-0a8fcb5e1ce5@f9941": {
+    "url": "db://internal/default_ui/popBody.png@f9941",
+    "value": {
+      "depends": [
+        "62e74aa4-49b5-4277-9aa5-0a8fcb5e1ce5@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "a922a866-274b-465e-8307-cfa55c908f5a@f9941": {
+    "url": "db://internal/default_ui/phoneUI.png@f9941",
+    "value": {
+      "depends": [
+        "a922a866-274b-465e-8307-cfa55c908f5a@6c48a"
+      ]
+    },
+    "versionCode": 1
   }
 }

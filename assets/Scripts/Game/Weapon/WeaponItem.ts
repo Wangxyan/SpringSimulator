@@ -216,7 +216,7 @@ export class WeaponItem extends BaseComponent {
             this.level.string = `Lv${this._weaponCfg.Level}`;
             GridData.instance.updateGridItemData(weaponKey, this._weaponCfg.Id);
             //播放合成特效
-            this.setSynEffect();
+            // this.setSynEffect();
             //设置资源
             this.setWeaponIcon();
         }

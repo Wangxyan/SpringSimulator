@@ -51,7 +51,7 @@ System.register(["cc"], function (_export, _context) {
       //武器升级
       GameEvent.WEAPON_SHAKE = 'weaponShake';
       //武器抖动
-      GameEvent.WEAPON_PLACE = 'weaponPlace';
+      GameEvent.WEAPON_PlACE = 'weaponPlace';
       //武器放置完成
       GameEvent.WEAPON_REMOVE = 'weaponRemove';
       //武器卸下

@@ -125,7 +125,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
     execute: function () {
       _crd = true;
 
-      _cclegacy._RF.push({}, "f055eMwsR9KHajpUuNSOeCK", "Game-001", undefined);
+      _cclegacy._RF.push({}, "35320F+RDpDzbun++81dFTs", "Game-001", undefined);
 
       __checkObsolete__(['_decorator', 'Component', 'Node', 'screen', 'Size', 'view', 'UITransform', 'tween', 'v3', 'EventTouch', 'Input', 'director', 'Button', 'Sprite', 'instantiate', 'Prefab', 'Vec3', 'Tween']);
 

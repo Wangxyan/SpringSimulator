@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 6672.4049,
+      "mTimestamp": 6697.5509,
       "chunkId": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b",
       "imports": [
         {
@@ -976,7 +976,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 6025224.9444,
+      "mTimestamp": 8498.3247,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
@@ -2170,7 +2170,7 @@
           }
         },
         {
-          "value": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Scenes/Game.ts",
+          "value": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Scenes/Game-001.ts",
           "resolved": "__unresolved_85",
           "loc": {
             "start": {
@@ -2179,35 +2179,49 @@
             },
             "end": {
               "line": 5,
-              "column": 10987
+              "column": 10991
+            }
+          }
+        },
+        {
+          "value": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Scenes/Game.ts",
+          "resolved": "__unresolved_86",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 11007
+            },
+            "end": {
+              "line": 5,
+              "column": 11107
             }
           }
         },
         {
           "value": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Scenes/Game_1.ts",
-          "resolved": "__unresolved_86",
+          "resolved": "__unresolved_87",
           "loc": {
             "start": {
               "line": 5,
-              "column": 11003
+              "column": 11123
             },
             "end": {
               "line": 5,
-              "column": 11105
+              "column": 11225
             }
           }
         },
         {
           "value": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Scenes/Load.ts",
-          "resolved": "__unresolved_87",
+          "resolved": "__unresolved_88",
           "loc": {
             "start": {
               "line": 5,
-              "column": 11121
+              "column": 11241
             },
             "end": {
               "line": 5,
-              "column": 11221
+              "column": 11341
             }
           }
         }
@@ -2806,6 +2820,13 @@
           "resolved": {
             "type": "module",
             "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Popup/Weapon/WeaponDetailPopup.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Scenes/Game-001.ts"
           },
           "messages": []
         },
@@ -5600,7 +5621,7 @@
     },
     "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Data/GameData.ts": {
       "mTimestamp": {
-        "mtime": 1748276405074.8777,
+        "mtime": 1748281718343.7422,
         "uuid": "1d101990-6199-47e5-880d-0d31e91c538d"
       },
       "chunkId": "dfddd4815a6f0943c74144424ed23b3e3d5978a1",
@@ -5675,7 +5696,7 @@
     },
     "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Data/GridData.ts": {
       "mTimestamp": {
-        "mtime": 1748276403276.9497,
+        "mtime": 1748282099387.8513,
         "uuid": "fe537a22-f782-4f56-8ebd-fc50c71b3860"
       },
       "chunkId": "43cd309c44da4028fec8d5cd529f9c8be786004e",
@@ -6445,7 +6466,7 @@
     },
     "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Event/GameEvent.ts": {
       "mTimestamp": {
-        "mtime": 1748279647691.6133,
+        "mtime": 1748283423811.928,
         "uuid": "d5d0d63f-f3d3-4464-aa7b-3d3c5a33b18d"
       },
       "chunkId": "bc92cd5e126642563f7a5b71f252dbb2bfe5f615",
@@ -7727,7 +7748,7 @@
     },
     "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Mgr/GridMapManager.ts": {
       "mTimestamp": {
-        "mtime": 1748280291119.3428,
+        "mtime": 1748317916121.3596,
         "uuid": "c4c63093-53ee-4d73-9c8c-83e0399bd783"
       },
       "chunkId": "95eb34543751f41a4eee198384855da1e116cee8",
@@ -8651,7 +8672,7 @@
     },
     "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Mgr/WeaponManager.ts": {
       "mTimestamp": {
-        "mtime": 1748229528388.1284,
+        "mtime": 1748283181760.2588,
         "uuid": "8979318f-3aa3-45a8-887e-7b5442eefa1d"
       },
       "chunkId": "6c371e21a77cf1e0d151bf9efb7d843044ac8670",
@@ -10059,7 +10080,7 @@
     },
     "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Game/Weapon/WeaponItem.ts": {
       "mTimestamp": {
-        "mtime": 1718709974000,
+        "mtime": 1748314562273.9558,
         "uuid": "25dfd9f6-3516-4f28-b669-20ec18f39c22"
       },
       "chunkId": "1a81ebb332562dd117a7d25386cfdfb40039c907",
@@ -10628,7 +10649,7 @@
     },
     "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Model/WeaponModel.ts": {
       "mTimestamp": {
-        "mtime": 1748247160434.6526,
+        "mtime": 1748294864994.6604,
         "uuid": "cef42fcb-1eb7-4d77-9ac6-5ce45fb514cc"
       },
       "chunkId": "f77ee7f0a98ef8afbde76c6b987e22d3532157f3",
@@ -12582,7 +12603,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1748274269734,
+      "mTimestamp": 1748323446146,
       "chunkId": "6a5019a719a9014c047e67aa1cf34453ab8392ce",
       "imports": [],
       "type": "esm",
@@ -12591,7 +12612,7 @@
     "file:///D:/CODE/cocos_workspace/%E8%83%8C%E5%8C%85%E8%8B%B1%E9%9B%84/assets/Scripts/Scenes/Game-001.ts": {
       "mTimestamp": {
         "mtime": 1718709974000,
-        "uuid": "f055e330-b11f-4a1d-a8e9-52e35239e08a"
+        "uuid": "3532017e-443a-43cd-bba7-fbef357454ec"
       },
       "chunkId": "8521f909e7e06b96aed1a31b28ccfc90ebab66d6",
       "imports": [

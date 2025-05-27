@@ -370,8 +370,8 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
             (_crd && GridData === void 0 ? (_reportPossibleCrUseOfGridData({
               error: Error()
             }), GridData) : GridData).instance.updateGridItemData(weaponKey, this._weaponCfg.Id); //播放合成特效
-
-            this.setSynEffect(); //设置资源
+            // this.setSynEffect();
+            //设置资源
 
             this.setWeaponIcon();
           }

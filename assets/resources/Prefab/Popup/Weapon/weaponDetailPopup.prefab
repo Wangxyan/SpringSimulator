@@ -40,7 +40,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 0,
+      "y": -6.7255,
       "z": 0
     },
     "_lrot": {
@@ -93,7 +93,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 0,
+      "y": -21.2115,
       "z": 0
     },
     "_lrot": {
@@ -133,8 +133,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 750,
-      "height": 1334
+      "width": 1920,
+      "height": 1540.439
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -251,7 +251,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 0,
+      "y": -41.905,
       "z": 0
     },
     "_lrot": {
@@ -425,7 +425,7 @@
       "__type__": "cc.Quat",
       "x": 0,
       "y": 0,
-      "z": -0.17364817766693033,
+      "z": -0.1736481776669303,
       "w": 0.984807753012208
     },
     "_lscale": {
@@ -458,8 +458,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 44,
-      "height": 158
+      "width": 80,
+      "height": 180
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -698,7 +698,7 @@
       "__id__": 12
     },
     "_children": [],
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 26
@@ -1124,7 +1124,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": -371.675,
+      "y": -304.419,
       "z": 0
     },
     "_lrot": {
@@ -1323,8 +1323,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 301,
-      "height": 126
+      "width": 319.1485714285714,
+      "height": 146.43
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -1355,17 +1355,17 @@
     "_color": {
       "__type__": "cc.Color",
       "r": 255,
-      "g": 255,
-      "b": 255,
+      "g": 180,
+      "b": 138,
       "a": 255
     },
     "_spriteFrame": {
-      "__uuid__": "5a21866d-89d1-455a-8f40-d59b10dbe07b@f9941",
+      "__uuid__": "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
       "__expectedType__": "cc.SpriteFrame"
     },
     "_type": 0,
     "_fillType": 0,
-    "_sizeMode": 2,
+    "_sizeMode": 0,
     "_fillCenter": {
       "__type__": "cc.Vec2",
       "x": 0,
@@ -1435,7 +1435,9 @@
     "_disabledSprite": null,
     "_duration": 0.1,
     "_zoomScale": 1.1,
-    "_target": null,
+    "_target": {
+      "__id__": 42
+    },
     "_id": ""
   },
   {
@@ -1579,8 +1581,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 750,
-      "height": 1334
+      "width": 749.9,
+      "height": 1320.549
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",

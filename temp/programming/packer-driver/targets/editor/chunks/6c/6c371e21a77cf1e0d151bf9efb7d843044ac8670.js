@@ -329,8 +329,8 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
           layout.constraintNum = 2; // 2列  
           // 设置间距  
 
-          layout.spacingX = 30;
-          layout.spacingY = 30;
+          layout.spacingX = 50;
+          layout.spacingY = 50;
           layout.updateLayout(true);
         }
         /* 添加到卸下武器列表 */

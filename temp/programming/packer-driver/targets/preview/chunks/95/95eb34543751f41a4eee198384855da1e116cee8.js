@@ -160,13 +160,13 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
 
           // 作为锚点的特定Node
           // 计时器预设
-          this._countdownTime = 60;
+          this._countdownTime = 63;
           // 初始倒计时60秒（可根据需求调整）
           this._isCounting = false;
           // 计时器是否运行中
           this._gridRes = ['bag1', 'bag1', 'bag3', 'bag5', 'bag5', 'bag6', 'bag6', 'bag7', 'bag7', 'bag8', 'bag8', 'bag9', 'bag'];
           //背包背景图
-          this._padding = 90;
+          this._padding = 220;
           //周围内边距距离
           this.startPoint = null;
           //拥有格子gridList 
@@ -194,7 +194,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
 
           this.updateAttributeDisplay(); // 新增：初始化倒计时显示
 
-          this._countdownTime = 60; // 重置为60秒
+          this._countdownTime = 65; // 重置为60秒
 
           this._isCounting = true; // 启动计时（或根据实际逻辑控制启动时机）
 
@@ -1338,6 +1338,8 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
 
 
         update(deltaTime) {
+          this.updateAttributeDisplay(); // 每帧调用属性更新
+
           if (this._isCounting && this._countdownTime > 0) {
             this._countdownTime -= deltaTime; // 更新UI显示（保留2位小数或取整）
             // this.countdownLabel.string = Math.ceil(this._countdownTime).toString();
@@ -1411,7 +1413,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
             error: Error()
           }), EventListener) : EventListener).on((_crd && GameEvent === void 0 ? (_reportPossibleCrUseOfGameEvent({
             error: Error()
-          }), GameEvent) : GameEvent).WEAPON_PLACE, this.updateAttributeDisplay, this); // 武器放置事件
+          }), GameEvent) : GameEvent).WEAPON_PlACE, this.updateAttributeDisplay, this); // 武器放置事件
 
           (_crd && EventListener === void 0 ? (_reportPossibleCrUseOfEventListener({
             error: Error()

@@ -196,7 +196,7 @@
       "weaponGroupNum": 1,
       "itemType": 1,
       "Type": "2_1",
-      "Level": 3,
+      "Level": 4,
       "SkillId": 103,
       "Points": [
         [
@@ -210,10 +210,15 @@
     },
     {
       "Id": 2001,
-      "Name": "普通斧头1",
+      "Name": "家养土鸡",
+      "Description": "一只土鸡，\n看起来才艺很多的样子\n带上它可以使你的才艺小幅提升",
+      "charm": 0,
+      "knowledge": 0,
+      "talent": 2,
+      "wealth": 0,
       "Res": "201",
       "weaponGroupNum": 2,
-      "itemType": 0,
+      "itemType": 1,
       "Type": "2_2",
       "Level": 1,
       "SkillId": 201,
@@ -231,34 +236,18 @@
     },
     {
       "Id": 2002,
-      "Name": "普通斧头2",
+      "Name": "家养土鹅",
+      "Description": "一只土鹅，\n（有这个叫法吗？）\n带上它可以使你的才艺和魅力大幅提升",
+      "charm": 4,
+      "knowledge": 0,
+      "talent": 4,
+      "wealth": 0,
       "Res": "202",
       "weaponGroupNum": 2,
       "itemType": 1,
       "Type": "2_2",
       "Level": 2,
       "SkillId": 202,
-      "Points": [
-        [
-          1,
-          1
-        ],
-        [
-          0,
-          1
-        ]
-      ],
-      "options_num": 10
-    },
-    {
-      "Id": 2003,
-      "Name": "普通斧头3",
-      "Res": "203",
-      "weaponGroupNum": 2,
-      "itemType": 1,
-      "Type": "2_2",
-      "Level": 3,
-      "SkillId": 203,
       "Points": [
         [
           1,
@@ -315,7 +304,12 @@
     },
     {
       "Id": 3003,
-      "Name": "普通球3",
+      "Name": "红包pro max",
+      "Description": "比较少见的红包，\n（太罕见了吧）\n带上它会使你的财富和魅力大幅提升",
+      "charm": 9,
+      "knowledge": 0,
+      "talent": 0,
+      "wealth": 9,
       "Res": "303",
       "weaponGroupNum": 3,
       "itemType": 1,
@@ -335,7 +329,7 @@
       "Description": "传说中的“尚方宝刀”，\n（不知道是哪个朝代的）\n带上它会使你的才艺小幅提升",
       "charm": 0,
       "knowledge": 0,
-      "talent": 3,
+      "talent": 1,
       "wealth": 0,
       "Res": "401",
       "weaponGroupNum": 4,
@@ -375,7 +369,12 @@
     },
     {
       "Id": 4003,
-      "Name": "普通刀3",
+      "Name": "尚方双刀+6",
+      "Description": "传奇中的“尚方双刀”，\n据说有一刀999的力量\n带上它会使你的才艺大幅提升",
+      "charm": 0,
+      "knowledge": 0,
+      "talent": 9,
+      "wealth": 0,
       "Res": "403",
       "weaponGroupNum": 4,
       "itemType": 1,
@@ -433,22 +432,6 @@
       "options_num": 10
     },
     {
-      "Id": 5003,
-      "Name": "手套3",
-      "Res": "503",
-      "weaponGroupNum": 5,
-      "itemType": 1,
-      "Type": "1_1",
-      "Level": 3,
-      "SkillId": 503,
-      "Points": [
-        [
-          1
-        ]
-      ],
-      "options_num": 10
-    },
-    {
       "Id": 5004,
       "Name": "手套4",
       "Res": "504",
@@ -466,10 +449,15 @@
     },
     {
       "Id": 6001,
-      "Name": "手里剑1",
+      "Name": "牛奶",
+      "Description": "一盒牛奶，\n就是牛的奶，\n带上它会使你的魅力少许提升",
+      "charm": 1,
+      "knowledge": 0,
+      "talent": 0,
+      "wealth": 0,
       "Res": "601",
       "weaponGroupNum": 6,
-      "itemType": 0,
+      "itemType": 1,
       "Type": "1_1",
       "Level": 1,
       "SkillId": 601,
@@ -482,7 +470,12 @@
     },
     {
       "Id": 6002,
-      "Name": "手里剑2",
+      "Name": "特仑苏",
+      "Description": "一盒很贵的牛奶，\n也是牛的奶，\n带上它会使你的魅力明显提升",
+      "charm": 3,
+      "knowledge": 0,
+      "talent": 0,
+      "wealth": 0,
       "Res": "602",
       "weaponGroupNum": 6,
       "itemType": 1,
@@ -503,7 +496,7 @@
       "weaponGroupNum": 6,
       "itemType": 1,
       "Type": "1_1",
-      "Level": 3,
+      "Level": 4,
       "SkillId": 603,
       "Points": [
         [
@@ -514,10 +507,15 @@
     },
     {
       "Id": 7001,
-      "Name": "弓箭1",
+      "Name": "劲酒",
+      "Description": "一瓶劲酒，\n“劲酒虽劲，但是很劲”，\n带上它会使你的财富小幅提升",
+      "charm": 3,
+      "knowledge": 0,
+      "talent": 0,
+      "wealth": 0,
       "Res": "701",
       "weaponGroupNum": 7,
-      "itemType": 0,
+      "itemType": 1,
       "Type": "2_1",
       "Level": 1,
       "SkillId": 701,
@@ -533,7 +531,12 @@
     },
     {
       "Id": 7002,
-      "Name": "弓箭2",
+      "Name": "汾酒",
+      "Description": "一瓶汾酒，\n“合久必分，汾酒必喝”\n带上它会使你的财富明显提升",
+      "charm": 0,
+      "knowledge": 0,
+      "talent": 0,
+      "wealth": 3,
       "Res": "702",
       "weaponGroupNum": 7,
       "itemType": 1,
@@ -552,7 +555,12 @@
     },
     {
       "Id": 7003,
-      "Name": "弓箭3",
+      "Name": "茅台",
+      "Description": "一瓶看起来很贵的茅台，\n“酱香科技，震撼人心”\n带上它会使你的财富大幅提升",
+      "charm": 5,
+      "knowledge": 0,
+      "talent": 0,
+      "wealth": 5,
       "Res": "703",
       "weaponGroupNum": 7,
       "itemType": 1,
